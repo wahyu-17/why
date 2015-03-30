@@ -1,4 +1,4 @@
-## An unfinished list of compatible PS2 games that work on Play!:
+## An unfinished list of commercial PS2 games & their compatibility/status on Play!:
 
 **1.****In-game means somewhat playable past title screens** (including with graphics bugs, crashes, and other major problems)
 
