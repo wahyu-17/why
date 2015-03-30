@@ -33,6 +33,7 @@ Gran Turismo 3: A-Spec: **Nothing/crash**
 
 Gran Turismo 4: **Nothing/crash**
 
+Guilty Gear XX Accent Core Plus: **In-game**
 
 Half-life: **In-game**
 
