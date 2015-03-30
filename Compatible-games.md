@@ -8,7 +8,7 @@
 
 **4.Intro/title screen only means that you can load the game, control it somewhat, but can't actually get past title screens**
 
-**5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator**
+**5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
 
 Atelier Iris: Eternal Mana: **In-game**
