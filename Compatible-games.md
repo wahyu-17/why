@@ -25,6 +25,8 @@ Dark Cloud: **In-game** (graphics issues)
 
 Dark Cloud 2: **Intro only**
 
+Final Fantasy: Dirge of Cerberus: **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
+
 Final Fantasy X: **In-game** (SPU issues/not all builds)
 
 Final Fantasy X-2: **Loadable with FPS, but shows nothing**
