@@ -65,6 +65,8 @@ Romancing SaGa: **Intro only** (input bug)
 
 Shadow of the Colossus: **Loadable with FPS, but shows nothing**
 
+Sengoku Basara X: **Crash** - **SLPM-55008** - **29-Mar-2015**
+
 TimeSplitters: Future Perfect: **Intro/title screen only**
 
 Tales of the Abyss: **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
