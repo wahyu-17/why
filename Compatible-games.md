@@ -35,23 +35,27 @@ Gran Turismo 4: **Nothing/crash**
 
 Guilty Gear XX Accent Core Plus: **In-game**
 
-Half-life: **In-game**
+Half-Life: **In-game**
 
 Jak & Daxter: **Loadable with FPS, but shows nothing**
 
 Kingdom Hearts: **In-game** (graphics issues/crashes)
 
-Kingdom Heart 2: **Loadable with FPS, but shows nothing**
+Kingdom Hearts 2: **Loadable with FPS, but shows nothing**
 
 Kingdom Hearts 2: Final Mix: **Intro/title screen only**
 
 Metal Gear Solid 2: Sons of Liberty: **Loadable with FPS, but shows nothing**
 
-Metal Gear Solid 3: Snake Eater **Nothing/crash**
+Metal Gear Solid 3: Snake Eater: **Nothing/crash**
 
 Ratchet & Clank: **Nothing/crash**
 
+Romancing SaGa: **Intro only** (input bug)
+
 Shadow of the Colossus: **Loadable with FPS, but shows nothing**
+
+TimeSplitters: Future Perfect: **Intro/title screen only**
 
 Unreal Tournament: **In-game**
 
