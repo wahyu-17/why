@@ -11,7 +11,7 @@
 **5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
 
-Arcana Heart 2: **In-game** (stuck at certain screen) - **SLUS-21720** - **29-Mar-2015**
+Arcana Heart 2: **In-game** (stuck at certain screen when playing story mode) - **SLUS-21720** - **29-Mar-2015**
 
 Animaniacs: The Great Edgar Hunt: **Nothing/crash**
 
