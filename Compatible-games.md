@@ -11,6 +11,7 @@
 **5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
 
+Animaniacs: The Great Edgar Hunt: **Nothing/crash**
 
 Atelier Iris: Eternal Mana: **In-game**
 
