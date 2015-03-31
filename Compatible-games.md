@@ -51,6 +51,8 @@ Half-Life: **In-game**
 
 Jak & Daxter: **Loadable with FPS, but shows nothing**
 
+Katamari Damacy: **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
+
 Kingdom Hearts: **In-game** (graphics issues/crashes)
 
 Kingdom Hearts 2: **Loadable with FPS, but shows nothing**
