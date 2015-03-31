@@ -67,6 +67,8 @@ Shadow of the Colossus: **Loadable with FPS, but shows nothing**
 
 TimeSplitters: Future Perfect: **Intro/title screen only**
 
+Tales of the Abyss: **Nothing** - **SLUS-21386** - **29-Mar-2015**
+
 Unreal Tournament: **In-game**
 
 Wild Arms Alter Code: F: **In-game**
