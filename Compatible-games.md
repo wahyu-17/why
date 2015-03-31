@@ -11,7 +11,7 @@
 **5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
 
-Arcana Heart 2: **In-game** (stuck at certain screen when playing story mode, but other modes work fine) - **SLUS-21720** - **29-Mar-2015**
+Arcana Heart 2: **In-game** (stuck at certain screen when playing story mode, but other modes work fine) - **SLPM-55147** - **29-Mar-2015**
 
 Animaniacs: The Great Edgar Hunt: **Nothing/crash**
 
@@ -32,6 +32,8 @@ Final Fantasy X: **In-game** (SPU issues/not all builds)
 Final Fantasy X-2: **Loadable with FPS, but shows nothing**
 
 Final Fantasy XII: **Loadable with FPS, but shows nothing**
+
+Front Mission 4: **Crash** - **PBPX-95506** - **29-Mar-2015**
 
 Grandia II: **In-game**
 
