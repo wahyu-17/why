@@ -19,6 +19,8 @@
 | Castlevania: Curse of Darkness | **In-game**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
+| Dynasty Warriors 2 | **In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
+| Dynasty Warriors 5 | **In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
 | Final Fantasy: Dirge of Cerberus | **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
 | Final Fantasy X | **In-game** (SPU issues/not all builds)
 | Final Fantasy X-2 | **Loadable with FPS, but shows nothing**
@@ -40,8 +42,9 @@
 | Metal Gear Solid 3: Snake Eater | **Nothing/crash**
 | Ratchet & Clank | **Nothing/crash**
 | Romancing SaGa | **Intro only** (input bug)
-| Shadow of the Colossus | **Loadable with FPS, but shows nothing**
+| Samurai Warriors 2 | **In-game** (graphics issues, random hang-ups) - **SLPM-66307** - **29-Mar-2015**
 | Sengoku Basara X | **Crash** - **SLPM-55008** - **29-Mar-2015**
+| Shadow of the Colossus | **Loadable with FPS, but shows nothing**
 | TimeSplitters: Future Perfect | **Intro/title screen only**
 | Tales of the Abyss | **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
 | Unreal Tournament | **In-game**
