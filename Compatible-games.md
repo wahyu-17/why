@@ -26,6 +26,7 @@
 | Final Fantasy X-2 | **Loadable with FPS, but shows nothing**
 | Final Fantasy XII | **Loadable with FPS, but shows nothing**
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
+| Gradius V | **In-game** - **SLPM-62462** - **29-Mar-2015**
 | Grandia II | **In-game**
 | Grand Theft Auto 3 | **Loadable with FPS, but shows nothing**
 | Grand Theft Auto: Vice City | **Loadable with FPS, but shows nothing**
@@ -48,6 +49,7 @@
 | TimeSplitters: Future Perfect | **Intro/title screen only**
 | Tales of the Abyss | **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
 | Unreal Tournament | **In-game**
+| Valkyrie Profile 2 | **Intro/title screen only** - **SLUS-21452** - **29-Mar-2015**
 | Wild Arms Alter Code: F | **In-game**
 
 
