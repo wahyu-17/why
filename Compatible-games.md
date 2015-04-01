@@ -10,74 +10,42 @@
 
 **5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
-
-Arcana Heart 2: **In-game** (stuck at certain screen when playing story mode, but other modes work fine) - **SLPM-55147** - **29-Mar-2015**
-
-Animaniacs: The Great Edgar Hunt: **Nothing/crash**
-
-Atelier Iris: Eternal Mana: **In-game**
-
-Baldur's Gate: Dark Alliance: **In-game**
-
-Castlevania: Curse of Darkness: **In-game**
-
-Dark Cloud: **In-game** (graphics issues)
-
-Dark Cloud 2: **Intro only**
-
-Final Fantasy: Dirge of Cerberus: **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
-
-Final Fantasy X: **In-game** (SPU issues/not all builds)
-
-Final Fantasy X-2: **Loadable with FPS, but shows nothing**
-
-Final Fantasy XII: **Loadable with FPS, but shows nothing**
-
-Front Mission 4: **Crash** - **PBPX-95506** - **29-Mar-2015**
-
-Grandia II: **In-game**
-
-Grand Theft Auto 3: **Loadable with FPS, but shows nothing**
-
-Grand Theft Auto: Vice City: **Loadable with FPS, but shows nothing**
-
-Gran Turismo 3: A-Spec: **Nothing/crash**
-
-Gran Turismo 4: **Nothing/crash**
-
-Guilty Gear XX Accent Core Plus: **In-game**
-
-Half-Life: **In-game**
-
-Jak & Daxter: **Loadable with FPS, but shows nothing**
-
-Katamari Damacy: **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
-
-Kingdom Hearts: **In-game** (graphics issues/crashes)
-
-Kingdom Hearts 2: **Loadable with FPS, but shows nothing**
-
-Kingdom Hearts 2: Final Mix: **Intro/title screen only**
-
-Metal Gear Solid 2: Sons of Liberty: **Loadable with FPS, but shows nothing**
-
-Metal Gear Solid 3: Snake Eater: **Nothing/crash**
-
-Ratchet & Clank: **Nothing/crash**
-
-Romancing SaGa: **Intro only** (input bug)
-
-Shadow of the Colossus: **Loadable with FPS, but shows nothing**
-
-Sengoku Basara X: **Crash** - **SLPM-55008** - **29-Mar-2015**
-
-TimeSplitters: Future Perfect: **Intro/title screen only**
-
-Tales of the Abyss: **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
-
-Unreal Tournament: **In-game**
-
-Wild Arms Alter Code: F: **In-game**
+| Game | Status |
+|------|--------|
+| Arcana Heart 2 | **In-game** (stuck at certain screen when playing story mode, but other modes work fine) | **SLPM-55147** - **29-Mar-2015** |
+| Animaniacs: The Great Edgar Hunt | **Nothing/crash** |
+| Atelier Iris: Eternal Mana | **In-game**
+| Baldur's Gate: Dark Alliance | **In-game**
+| Castlevania: Curse of Darkness | **In-game**
+| Dark Cloud | **In-game** (graphics issues)
+| Dark Cloud 2 | **Intro only**
+| Final Fantasy: Dirge of Cerberus | **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
+| Final Fantasy X | **In-game** (SPU issues/not all builds)
+| Final Fantasy X-2 | **Loadable with FPS, but shows nothing**
+| Final Fantasy XII | **Loadable with FPS, but shows nothing**
+| Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
+| Grandia II | **In-game**
+| Grand Theft Auto 3 | **Loadable with FPS, but shows nothing**
+| Grand Theft Auto: Vice City | **Loadable with FPS, but shows nothing**
+| Gran Turismo 3: A-Spec | **Nothing/crash**
+| Gran Turismo 4 | **Nothing/crash**
+| Guilty Gear XX Accent Core Plus | **In-game**
+| Half-Life | **In-game**
+| Jak & Daxter | **Loadable with FPS, but shows nothing**
+| Katamari Damacy | **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
+| Kingdom Hearts |  **In-game** (graphics issues/crashes)
+| Kingdom Hearts 2 | **Loadable with FPS, but shows nothing**
+| Kingdom Hearts 2: Final Mix | **Intro/title screen only**
+| Metal Gear Solid 2: Sons of Liberty | **Loadable with FPS, but shows nothing**
+| Metal Gear Solid 3: Snake Eater | **Nothing/crash**
+| Ratchet & Clank | **Nothing/crash**
+| Romancing SaGa | **Intro only** (input bug)
+| Shadow of the Colossus | **Loadable with FPS, but shows nothing**
+| Sengoku Basara X | **Crash** - **SLPM-55008** - **29-Mar-2015**
+| TimeSplitters: Future Perfect | **Intro/title screen only**
+| Tales of the Abyss | **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
+| Unreal Tournament | **In-game**
+| Wild Arms Alter Code: F | **In-game**
 
 
 
