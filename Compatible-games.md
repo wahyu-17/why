@@ -19,11 +19,13 @@
 | Castlevania: Curse of Darkness | **In-game**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
+| Dragon Ball Z - Infinite World | **In-game** - **SLUS-21842** - **29-Mar-2015**
 | Dynasty Warriors 2 | **In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
 | Dynasty Warriors 5 | **In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
 | Final Fantasy: Dirge of Cerberus | **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
 | Final Fantasy X | **In-game** (SPU issues/not all builds)
 | Final Fantasy X-2 | **Loadable with FPS, but shows nothing**
+| Final Fantasy X-2 International + Last Mission | **In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
 | Final Fantasy XII | **Loadable with FPS, but shows nothing**
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
 | Gradius V | **In-game** - **SLPM-62462** - **29-Mar-2015**
