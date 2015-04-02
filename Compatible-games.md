@@ -16,8 +16,13 @@
 | Animaniacs: The Great Edgar Hunt | **Nothing/crash** |
 | Atelier Iris: Eternal Mana | **In-game**
 | Baldur's Gate: Dark Alliance | **In-game**
+| Beatmania | **Loadable with FPS, but shows nothing** - **SLUS-21239** - **2-Apr-2015**
 | Castlevania: Curse of Darkness | **In-game**
 | Crash Twinsanity | **Loadable with FPS, but shows nothing** - **SLUS-20909** - **29-Mar-2015**
+| Dance Dance Revolution Extreme | **Loadable with FPS, but shows nothing** - **SLUS_20916** - **2-Apr-2015**
+| Dance Dance Revolution Extreme 2 | **Loadable with FPS, but shows nothing** - **SLUS_21174** - **2-Apr-2015**
+| Dance Dance Revolution SuperNOVA | **Loadable with FPS, but shows nothing** - **SLUS_21377** - **2-Apr-2015**
+| Dance Dance Revolution SuperNOVA 2 | **Loadable with FPS, but shows nothing** - **SLUS_21608** - **2-Apr-2015**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
 | Dragon Ball Z - Infinite World | **In-game** - **SLUS-21842** - **29-Mar-2015**
