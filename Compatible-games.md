@@ -17,6 +17,7 @@
 | Atelier Iris: Eternal Mana | **In-game**
 | Baldur's Gate: Dark Alliance | **In-game**
 | Castlevania: Curse of Darkness | **In-game**
+| Crash Twinsanity | **Loadable with FPS, but shows nothing** - **SLUS-20909** - **29-Mar-2015**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
 | Dragon Ball Z - Infinite World | **In-game** - **SLUS-21842** - **29-Mar-2015**
