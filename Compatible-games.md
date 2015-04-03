@@ -50,12 +50,15 @@
 | Metal Gear Solid 2: Sons of Liberty | **Loadable with FPS, but shows nothing**
 | Metal Gear Solid 3: Snake Eater | **Nothing/crash**
 | Ratchet & Clank | **Nothing/crash**
+| Radiata Stories | **Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
 | Romancing SaGa | **Intro only** (input bug)
 | Samurai Warriors 2 | **In-game** (graphics issues, random hang-ups) - **SLPM-66307** - **29-Mar-2015**
 | Sengoku Basara X | **Crash** - **SLPM-55008** - **29-Mar-2015**
 | Shadow of the Colossus | **Loadable with FPS, but shows nothing**
+| Shining Tears | **Loadable with FPS** - **SLUS-21063** - **29-Mar-2015**
 | TimeSplitters: Future Perfect | **Intro/title screen only**
 | Tales of the Abyss | **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
+| Trapt | **Crash** - **SLUS-21255** - **29-Mar-2015**
 | Unreal Tournament | **In-game**
 | Valkyrie Profile 2 | **Intro/title screen only** - **SLUS-21452** - **29-Mar-2015**
 | Wild Arms Alter Code: F | **In-game**
