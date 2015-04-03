@@ -44,6 +44,7 @@
 | Half-Life | **In-game**
 | Jak & Daxter | **Loadable with FPS, but shows nothing**
 | Katamari Damacy | **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
+| Kamiwaza | **Loadable with FPS, but shows nothing** - **SLPM-66477** - **29-Mar-2015**
 | Kingdom Hearts |  **In-game** (graphics issues/crashes)
 | Kingdom Hearts 2 | **Loadable with FPS, but shows nothing**
 | Kingdom Hearts 2: Final Mix | **Intro/title screen only**
@@ -53,18 +54,14 @@
 | Radiata Stories | **Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
 | Romancing SaGa | **Intro only** (input bug)
 | Samurai Warriors 2 | **In-game** (graphics issues, random hang-ups) - **SLPM-66307** - **29-Mar-2015**
+| Sengoku Basara 2 Heroes | **Crash** - **SLPM-66848** - **29-Mar-2015**
 | Sengoku Basara X | **Crash** - **SLPM-55008** - **29-Mar-2015**
 | Shadow of the Colossus | **Loadable with FPS, but shows nothing**
 | Shining Tears | **Loadable with FPS** - **SLUS-21063** - **29-Mar-2015**
+| Spectral Gene | **Loadable with FPS;also gc/f** - **SLPM-66899** - **29-Mar-2015**
 | TimeSplitters: Future Perfect | **Intro/title screen only**
 | Tales of the Abyss | **Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
 | Trapt | **Crash** - **SLUS-21255** - **29-Mar-2015**
 | Unreal Tournament | **In-game**
 | Valkyrie Profile 2 | **Intro/title screen only** - **SLUS-21452** - **29-Mar-2015**
 | Wild Arms Alter Code: F | **In-game**
-
-
-
-
-
-
