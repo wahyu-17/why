@@ -29,10 +29,10 @@
 | Dynasty Warriors 2 | **In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
 | Dynasty Warriors 5 | **In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
 | Final Fantasy: Dirge of Cerberus | **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
-| Final Fantasy X | **In-game** (SPU issues/not all builds)
+| Final Fantasy X | **In-game** (SPU issues) - **SLUS-20312** - **29-Mar-2015**
 | Final Fantasy X-2 | **Loadable with FPS, but shows nothing**
 | Final Fantasy X-2 International + Last Mission | **In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
-| Final Fantasy XII | **Loadable with FPS, but shows nothing**
+| Final Fantasy XII | **In-game** (unstable) - **SLUS-20963** - **05-Apr-2015**
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
 | Gradius V | **In-game** - **SLPM-62462** - **29-Mar-2015**
 | Grandia II | **In-game**
@@ -45,7 +45,7 @@
 | Jak & Daxter | **Loadable with FPS, but shows nothing**
 | Katamari Damacy | **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
 | Kamiwaza | **Loadable with FPS, but shows nothing** - **SLPM-66477** - **29-Mar-2015**
-| Kingdom Hearts |  **In-game** (graphics issues/crashes)
+| Kingdom Hearts |  **In-game** (graphics issues) - **SLUS-20370** - **05-Apr-2015**
 | Kingdom Hearts 2 | **Loadable with FPS, but shows nothing**
 | Kingdom Hearts 2: Final Mix | **Intro/title screen only**
 | Metal Gear Solid 2: Sons of Liberty | **Loadable with FPS, but shows nothing**
