@@ -50,7 +50,7 @@
 | Kingdom Hearts 2: Final Mix | **Intro/title screen only**
 | Metal Gear Solid 2: Sons of Liberty | **Loadable with FPS, but shows nothing**
 | Metal Gear Solid 3: Snake Eater | **Nothing/crash**
-| Persona 3 FES | **Loadable with FPS** - **09-Apr-2015** 
+| Persona 3 FES | **Loadable with FPS, but shows nothing** - **09-Apr-2015** 
 | Ratchet & Clank | **Nothing/crash**
 | Radiata Stories | **Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
 | Romancing SaGa | **Intro only** (input bug)
