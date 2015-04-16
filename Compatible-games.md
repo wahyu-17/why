@@ -42,6 +42,7 @@
 | Gran Turismo 4 | **Nothing/crash**
 | Guilty Gear XX Accent Core Plus | **In-game**
 | Half-Life | **In-game**
+| Hot Shots Golf Fore! | **Loadable with FPS, but shows nothing** - **SCUS-97401** - **05-April-2015**
 | Jak & Daxter | **Loadable with FPS, but shows nothing**
 | Katamari Damacy | **Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
 | Kamiwaza | **Loadable with FPS, but shows nothing** - **SLPM-66477** - **29-Mar-2015**
