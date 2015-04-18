@@ -25,6 +25,7 @@
 | Dance Dance Revolution SuperNOVA 2 | **Loadable with FPS, but shows nothing** - **SLUS-21608** - **2-Apr-2015**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
+| Disgaea: Hour of Darkness | **In-game** (graphics issues) - **SLES-52458** - **12-April-2015**
 | Dragon Ball Z - Infinite World | **In-game** - **SLUS-21842** - **29-Mar-2015**
 | Dynasty Warriors 2 | **In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
 | Dynasty Warriors 5 | **In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
