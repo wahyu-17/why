@@ -25,6 +25,7 @@
 | Dance Dance Revolution SuperNOVA 2 | **Loadable with FPS, but shows nothing** - **SLUS-21608** - **2-Apr-2015**
 | Dark Cloud | **In-game** (graphics issues)
 | Dark Cloud 2 | **Intro only**
+| Dead to Rights | **Nothing/crash** - **SLUS-20220** - **19-April-2015**
 | Devil May Cry | **Nothing/crash** - **SLES-50358** - **20-Apr-2015**
 | Disgaea: Hour of Darkness | **In-game** (graphics issues) - **SLES-52458** - **12-April-2015**
 | Dragon Ball Z - Infinite World | **In-game** - **SLUS-21842** - **29-Mar-2015**
