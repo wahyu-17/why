@@ -32,8 +32,8 @@
 | Dynasty Warriors 2 | **In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
 | Dynasty Warriors 5 | **In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
 | Final Fantasy: Dirge of Cerberus | **Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
-| Final Fantasy X | **In-game** (SPU issues) - **SLUS-20312** - **29-Mar-2015**
-| Final Fantasy X-2 | **Intro/title screen only** - **SLUS-20672** - **24-April-2015/Self-compiled**
+| Final Fantasy X | **In-game** (SPU issues/save states needed) - **SLUS-20312** - **26-April-2015**
+| Final Fantasy X-2 | **In-game** (graphics issues) - **SLUS-20672** - **26-April-2015**
 | Final Fantasy X-2 International + Last Mission | **In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
 | Final Fantasy XII | **In-game** (unstable) - **SLUS-20963** - **05-Apr-2015**
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
