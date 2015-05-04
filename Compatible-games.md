@@ -132,6 +132,7 @@
 |Under the Skin|**Crashes** - **SLES_527.19**|
 | Unreal Tournament | **In-game**
 | Valkyrie Profile 2 | **Intro/title screen only** - **SLUS-21452** - **29-Mar-2015**
+|Virtua Fighter 4: Evolution | **In-game** - **SLES-51616** - **03-May-2015**
 |War of the Monsters|**Intro Only** - **SCUS_971.97**|
 |We Love Katamari|**Loadable with FPS** - **SLUS_212.30**|
 |Whiplash|**Loadable with FPS** - **SLES_519.58**|
