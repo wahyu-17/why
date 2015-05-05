@@ -97,6 +97,7 @@
 |Project Snowblind|**Crashes** - **SLES_528.59**|
 | Ratchet & Clank | **Nothing/crash**
 | Radiata Stories | **Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
+| Rayman M | **Intro Only** (crashes after displaying Ubisoft Logo) - **SLES_504.57**
 |Red Dead Revolver|**Loadable with FPS** - **SLES_524.78**|
 |Red Faction|**Title Screen** (freezes loading level) - **SLES_502.77**|
 |Red Faction 2|**Intro only** (crashes on title screen) - **SLES_511.33**|
