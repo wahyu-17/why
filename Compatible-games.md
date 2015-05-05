@@ -25,6 +25,7 @@
 |Bombastic|**Nothing/Crash** - **SLES_519.66**|
 |Bully|**Intro Only** - **SLES_535.61**|
 | Castlevania: Curse of Darkness | **In-game**|
+| Crash Nitro Kart | **Loadable with FPS, but shows nothing** - **SLES_515.11**
 | Crash Twinsanity | **Loadable with FPS, but shows nothing** - **SLUS-20909** - **29-Mar-2015**
 | Dance Dance Revolution Extreme | **Loadable with FPS, but shows nothing** - **SLUS-20916** - **2-Apr-2015**
 | Dance Dance Revolution Extreme 2 | **Loadable with FPS, but shows nothing** - **SLUS-21174** - **2-Apr-2015**
@@ -49,7 +50,8 @@
 | Final Fantasy X-2 | **In-game** (graphics issues) - **SLUS-20672** - **26-April-2015**
 | Final Fantasy X-2 International + Last Mission | **In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
 | Final Fantasy XII | **In-game** (unstable) - **SLUS-20963** - **05-Apr-2015**
-| Flipnic | **Crash** - **SLUS-520.65**
+| Flatout | **Loadable with FPS** - **SLES_527.53**
+| Flipnic | **Crash** - **SLES-520.65**
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES_519.20**|
 |Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES_514.67**|
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
@@ -64,6 +66,7 @@
 | Half-Life | **In-game**
 |Haunting Ground|**Loadable with FPS** - **SLES_528.77**|
 | Hot Shots Golf Fore! | **Loadable with FPS, but shows nothing** - **SCUS-97401** - **05-April-2015**
+| Hot Wheels - World Race | **Crash** - **SLES_518.79
 |Ico|**Loadable with FPS** - **SCES_507.60**|
 |Indigo Prophecy|**Crashes** - **SLUS_211.96**|
 | Jak & Daxter | **Loadable with FPS, but shows nothing**
