@@ -49,6 +49,7 @@
 | Final Fantasy X-2 | **In-game** (graphics issues) - **SLUS-20672** - **26-April-2015**
 | Final Fantasy X-2 International + Last Mission | **In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
 | Final Fantasy XII | **In-game** (unstable) - **SLUS-20963** - **05-Apr-2015**
+| Flipnic | **Crash** - **SLUS-520.65**
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES_519.20**|
 |Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES_514.67**|
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
