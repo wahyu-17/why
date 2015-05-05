@@ -66,7 +66,7 @@
 | Half-Life | **In-game**
 |Haunting Ground|**Loadable with FPS** - **SLES_528.77**|
 | Hot Shots Golf Fore! | **Loadable with FPS, but shows nothing** - **SCUS-97401** - **05-April-2015**
-| Hot Wheels - World Race | **Crash** - **SLES_518.79
+| Hot Wheels - World Race | **Crash** - **SLES_518.79**
 |Ico|**Loadable with FPS** - **SCES_507.60**|
 |Indigo Prophecy|**Crashes** - **SLUS_211.96**|
 | Jak & Daxter | **Loadable with FPS, but shows nothing**
