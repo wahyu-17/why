@@ -55,6 +55,7 @@
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES_519.20**|
 |Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES_514.67**|
 | Front Mission 4 | **Crash** - **PBPX-95506** - **29-Mar-2015**
+| God of War | **Intro only** - **SCUS-97399** - **10-May-2015**
 |Gradius III and IV|**Loadable with FPS** - **SLUS_200.40**|
 | Gradius V | **In-game** - **SLPM-62462** - **29-Mar-2015**
 | Grandia II | **In-game**
