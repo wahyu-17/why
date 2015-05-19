@@ -25,6 +25,7 @@
 |Bombastic|**Nothing/Crash** - **SLES_519.66**|
 |Bully|**Intro Only** - **SLES_535.61**|
 | Castlevania: Curse of Darkness | **In-game**|
+| Chaos Wars | **(Flashing) Loading Screen, then nothing**|
 | Crash Nitro Kart | **Loadable with FPS, but shows nothing** - **SLES_515.11**
 | Crash Twinsanity | **Loadable with FPS, but shows nothing** - **SLUS-20909** - **29-Mar-2015**
 | Dance Dance Revolution Extreme | **Loadable with FPS, but shows nothing** - **SLUS-20916** - **2-Apr-2015**
@@ -85,6 +86,7 @@
 |King's Field IV|**Intro Only** - **SLES_509.20**|
 |Klonoa 2|**Loadable with FPS** - **SLUS_201.51**|
 |Mafia|**Loadable with FPS** - **SLES_522.78**|
+| Magna Carta: Tears of Blood | **Intro Screens, then nothing**|
 | Metal Gear Solid 2: Sons of Liberty | **Loadable with FPS, but shows nothing** - **SLES_503.83**|
 | Metal Gear Solid 3: Snake Eater | **Nothing/crash** - **SLES_820.13**|
 |Mister Mosquito|**Loadable with FPS** - **SLES_507.69**|
