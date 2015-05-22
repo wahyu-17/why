@@ -10,6 +10,7 @@
 
 **5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything**
 ### 
+## Windows/OS X##
 | Game | Status |
 |------|--------|
 |Aggressive Inline|**Loadable with FPS - SLUS_203.27**|
@@ -149,4 +150,11 @@
 |Wipeout Pulse|**Loads with FPS** - **SCES_547.48**|
 |XIII|**Intro Only** (language selection, crashes while loading) - **SLES_512.44**|
 |Zone of the Enders|**Intro only** (screen goes grey) - **SLES_501.11**|
-|Zone of the Enders: The 2nd Runner|**Loadable with FPS** - **SLES_511.13**|
+|Zone of the Enders: The 2nd Runner|**Loadable with FPS** - **SLES_511.1**|
+## Android ##
+|Game|Status|
+|----|------|
+| Final Fantasy X |**Nothing/Crash** (faint line appears sometimes) - **SLUS-20312** - **17-May-2015**
+| Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
+| SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
+| Tom & Jerry in War of the Whiskers| **Intro only** - **SLUS-20355** - **17-May-2015**
