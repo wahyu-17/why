@@ -154,6 +154,7 @@
 ## Android ##
 |Game|Status|
 |----|------|
+| Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **17-May-2015**
 | Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **17-May-2015**
 | Final Fantasy X |**Nothing/Crash** (faint line appears sometimes) - **SLUS-20312** - **17-May-2015**
 | Half-Life | **Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **17-May-2015**
