@@ -156,6 +156,7 @@
 |----|------|
 | Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **17-May-2015**
 | Final Fantasy X |**Nothing/Crash** (faint line appears sometimes) - **SLUS-20312** - **17-May-2015**
+| Half-Life | **Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **17-May-2015**
 | Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 | SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 | Tom & Jerry in War of the Whiskers| **Intro only** - **SLUS-20355** - **17-May-2015**
