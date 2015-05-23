@@ -163,6 +163,7 @@
 | Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 | Half-Life | **Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **17-May-2015**
 | Marvel vs. Capcom 2: New Age of Heroes | **In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
+| Klonoa 2: Lunatea's Veil | **Nothing/Crash** - **SLUS-20151** - **17-May-2015**
 | Metal Slug 4 & 5 | **Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
 | SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 | SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2 | **In-game** - **SLPM-62553** - **17-May-2015**
