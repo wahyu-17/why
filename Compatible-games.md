@@ -154,6 +154,7 @@
 ## Android ##
 |Game|Status|
 |----|------|
+| Aterlier Iris: Eternal Mana | **Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **17-May-2015**
 | Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **17-May-2015**
 | Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **17-May-2015**
 | Final Fantasy X |**Nothing/Crash** (faint line appears sometimes) - **SLUS-20312** - **17-May-2015**
