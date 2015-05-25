@@ -167,6 +167,6 @@
 | Metal Slug 4 & 5 | **Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
 | SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 | SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2 | **In-game** - **SLPM-62553** - **17-May-2015**
-| Tom & Jerry in War of the Whiskers| **Intro only** - **SLUS-20355** - **17-May-2015**
+| Tom & Jerry in War of the Whiskers| **In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 | Unreal Tournament | **In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
 | Ys 1 & 2 - Eternal Story | **Intro only** (crashes after memory card check) - **SLPS-25206** - **17-May-2015**
