@@ -157,11 +157,11 @@
 | Aterlier Iris: Eternal Mana | **Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **17-May-2015**
 | Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **17-May-2015**
 | Disgaea 2 - Cursed Memories | **Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
-| Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **17-May-2015**
-| Final Fantasy X |**Nothing/Crash** (faint line appears sometimes) - **SLUS-20312** - **17-May-2015**
+| Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
+| Final Fantasy X |**Intro/title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
 | Gradius V | **In-game** - **SLUS-20712** - **17-May-2015**
 | Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
-| Half-Life | **Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **17-May-2015**
+| Half-Life | **Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
 | Marvel vs. Capcom 2: New Age of Heroes | **In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 | Klonoa 2: Lunatea's Veil | **Nothing/Crash** - **SLUS-20151** - **17-May-2015**
 | Metal Slug 4 & 5 | **Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
