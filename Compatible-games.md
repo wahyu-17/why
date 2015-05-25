@@ -155,7 +155,7 @@
 |Game|Status|
 |----|------|
 | Aterlier Iris: Eternal Mana | **Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **17-May-2015**
-| Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **17-May-2015**
+| Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 | Disgaea 2 - Cursed Memories | **Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
 | Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
 | Final Fantasy X |**Intro/title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
@@ -169,4 +169,5 @@
 | SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2 | **In-game** - **SLPM-62553** - **17-May-2015**
 | Tom & Jerry in War of the Whiskers| **In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 | Unreal Tournament | **In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
+| Virtua Fighter 4: Evolution | **Intro only** (incredibly slow & stuck creating system file) - **SLUS-20616** - **24-May-2015** 
 | Ys 1 & 2 - Eternal Story | **Intro only** (crashes after memory card check) - **SLPS-25206** - **17-May-2015**
