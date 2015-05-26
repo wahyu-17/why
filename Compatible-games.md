@@ -70,7 +70,7 @@
 |Haunting Ground|**Loadable with FPS** - **SLES-52877**
 |Hot Shots Golf Fore!|**Loadable with FPS, but shows nothing** - **SCUS-97401** - **05-April-2015**
 |Hot Wheels - World Race|**Crash** - **SLES-51879**
-|Ico|**Loadable with FPS** - **SCES-50760**
+|Ico|**Loadable with FPS** - **SCES-50760** - **24-May-2015**
 |Indigo Prophecy|**Crashes** - **SLUS-21196**
 |Jak & Daxter|**Loadable with FPS, but shows nothing**
 |James Bond 007: Agent Under Fire|**Loadable with FPS** - **SLES-50539**
@@ -81,7 +81,7 @@
 |Kamiwaza|**Loadable with FPS, but shows nothing** - **SLPM-66477** - **29-Mar-2015**
 |Killer7|**Loadable with FPS** - **SLES-53366**
 |Killzone|**Crashes** - **SCES-52004**
-|Kingdom Hearts|**In-game** (graphics issues) - **SLUS_20370** - **05-Apr-2015**
+|Kingdom Hearts|**In-game** (graphics issues) - **SLUS-20370** - **05-Apr-2015**
 |Kingdom Hearts: Final Mix|**Loadable with FPS, but shows nothing** - **SLPS-25198** - **24-May-2015**
 |Kingdom Hearts 2|**Loadable with FPS, but shows nothing**
 |Kingdom Hearts 2: Final Mix|**Menu/Title screen only** (hangs after second cutscene) - **SLPM-66675** - **24-May-2015**
@@ -91,8 +91,8 @@
 |Magna Carta: Tears of Blood|**Intro only**
 |Metal Gear Solid 2: Sons of Liberty|**Loadable with FPS, but shows nothing** - **SLES-50383**
 |Metal Gear Solid 3: Snake Eater|**Nothing/crash** - **SLES-82013**
-|Metal Gear Solid 3: Subsistence (Disc1)|**Loadable with FPS, but shows nothing** - **SLUS-21359** - **24-May-2015**
-|Metal Gear Solid 3: Subsistence (Disc2)|**Loadable with FPS, but shows nothing** - **SLES-21243** - **24-May-2015**
+|Metal Gear Solid 3: Subsistence (Disc 1)|**Loadable with FPS, but shows nothing** - **SLUS-21359** - **24-May-2015**
+|Metal Gear Solid 3: Subsistence (Disc 2)|**Loadable with FPS, but shows nothing** - **SLUS-21243** - **24-May-2015**
 |Mister Mosquito|**Loadable with FPS** - **SLES-50769**
 |Monster Hunter 2|**Intro only** - **SLPM-66280** - **24-May-2015**
 |Odin Sphere|**Loadable with FPS** - **SLES-55110**
@@ -104,6 +104,8 @@
 |Pilot Down: Behind Enemy Lines|**Intro Only** (crashes when trying to start a new game) - **SLES-53099**
 |Project Snowblind|**Crashes** - **SLES-52859**|
 |Ratchet & Clank|**Nothing/crash**
+|Ratchet & Clank: Going Commando|**Nothing/crash** - **SCUS-97268** - **24-May-2015**
+|Ratchet & Clank: Up Your Aresenal|**Nothing/crash** - **SCUS-97353** - **24-May-2015**
 |Radiata Stories|**Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
 |Rayman M|**Intro Only** (crashes after displaying Ubisoft Logo) - **SLES-50457**
 |Red Dead Revolver|**Loadable with FPS** - **SLES-52478**
