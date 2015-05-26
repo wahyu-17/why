@@ -1,14 +1,14 @@
 ## An unfinished list of commercial PS2 games & their compatibility/status on Play!:
 
-**1.****In-game means somewhat playable past title screens** (including with graphics bugs, crashes, and other major problems).
+**1.** **In-game** means somewhat playable past title screens (including with graphics bugs, crashes, and other major problems).
 
-**2.****Intro/title screen only means that you can load the game, control it somewhat, but can't actually get past title screens or can't get playable in-game.**
+**2.** **Menu/Title screen only** means that you can load the game, control it somewhat, but can't actually get past title screens or can't get playable in-game.
 
-**3.****Intro only means nothing but an intro/opening of the game is shown** (such as a video/animation/company name/etc.).
+**3.** **Intro only** means nothing but an intro/opening of the game is shown (such as a video/animation/company name/etc.).
 
-**4.****Loadable with FPS, but shows nothing means that the game is capable of being read but can't actually start/run yet.**
+**4.** **Loadable with FPS, but shows nothing** means that the game is capable of being read but can't actually start/run yet.
 
-**5.****Nothing/crash means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything.**
+**5.** **Nothing/Crash** means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything.
 ### 
 ## Windows/OS X##
 | Game | Status |
@@ -36,8 +36,8 @@
 |Dark Cloud|**In game** (graphics issues) - **SCES-50295**
 |Dark Cloud 2|**Intro only** - **SCES-51190**
 |Dead to Rights|**Nothing/crash** - **SLUS-20220** - **19-April-2015**
-|Destroy All Humans!|**Intro/title screen only** (no input) - **SLES-53196**
-|Destroy All Humans! 2|**Intro/title screen only** (no input) - **SLES-54384**
+|Destroy All Humans!|**Menu/Title screen only** (no input) - **SLES-53196**
+|Destroy All Humans! 2|**Menu/Title screen only** (no input) - **SLES-54384**
 |Devil May Cry|**Nothing/crash** - **SLES-50358** - **20-Apr-2015**
 |Disgaea: Hour of Darkness|**In-game** (graphics issues) - **SLES-52458** - **12-April-2015**
 |Dokapon Kingdom|**Loadable with FPS** - **SLUS-21778**
@@ -84,13 +84,15 @@
 |Kingdom Hearts|**In-game** (graphics issues) - **SLUS_20370** - **05-Apr-2015**
 |Kingdom Hearts: Final Mix|**Loadable with FPS, but shows nothing** - **SLPS-25198** - **24-May-2015**
 |Kingdom Hearts 2|**Loadable with FPS, but shows nothing**
-|Kingdom Hearts 2: Final Mix|**Intro/title screen only** (hangs after second cutscene) - **SLPM-66675** - **24-May-2015**
+|Kingdom Hearts 2: Final Mix|**Menu/Title screen only** (hangs after second cutscene) - **SLPM-66675** - **24-May-2015**
 |King's Field IV|**Intro Only** - **SLES-50920** - **24-May-2015**
 |Klonoa 2|**Loadable with FPS** - **SLUS-20151**
 |Mafia|**Loadable with FPS** - **SLES-52278**
 |Magna Carta: Tears of Blood|**Intro only**
 |Metal Gear Solid 2: Sons of Liberty|**Loadable with FPS, but shows nothing** - **SLES-50383**
 |Metal Gear Solid 3: Snake Eater|**Nothing/crash** - **SLES-82013**
+|Metal Gear Solid 3: Subsistence (Disc1)|**Loadable with FPS, but shows nothing** - **SLUS-21359** - **24-May-2015**
+|Metal Gear Solid 3: Subsistence (Disc2)|**Loadable with FPS, but shows nothing** - **SLES-21243** - **24-May-2015**
 |Mister Mosquito|**Loadable with FPS** - **SLES-50769**
 |Monster Hunter 2|**Intro only** - **SLPM-66280** - **24-May-2015**
 |Odin Sphere|**Loadable with FPS** - **SLES-55110**
@@ -134,7 +136,7 @@
 |Spy Hunter|**Title Screen** - **SLES-50268**
 |Star Wars - Battlefront II|**Crashes** - **SLUS-21240**
 |Steambot Chronicles|**Title Screen** - **SLUS-21344**
-|TimeSplitters: Future Perfect|**Intro/title screen only**
+|TimeSplitters: Future Perfect|**Menu/Title screen only**
 |Tony Hawk's Pro Skater 3|**Title Screen** (Level selection crashes) - **SLES-50435**
 |Tony Hawk's Pro Skater 4|**Loadable with FPS** - **SLES-51130**
 |Tony Hawk's Project 8|**Loadable with FPS** - **SLES-54389**
@@ -145,7 +147,7 @@
 |Twisted Metal: Black|**Intro Only** - **PBPX-95506** - **24-May-2015**
 |Under the Skin|**Crashes** - **SLES-52719**
 |Unreal Tournament |**In-game**
-|Valkyrie Profile 2|**Intro/title screen only** - **SLUS-21452** - **29-Mar-2015**
+|Valkyrie Profile 2|**Menu/Title screen only** - **SLUS-21452** - **29-Mar-2015**
 |Virtua Fighter 4: Evolution| **In-game** - **SLES-51616** - **03-May-2015**
 |War of the Monsters|**Intro Only** - **SCUS-97197**
 |We Love Katamari|**Loadable with FPS** - **SLUS-21230**
@@ -163,12 +165,12 @@
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 |Disgaea 2 - Cursed Memories|**Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
-|Dragon Ball Z: Infinite World|**Intro/title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
-|Final Fantasy X |**Intro/title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
+|Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
+|Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
-|Half-Life|**Intro/title screen** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
-|Kingdom Hearts|**Intro/title screen** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
+|Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
+|Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **17-May-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
