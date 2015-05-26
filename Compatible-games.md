@@ -154,10 +154,11 @@
 ## Android ##
 |Game|Status|
 |----|------|
-| Aterlier Iris: Eternal Mana | **Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **17-May-2015**
+| Aterlier Iris: Eternal Mana | **Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **24-May-2015**
 | Crash Bandicoot - The Wrath of Cortex | **Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 | Disgaea 2 - Cursed Memories | **Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
 | Disgaea - Hour of Darkness | **In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
+| Dragon Ball Z: Infinite World | **Intro/title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
 | Final Fantasy X |**Intro/title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
 | Gradius V | **In-game** - **SLUS-20712** - **17-May-2015**
 | Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
