@@ -170,6 +170,7 @@
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
 |Final Fantasy X-2 | **Menu/Title screen only** (doesn't seem to load the first FMV after new game) - **SLUS-20672** - **24-May-2015**
+|Final Fantasy XII | **Menu/Title screen only** (crashes after showing the main title, but input is read) - **SLUS-20963** - **24-May-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 |Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
