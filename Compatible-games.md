@@ -175,6 +175,7 @@
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 |Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
+|Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
 |Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **17-May-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
