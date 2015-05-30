@@ -164,6 +164,7 @@
 |Game|Status|
 |----|------|
 |Aterlier Iris: Eternal Mana|**Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **24-May-2015**
+|Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015** 
 |Disgaea 2 - Cursed Memories|**Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
@@ -182,6 +183,7 @@
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
 |SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 |SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
+|The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
 |Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 |Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
 |Virtua Fighter 4: Evolution|**Intro only** (incredibly slow & stuck creating system file) - **SLUS-20616** - **24-May-2015** 
