@@ -167,6 +167,7 @@
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015** 
+|Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
 |Disgaea 2 - Cursed Memories|**Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
