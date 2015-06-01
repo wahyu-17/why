@@ -89,6 +89,8 @@
 |Klonoa 2|**Loadable with FPS** - **SLUS-20151**
 |Mafia|**Loadable with FPS** - **SLES-52278**
 |Magna Carta: Tears of Blood|**Intro only**
+|Megaman X7|**Loadable with FPS, but shows nothing** - **SLES_518.85;1**
+|Megaman X8|**Loadable with FPS, but shows nothing** - **SLES_529.88;1**
 |Metal Gear Solid 2: Sons of Liberty|**Loadable with FPS, but shows nothing** - **SLES-50383**
 |Metal Gear Solid 3: Snake Eater|**Nothing/crash** - **SLES-82013**
 |Metal Gear Solid 3: Subsistence (Disc 1)|**Loadable with FPS, but shows nothing** - **SLUS-21359** - **24-May-2015**
