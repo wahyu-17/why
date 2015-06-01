@@ -33,7 +33,7 @@
 |Dance Dance Revolution Extreme 2|**Loadable with FPS, but shows nothing** - **SLUS-21174** - **2-Apr-2015**
 |Dance Dance Revolution SuperNOVA|**Loadable with FPS, but shows nothing** - **SLUS-21377** - **2-Apr-2015**
 |Dance Dance Revolution SuperNOVA 2|**Loadable with FPS, but shows nothing** - **SLUS-21608** - **2-Apr-2015**
-|Dark Cloud|**In game** (graphics issues) - **SCES-50295**
+|Dark Cloud|**In-game** (graphics issues) - **SCES-50295**
 |Dark Cloud 2|**Intro only** - **SCES-51190**
 |Dead to Rights|**Nothing/crash** - **SLUS-20220** - **19-April-2015**
 |Destroy All Humans!|**Menu/Title screen only** (no input) - **SLES-53196**
@@ -168,7 +168,7 @@
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015** 
 |Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
-|Disgaea 2 - Cursed Memories|**Intro only** (crashes after NIS logo) - **SLUS-21397** - **17-May-2015**
+|Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **24-May-2015**
@@ -179,7 +179,7 @@
 |Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
 |Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
 |Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
-|Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **17-May-2015**
+|Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
