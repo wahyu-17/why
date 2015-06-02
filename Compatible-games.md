@@ -187,6 +187,7 @@
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
 |SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 |SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
+|SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718** - **31-May-2015**
 |Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **24-May-2015**
 |Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **24-May-2015**
 |The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
