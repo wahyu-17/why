@@ -181,9 +181,10 @@
 |Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
 |Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
 |Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
+|Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
-|Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **17-May-2015**
+|Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
 |SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 |SEGA Ages 2500 Volume 13 - OutRun|**In-game** (messed up textures and graphics and very slow) - **SLPM-62447** - **31-May-2015**
