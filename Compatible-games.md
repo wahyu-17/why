@@ -52,7 +52,7 @@
 |Final Fantasy X|**In-game** (SPU issues/save states needed) - **SLUS-20312** - **26-April-2015**
 |Final Fantasy X-2|**In-game** (graphics issues) - **SLUS-20672** - **26-April-2015**
 |Final Fantasy X-2 International + Last Mission|**In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
-|Final Fantasy XII|**In-game** (unstable) - **SLUS-20963** - **05-Apr-2015**
+|Final Fantasy XII|**In-game** (unstable) - **SLUS-20963** - **31-May-2015**
 |Flatout|**Loadable with FPS** - **SLES-52753**
 |Flipnic|**Crash** - **SLES-52065**
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES-51920**
