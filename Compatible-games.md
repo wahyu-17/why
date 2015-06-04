@@ -18,7 +18,8 @@
 |Ape Escape 2|**Crashes - SLUS-20685**
 |Ape Escape 3|**Loadable with FPS** - **SCUS-97501**
 |Area 51|**Intro only** - **SLUS-20595**
-|Arcana Heart 2|**In-game** (stuck at certain screen when playing story mode, but other modes work fine)|**SLPM-55147** - **29-Mar-2015**
+|Arcana Heart|**In-game** - **SLPM-66850** - **31-May-2015**
+|Arcana Heart 2|**In-game** - **SLPM-55147** - **31-May-2015**
 |Animaniacs: The Great Edgar Hunt|**Nothing/crash** 
 |Atelier Iris: Eternal Mana|**In-game**
 |Baldur's Gate: Dark Alliance|**In-game**
