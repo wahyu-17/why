@@ -57,7 +57,7 @@
 |Flipnic|**Crash** - **SLES-52065**
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES-51920**
 |Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES-51467**
-|Front Mission 4|**Crash** - **PBPX-95506** - **29-Mar-2015**
+|Front Mission 4|**Loadable** - **PBPX-95506** - **29-Mar-2015**
 |God of War|**Intro only** - **SCUS-97399** - **10-May-2015**
 |Gradius III and IV|**Loadable with FPS** - **SLUS-20040**
 |Gradius V|**In-game** - **SLPM-62462** - **29-Mar-2015**
@@ -78,8 +78,8 @@
 |James Bond 007: Everything or Nothing|**Loadable with FPS** - **SLES-52005**
 |James Bond 007: Nightfire|**Loadable with FPS** - **SLES-51258**
 |Just Cause|**Crashes** - **SLES-54137**
-|Katamari Damacy|**Loadable with FPS, but shows nothing** - **SLUS-21008** - **29-Mar-2015**
-|Kamiwaza|**Loadable with FPS, but shows nothing** - **SLPM-66477** - **29-Mar-2015**
+|Katamari Damacy|**Loadable with FPS** - **SLUS-21008** - **31-May-2015**
+|Kamiwaza|**Loadable with FPS** - **SLPM-66477** - **31-May-2015**
 |Killer7|**Loadable with FPS** - **SLES-53366**
 |Killzone|**Crashes** - **SCES-52004**
 |Kingdom Hearts|**In-game** (graphics issues) - **SLUS-20370** - **05-Apr-2015**
@@ -136,7 +136,7 @@
 |Sly 3 - Honor Among Thieves|**Loadable with FPS** - **SCES-53409**
 |SoulCalibur II|**Crashes** - **SLES-51799**
 |SoulCalibur III|**Loads with FPS** - **SCES-53312**
-|Spectral Gene|**Loadable with FPS;also gc/f** - **SLPM-66899** - **29-Mar-2015**
+|Spectral Gene|**Intro** - **SLPM-66899** - **31-May-2015**
 |Spy Hunter 2|**Loads with FPS** - **SLES-51841**
 |Spy Hunter|**Title Screen** - **SLES-50268**
 |Star Wars - Battlefront II|**Crashes** - **SLUS-21240**
