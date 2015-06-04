@@ -178,7 +178,7 @@
 |Final Fantasy XII | **Menu/Title screen only** (crashes after showing the main title, but input is read) - **SLUS-20963** - **24-May-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
-|Half-Life|**Menu/Title screen only** (crashes when trying to go in-game) - **SLUS-20066** - **24-May-2015**
+|Half-Life|**In-game** (needs analog sticks, so can't move) - **SLUS-20066** - **31-May-2015**
 |Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
 |Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
 |Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
