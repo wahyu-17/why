@@ -121,7 +121,7 @@
 |Romancing SaGa|**Intro only** (input bug)
 |Samurai Warriors 2|**In-game** (graphics issues, random hang-ups) - **SLPM-66307** - **29-Mar-2015**
 |Second Sight|**Title Screen** (Freezes while loading level) - **SLES-52670**
-|Sengoku Basara 2 Heroes|**Crash** - **SLPM-66848** - **29-Mar-2015**
+|Sengoku Basara 2 Heroes|**Loadable with FPS** - **SLPM-66848** - **31-May-2015**
 |Sengoku Basara X|**Crash** - **SLPM-55008** - **29-Mar-2015**
 |Shadow Hearts|**Intro Only** (Crashes after logos) - **SLUS-20347**
 |Shadow Hearts: Covenant|**Loadable with FPS** - **SLES-82030**
