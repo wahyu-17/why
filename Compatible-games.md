@@ -109,7 +109,7 @@
 |Ratchet & Clank|**Nothing/crash**
 |Ratchet & Clank: Going Commando|**Nothing/crash** - **SCUS-97268** - **24-May-2015**
 |Ratchet & Clank: Up Your Aresenal|**Nothing/crash** - **SCUS-97353** - **24-May-2015**
-|Radiata Stories|**Loadable with FPS;dc/f also** (graphics issues, random hang-ups) - **SLUS-21262** - **29-Mar-2015**
+|Radiata Stories|**Intro** (graphics issues, random hang-ups) - **SLUS-21262** - **31-May-2015**
 |Rayman M|**Intro Only** (crashes after displaying Ubisoft Logo) - **SLES-50457**
 |Red Dead Revolver|**Loadable with FPS** - **SLES-52478**
 |Red Faction|**Title Screen** (freezes loading level) - **SLES-50277**
