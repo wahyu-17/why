@@ -205,6 +205,6 @@
 |The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
 |Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 |Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
-|Virtua Fighter 4: Evolution|**Intro only** (incredibly slow & stuck creating system file) - **SLUS-20616** - **24-May-2015** 
+|Virtua Fighter 4: Evolution|**Menu/Title screen only** (system file gets stuck, but can avoid by saying no to creating it -- otherwise, game still hangs after character select) - **SLUS-20616** - **31-May-2015** 
 |Ys 1 & 2 - Eternal Story|**In-game** (can't see field/characters/objects; just a black area; graphics issue) - **SLPS-25206** - **31-May-2015**
 |Zone of the Enders|**Nothing/Crash** - **SLUS-20148** - **31-May-2015**
