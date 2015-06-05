@@ -177,7 +177,7 @@
 |Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after BANDAI logo) - **SLES-55347** - **31-May-2015**
-|Final Fantasy VII: Dirge of Cerberus|**Intro only** (hangs after Square Enix logo) - **SLUS-21419** - **31-Mar-2015**
+|Final Fantasy VII: Dirge of Cerberus|**Intro only** (hangs after Square Enix logo) - **SLUS-21419** - **31-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **31-May-2015**
 |Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **31-May-2015**
 |Final Fantasy XII | **Menu/Title screen only** (stuck in loop/hanging before new game confirm) - **SLUS-20963** - **31-May-2015**
