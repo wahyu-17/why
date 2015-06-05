@@ -166,10 +166,12 @@
 ## Android ##
 |Game|Status|
 |----|------|
-|Aterlier Iris: Eternal Mana|**Nothing/crash** (screen flashes but crashes) - **SLUS-21113** - **24-May-2015**
+|Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
+|Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **31-May-2015**
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
-|Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015** 
+|Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015**
+|Dark Cloud 2|**Intro only** - **SCUS-97213** - **31-May-2015** 
 |Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
 |Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
@@ -178,6 +180,9 @@
 |Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **31-May-2015**
 |Final Fantasy XII | **Menu/Title screen only** (crashes after showing the main title, but input is read) - **SLUS-20963** - **24-May-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
+|Grand Theft Auto: Vice City|**Menu/Title screen only** - **SLUS-20552** - **31-May-2015**
+|Grand Theft Auto: San Andreas|**Menu/Title screen only** - **SLUS-20946** - **31-May-2015**
+|Gregory Horror Show|**Nothing/Crash** - **SLES-51933** - **31-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 |Half-Life|**In-game** (needs analog sticks, so can't move) - **SLUS-20066** - **31-May-2015**
 |Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
@@ -187,10 +192,11 @@
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
+|Resident Evil 4|**Nothing/Crash** - **SLUS-21134** - **31-May-2015**
 |SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 |SEGA Ages 2500 Volume 13 - OutRun|**In-game** (messed up textures and graphics and very slow) - **SLPM-62447** - **31-May-2015**
 |SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
-|SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718** - **31-May-2015**
+|SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718**
 |Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **24-May-2015**
 |Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **24-May-2015**
 |The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
@@ -198,3 +204,4 @@
 |Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
 |Virtua Fighter 4: Evolution|**Intro only** (incredibly slow & stuck creating system file) - **SLUS-20616** - **24-May-2015** 
 |Ys 1 & 2 - Eternal Story|**Intro only** (crashes after memory card check) - **SLPS-25206** - **17-May-2015**
+|Zone of the Enders|**Nothing/Crash** - **SLUS-20148** - **31-May-2015**
