@@ -176,7 +176,7 @@
 |Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
 |Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
-|Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after language selection) - **SLES-55347** - **24-May-2015**
+|Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after BANDAI logo) - **SLES-55347** - **31-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **31-May-2015**
 |Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **31-May-2015**
 |Final Fantasy XII | **Menu/Title screen only** (crashes after showing the main title, but input is read) - **SLUS-20963** - **24-May-2015**
