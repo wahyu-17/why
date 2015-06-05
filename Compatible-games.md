@@ -169,7 +169,7 @@
 |Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
 |Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **31-May-2015**
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
-|Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **24-May-2015**
+|Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **31-May-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015**
 |Dark Cloud 2|**Intro only** - **SCUS-97213** - **31-May-2015** 
 |Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
@@ -192,6 +192,7 @@
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
+|Mortal Kombat: Armageddon|**Intro only** (won't pass first logo) - **SLUS-21410** - **31-May-2015**
 |Resident Evil 4|**Nothing/Crash** - **SLUS-21134** - **31-May-2015**
 |SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
 |SEGA Ages 2500 Volume 13 - OutRun|**In-game** (messed up textures and graphics and very slow) - **SLPM-62447** - **31-May-2015**
