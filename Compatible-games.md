@@ -74,6 +74,7 @@
 |Ico|**Loadable with FPS** - **SCES-50760** - **24-May-2015**
 |Indigo Prophecy|**Crashes** - **SLUS-21196**
 |Jak & Daxter|**Loadable with FPS, but shows nothing**
+|Jak X|**Loadable with FPS, but shows nothing** - **SCES-53286** - **04-June-2015**
 |James Bond 007: Agent Under Fire|**Loadable with FPS** - **SLES-50539**
 |James Bond 007: Everything or Nothing|**Loadable with FPS** - **SLES-52005**
 |James Bond 007: Nightfire|**Loadable with FPS** - **SLES-51258**
