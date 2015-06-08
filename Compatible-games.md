@@ -170,6 +170,7 @@
 |Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
 |Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **31-May-2015**
 |Bee Movie Game|**Intro only** - **SLUS-21622** - **31-May-2015**
+|Butt Ugly Martians - Zoom or Doom!|**Nothing/Crash** - **SLUS-20527** - **07-Jun-2015**
 |Castlevania - Lament of Innocence|**Intro only** - **SLUS-20733** - **31-May-2015**
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
 |Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **31-May-2015**
@@ -182,7 +183,7 @@
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after BANDAI logo) - **SLES-55347** - **31-May-2015**
 |Final Fantasy VII: Dirge of Cerberus|**Intro only** (hangs after Square Enix logo) - **SLUS-21419** - **31-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **31-May-2015**
-|Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **31-May-2015**
+|Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **07-Jun-2015**
 |Final Fantasy XII | **Menu/Title screen only** (stuck in loop/hanging before new game confirm) - **SLUS-20963** - **31-May-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Grand Theft Auto III|**Nothing/Crash** - **SLUS-20062** - **31-May-2015**
@@ -196,6 +197,7 @@
 |Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
+|Metal Gear Solid 2: Sons of Liberty|**Nothing/Crash** - **SLUS-20144** - **07-Jun-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
 |Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
 |Mortal Kombat: Armageddon|**Intro only** (won't pass first logo) - **SLUS-21410** - **31-May-2015**
