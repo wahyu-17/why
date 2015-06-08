@@ -167,32 +167,34 @@
 ## Android ##
 |Game|Status|
 |----|------|
+|Aeon Flux|**In-game** (needs analog stick support, so can't walk/move) - **SLUS-21205** - **07-Jun-2015**
 |Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
 |Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **31-May-2015**
 |Bee Movie Game|**Intro only** - **SLUS-21622** - **31-May-2015**
 |Butt Ugly Martians - Zoom or Doom!|**Nothing/Crash** - **SLUS-20527** - **07-Jun-2015**
 |Castlevania - Lament of Innocence|**Intro only** - **SLUS-20733** - **31-May-2015**
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
-|Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **31-May-2015**
+|Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **07-Jun-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015**
 |Dark Cloud 2|**Intro only** - **SCUS-97213** - **31-May-2015**
 |Dead To Rights|**Intro only** - **SLUS-20220** - **31-May-2015**
-|Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **24-May-2015**
+|Devil May Cry|**Nothing/Crash** - **SLUS-20216** - **07-Jun-2015**
+|Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **07-Jun-2015**
 |Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
 |Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
 |Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after BANDAI logo) - **SLES-55347** - **31-May-2015**
 |Final Fantasy VII: Dirge of Cerberus|**Intro only** (hangs after Square Enix logo) - **SLUS-21419** - **31-May-2015**
 |Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **31-May-2015**
 |Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **07-Jun-2015**
-|Final Fantasy XII | **Menu/Title screen only** (stuck in loop/hanging before new game confirm) - **SLUS-20963** - **31-May-2015**
+|Final Fantasy XII | **Menu/Title screen only** (crashes right after new game confirm screen before FMV) - **SLUS-20963** - **07-Jun-2015**
 |Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
 |Grand Theft Auto III|**Nothing/Crash** - **SLUS-20062** - **31-May-2015**
-|Grand Theft Auto: Vice City|**Menu/Title screen only** - **SLUS-20552** - **31-May-2015**
+|Grand Theft Auto: Vice City|**Menu/Title screen only** (hangs after opening/menu sequence) - **SLUS-20552** - **07-Jun-2015**
 |Grand Theft Auto: San Andreas|**Menu/Title screen only** - **SLUS-20946** - **31-May-2015**
 |Gregory Horror Show|**Nothing/Crash** - **SLES-51933** - **31-May-2015**
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 |Half-Life|**In-game** (needs analog sticks, so can't move) - **SLUS-20066** - **31-May-2015**
-|Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **24-May-2015**
+|Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **07-Jun-2015**
 |Kingdom Hearts|**Menu/Title screen only** (graphics issue/doesn't seem to pass the first FMV) - **SLUS-20370** - **24-May-2015**
 |Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
