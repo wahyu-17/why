@@ -169,12 +169,14 @@
 |----|------|
 |Aeon Flux|**In-game** (needs analog stick support, so can't walk/move) - **SLUS-21205** - **07-Jun-2015**
 |Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
-|Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **31-May-2015**
-|Bee Movie Game|**Intro only** - **SLUS-21622** - **31-May-2015**
+|Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **07-Jun-2015**
+|Bee Movie Game|**Intro only** (crashes during memory card check) - **SLUS-21622** - **07-Jun-2015**
+|Bolt|**Intro only** (crashes after Disney logo) - **SLUS-21844** - **07-Jun-2015**
 |Butt Ugly Martians - Zoom or Doom!|**Nothing/Crash** - **SLUS-20527** - **07-Jun-2015**
+|Call of Duty - World at War - Final Fronts|**Menu/Title screen only** - **SLUS-21746** - **07-Jun-2015**
 |Castlevania - Lament of Innocence|**Intro only** - **SLUS-20733** - **31-May-2015**
 |Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
-|Crash Bandicoot - The Wrath of Cortex|**Nothing/crash** (just sits at black screen) - **SLUS-20238** - **07-Jun-2015**
+|Crash Bandicoot - The Wrath of Cortex|**Nothing/Crash** (just sits at black screen) - **SLUS-20238** - **07-Jun-2015**
 |Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015**
 |Dark Cloud 2|**Intro only** - **SCUS-97213** - **31-May-2015**
 |Dead To Rights|**Intro only** - **SLUS-20220** - **31-May-2015**
@@ -214,6 +216,7 @@
 |The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
 |Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 |Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
+|Viewtiful Joe|**Nothing/Crash** - **SLUS-20951** - **07-Jun-2015**
 |Virtua Fighter 4: Evolution|**Menu/Title screen only** (system file gets stuck, but can avoid by saying no to creating it -- otherwise, game still hangs after character select) - **SLUS-20616** - **31-May-2015**
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|**Menu/Title screen only** (stuck at loading screen after new game) - **SLUS-20892** - **31-May-2015**
 |Ys 1 & 2 - Eternal Story|**In-game** (can't see field/characters/objects; just a black area; graphics issue) - **SLPS-25206** - **31-May-2015**
