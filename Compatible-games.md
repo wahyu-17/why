@@ -173,6 +173,7 @@
 |Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **07-Jun-2015**
 |Bee Movie Game|**Intro only** (crashes during memory card check) - **SLUS-21622** - **07-Jun-2015**
 |Bolt|**Intro only** (crashes after Disney logo) - **SLUS-21844** - **07-Jun-2015**
+|Bully|**Intro only** - **SLUS-21269** - **07-Jun-2015**
 |Butt Ugly Martians - Zoom or Doom!|**Nothing/Crash** - **SLUS-20527** - **07-Jun-2015**
 |Call of Duty - World at War - Final Fronts|**Menu/Title screen only** - **SLUS-21746** - **07-Jun-2015**
 |Castlevania - Lament of Innocence|**Intro only** - **SLUS-20733** - **31-May-2015**
@@ -201,6 +202,7 @@
 |Kingdom Hearts|**In-game** (graphics issues & can't move because of unsupported input/analog sticks) - **SLUS-20370** - **07-Jun-2015**
 |Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
+|Manhunt|**Intro only** - **SLUS-20827** - **07-Jun-2015**
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Gear Solid 2: Sons of Liberty|**Nothing/Crash** - **SLUS-20144** - **07-Jun-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
@@ -213,7 +215,7 @@
 |SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
 |SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718**
 |Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **31-May-2015**
-|Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **31-May-2015**
+|Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **07-Jun-2015**
 |Star Ocean - Till the End of Time (Disc 1)|**Nothing/Crash** - **SLUS-20488** - **07-Jun-2015**
 |The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
 |Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
