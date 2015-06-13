@@ -206,7 +206,7 @@
 |Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
 |Metal Gear Solid 2: Sons of Liberty|**Nothing/Crash** - **SLUS-20144** - **07-Jun-2015**
 |Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
-|Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **24-May-2015**
+|Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **07-Jun-2015**
 |Mortal Kombat: Armageddon|**Intro only** (won't pass first logo) - **SLUS-21410** - **31-May-2015**
 |Phantom Brave|**In-game** (not all input supported yet) - **SLUS-20955** - **31-May-2015**
 |Resident Evil 4|**Nothing/Crash** - **SLUS-21134** - **31-May-2015**
@@ -217,11 +217,11 @@
 |Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **31-May-2015**
 |Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **07-Jun-2015**
 |Star Ocean - Till the End of Time (Disc 1)|**Nothing/Crash** - **SLUS-20488** - **07-Jun-2015**
-|The Bigs 2|**Nothing/Crash** (screen eventually turns white and then Play! crashes) - **SLUS-21860** - **24-May-2015**
+|The Bigs 2|**Intro only** (black screen hang after logos) - **SLUS-21860** - **07-Jun-2015**
 |Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
 |Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
 |Viewtiful Joe|**Nothing/Crash** - **SLUS-20951** - **07-Jun-2015**
-|Virtua Fighter 4: Evolution|**Menu/Title screen only** (system file gets stuck, but can avoid by saying no to creating it -- otherwise, game still hangs after character select) - **SLUS-20616** - **31-May-2015**
+|Virtua Fighter 4: Evolution|**In-game** (can enter battles, but can't see characters) - **SLUS-20616** - **07-Jun-2015**
 |Whiplash|**Nothing/Crash** - **SLUS-20684** - **07-Jun-2015**
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|**Menu/Title screen only** (stuck at loading screen after new game) - **SLUS-20892** - **31-May-2015**
 |Ys 1 & 2 - Eternal Story|**In-game** (can't see field/characters/objects; just a black area; graphics issue) - **SLPS-25206** - **31-May-2015**
