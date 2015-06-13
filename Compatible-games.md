@@ -199,6 +199,7 @@
 |Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
 |Half-Life|**In-game** (needs analog sticks, so can't move) - **SLUS-20066** - **31-May-2015**
 |Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **07-Jun-2015**
+|Jak and Daxter - The Precursor Legacy|**Nothing/Crash** - **SCUS-97124** - **07-Jun-2015**
 |Kingdom Hearts|**In-game** (graphics issues & can't move because of unsupported input/analog sticks) - **SLUS-20370** - **07-Jun-2015**
 |Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
 |Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
