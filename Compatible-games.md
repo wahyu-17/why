@@ -215,6 +215,7 @@
 |SEGA Ages 2500 Volume 13 - OutRun|**In-game** (messed up textures and graphics and very slow) - **SLPM-62447** - **31-May-2015**
 |SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
 |SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718**
+|Shadow of the Colossus|**Loadable with FPS, but shows nothing** - **SCUS-97472** - **14-Jun-2015**
 |Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **31-May-2015**
 |Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **07-Jun-2015**
 |Star Ocean - Till the End of Time (Disc 1)|**Nothing/Crash** - **SLUS-20488** - **07-Jun-2015**
