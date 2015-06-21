@@ -13,6 +13,7 @@
 ## Windows/OS X##
 | Game | Status |
 |------|--------|
+|.hack//Infection Part 1|**Loadable with FPS, but shows nothing** - **SLUS-20267** - **21-June-2015**
 |Aggressive Inline|**Loadable with FPS - SLUS-20327**
 |Alien Hominid|**Loadable with FPS - SLES-53139**
 |Ape Escape 2|**Crashes - SLUS-20685**
@@ -26,6 +27,7 @@
 |Beatmania|**Loadable with FPS, but shows nothing** - **SLUS-21239** - **2-Apr-2015**
 |Bombastic|**Nothing/Crash** - **SLES-51966**
 |Bully|**Intro Only** - **SLES-53561**
+|Burnout 3: Takedown|**Loadable with FPS, but shows nothing** - **SLUS-21050** - **21-June-2015**
 |Castlevania: Curse of Darkness|**In-game**
 |Chaos Wars|**Intro only** (flashing)
 |Crash Nitro Kart|**Loadable with FPS, but shows nothing** - **SLES-51511**
@@ -58,6 +60,7 @@
 |Forbidden Siren|**Intro Only** (no controller detected) - **SCES-51920**
 |Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES-51467**
 |Front Mission 4|**Loadable** - **PBPX-95506** - **29-Mar-2015**
+|Full Metal Alchemist and the Broken Angel|**Loadable with FPS, but shows nothing** - **SLUS-20994** - **21-June-2015**
 |God of War|**Intro only** - **SCUS-97399** - **10-May-2015**
 |Gradius III and IV|**Loadable with FPS** - **SLUS-20040**
 |Gradius V|**In-game** - **SLPM-62462** - **29-Mar-2015**
@@ -107,6 +110,7 @@
 |Persona 4|**Loadable with FPS** - **SLES-55474**
 |Pilot Down: Behind Enemy Lines|**Intro Only** (crashes when trying to start a new game) - **SLES-53099**
 |Project Snowblind|**Crashes** - **SLES-52859**|
+|R-Type Final|**Menu/Title screen only** (No dualshock 2 detected screen) - **SLUS-20780** - **21-June-2015**
 |Ratchet & Clank|**Nothing/crash**
 |Ratchet & Clank: Going Commando|**Nothing/crash** - **SCUS-97268** - **24-May-2015**
 |Ratchet & Clank: Up Your Aresenal|**Nothing/crash** - **SCUS-97353** - **24-May-2015**
@@ -142,6 +146,7 @@
 |Spy Hunter|**Title Screen** - **SLES-50268**
 |Star Wars - Battlefront II|**Crashes** - **SLUS-21240**
 |Steambot Chronicles|**Title Screen** - **SLUS-21344**
+|Suikoden V| **Loadable with FPS, but shows nothing** - **SLUS-21291** - **21-June-2015**
 |TimeSplitters: Future Perfect|**Menu/Title screen only**
 |Tony Hawk's Pro Skater 3|**Title Screen** (Level selection crashes) - **SLES-50435**
 |Tony Hawk's Pro Skater 4|**Loadable with FPS** - **SLES-51130**
