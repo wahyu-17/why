@@ -31,6 +31,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Area 51|<ul><li>**Intro only**</li><li>**SLUS-20595**</li></ul>
 |Arcana Heart|<ul><li>**In-game**</li><li>**SLPM-66850**</li><li>Tested: **31-May-2015**</li></ul>
 |Arcana Heart 2|<ul><li>**In-game**</li><li>**SLPM-55147**</li><li>Tested: **31-May-2015**</li></ul>
+|Armored Core 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20014**</li><li>Tested: **21-June-2015**</li></ul>
+|Armored Core 2: Another Age|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20249**</li><li>Tested: **21-June-2015**</li></ul>
 |Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
 |Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21788**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
 |Animaniacs: The Great Edgar Hunt|<ul><li>**Nothing/crash**</li></ul>
