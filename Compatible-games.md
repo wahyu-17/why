@@ -35,7 +35,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Armored Core 2: Another Age|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20249**</li><li>Tested: **21-June-2015**</li></ul>
 |Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
 |Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21788**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
-|Animaniacs: The Great Edgar Hunt|<ul><li>**Nothing/crash**</li></ul>
+|Animaniacs: The Great Edgar Hunt|<ul><li>**Menu/Title screen only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (Stuck in language select screen ... controls not working)</li></ul>
 |Atelier Iris: Eternal Mana|<ul><li>**In-game**</li></ul>
 |Atelier Iris 2: The Azoth of Destiny|<ul><li>**In-game**</li><li>**SLUS-21327**</li><li>Tested: **21-June-2015**</li></ul>
 |Atelier Iris 3: Grand Phantasm|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21564**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
