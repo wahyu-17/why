@@ -9,6 +9,16 @@
 **4.** **Loadable with FPS, but shows nothing** means that the game is capable of being read but can't actually start/run yet.
 
 **5.** **Nothing/Crash** means that the game won't even be read by the emulator and/or crashes the emulator before the game even gets to show much of anything.
+<!--
+Entry template:
+|Game Name|<ul><li>**STATUS**</li><li>**SERIAL**</li><li>Tested: **DATE**</li><li>Notes: NOTES</li></ul>
+
+Use one of the statuses listed above, save additional comments for the notes section.
+If you have no notes to add simply delete: <li>Notes: NOTES</li>
+
+You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => SLUS-20014
+-->
+
 ### 
 ## Windows/OS X##
 | Game | Status |
