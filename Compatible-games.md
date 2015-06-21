@@ -13,227 +13,227 @@
 ## Windows/OS X##
 | Game | Status |
 |------|--------|
-|.hack//Infection Part 1|**Loadable with FPS, but shows nothing** - **SLUS-20267** - **21-June-2015**
-|Aggressive Inline|**Loadable with FPS - SLUS-20327**
-|Alien Hominid|**Loadable with FPS - SLES-53139**
-|Ape Escape 2|**Crashes - SLUS-20685**
-|Ape Escape 3|**Loadable with FPS** - **SCUS-97501**
-|Area 51|**Intro only** - **SLUS-20595**
-|Arcana Heart|**In-game** - **SLPM-66850** - **31-May-2015**
-|Arcana Heart 2|**In-game** - **SLPM-55147** - **31-May-2015**
-|Ar Tonelico: Melody of Elemia|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21445** - **21-June-2015**
-|Ar Tonelico: Melody of Metafalica|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21788**
-|Animaniacs: The Great Edgar Hunt|**Nothing/crash** 
-|Atelier Iris: Eternal Mana|**In-game**
-|Atelier Iris 2: The Azoth of Destiny|**In-game** - **SLUS-21327** - **21-June-2015**
-|Atelier Iris 3: Grand Phantasm|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21564** - **21-June-2015**
-|Baldur's Gate: Dark Alliance|**In-game**
-|Beatmania|**Loadable with FPS, but shows nothing** - **SLUS-21239** - **2-Apr-2015**
-|Bombastic|**Nothing/Crash** - **SLES-51966**
-|Bully|**Intro Only** - **SLES-53561**
-|Burnout 3: Takedown|**Loadable with FPS, but shows nothing** - **SLUS-21050** - **21-June-2015**
-|Castlevania: Curse of Darkness|**In-game**
-|Chaos Wars|**Intro only** (flashing)
-|Crash Nitro Kart|**Loadable with FPS, but shows nothing** - **SLES-51511**
-|Crash Twinsanity|**Loadable with FPS, but shows nothing** - **SLUS-20909** - **29-Mar-2015**
-|Dance Dance Revolution Extreme|**Loadable with FPS, but shows nothing** - **SLUS-20916** - **2-Apr-2015**
-|Dance Dance Revolution Extreme 2|**Loadable with FPS, but shows nothing** - **SLUS-21174** - **2-Apr-2015**
-|Dance Dance Revolution SuperNOVA|**Loadable with FPS, but shows nothing** - **SLUS-21377** - **2-Apr-2015**
-|Dance Dance Revolution SuperNOVA 2|**Loadable with FPS, but shows nothing** - **SLUS-21608** - **2-Apr-2015**
-|Dark Cloud|**In-game** (graphics issues) - **SCES-50295**
-|Dark Cloud 2|**Intro only** - **SCES-51190**
-|Dead to Rights|**Nothing/crash** - **SLUS-20220** - **19-April-2015**
-|Destroy All Humans!|**Menu/Title screen only** (no input) - **SLES-53196**
-|Destroy All Humans! 2|**Menu/Title screen only** (no input) - **SLES-54384**
-|Devil May Cry|**Nothing/crash** - **SLES-50358** - **20-Apr-2015**
-|Disgaea: Hour of Darkness|**In-game** (graphics issues) - **SLES-52458** - **12-April-2015**
-|Dokapon Kingdom|**Loadable with FPS** - **SLUS-21778**
-|Dragon Ball Z - Infinite World|**In-game** - **SLUS-21842** - **29-Mar-2015**
-|Dragon Quest VIII|**Loadable with FPS** - **SLUS-21207**
-|Driv3r|**Loadable with FPS** - **SLES-50876**
-|Driver: Parallel Lines|**Loadable with FPS** - **SLES-54027**
-|Dynasty Warriors 2|**In-game** (graphics issues) - **SLUS-20079** - **29-Mar-2015**
-|Dynasty Warriors 5|**In-game** (story mode broken, graphics issues) - **SLUS-21153** - **29-Mar-2015**
-|Final Fantasy: Dirge of Cerberus|**Intro** (Stuck after SQUARE ENIX logo) - **SLUS-21419** - **29-Mar-2015**
-|Final Fantasy X|**In-game** (SPU issues/save states needed) - **SLUS-20312** - **26-April-2015**
-|Final Fantasy X-2|**In-game** (graphics issues) - **SLUS-20672** - **26-April-2015**
-|Final Fantasy X-2 International + Last Mission|**In-game** (Last mission only) - **SLPM-65478** - **29-Mar-2015**
-|Final Fantasy XII|**In-game** (unstable) - **SLUS-20963** - **31-May-2015**
-|Flatout|**Loadable with FPS** - **SLES-52753**
-|Flipnic|**Crash** - **SLES-52065**
-|Forbidden Siren|**Intro Only** (no controller detected) - **SCES-51920**
-|Freedom Fighters|**Intro only** (Crashes after EA logo) - **SLES-51467**
-|Front Mission 4|**Loadable** - **PBPX-95506** - **29-Mar-2015**
-|Full Metal Alchemist and the Broken Angel|**Loadable with FPS, but shows nothing** - **SLUS-20994** - **21-June-2015**
-|God of War|**Intro only** - **SCUS-97399** - **10-May-2015**
-|Gradius III and IV|**Loadable with FPS** - **SLUS-20040**
-|Gradius V|**In-game** - **SLPM-62462** - **29-Mar-2015**
-|Grandia II|**In-game**
-|Grand Theft Auto 3|**Loadable with FPS, but shows nothing**
-|Grand Theft Auto: Vice City|**Loadable with FPS, but shows nothing**
-|Gran Turismo 3: A-Spec|**Nothing/crash** - **SCES-50294**
-|Gran Turismo 4|**Nothing/crash** - **SCES-51719**
-|Guilty Gear XX Accent Core Plus|**In-game**
-|Half-Life|**In-game**
-|Haunting Ground|**Loadable with FPS** - **SLES-52877**
-|Hot Shots Golf Fore!|**Loadable with FPS, but shows nothing** - **SCUS-97401** - **05-April-2015**
-|Hot Wheels - World Race|**Crash** - **SLES-51879**
-|Ico|**Loadable with FPS** - **SCES-50760** - **24-May-2015**
-|Indigo Prophecy|**Crashes** - **SLUS-21196**
-|Jak & Daxter|**Loadable with FPS, but shows nothing**
-|Jak X|**Loadable with FPS, but shows nothing** - **SCES-53286** - **04-June-2015**
-|James Bond 007: Agent Under Fire|**Loadable with FPS** - **SLES-50539**
-|James Bond 007: Everything or Nothing|**Loadable with FPS** - **SLES-52005**
-|James Bond 007: Nightfire|**Loadable with FPS** - **SLES-51258**
-|Just Cause|**Crashes** - **SLES-54137**
-|Katamari Damacy|**Loadable with FPS** - **SLUS-21008** - **31-May-2015**
-|Kamiwaza|**Loadable with FPS** - **SLPM-66477** - **31-May-2015**
-|Killer7|**Loadable with FPS** - **SLES-53366**
-|Killzone|**Crashes** - **SCES-52004**
-|Kingdom Hearts|**In-game** (graphics issues) - **SLUS-20370** - **05-Apr-2015**
-|Kingdom Hearts: Final Mix|**Loadable with FPS, but shows nothing** - **SLPS-25198** - **24-May-2015**
-|Kingdom Hearts 2|**Loadable with FPS, but shows nothing**
-|Kingdom Hearts 2: Final Mix|**Menu/Title screen only** (hangs after second cutscene) - **SLPM-66675** - **24-May-2015**
-|King's Field IV|**Intro Only** - **SLES-50920** - **24-May-2015**
-|Klonoa 2|**Loadable with FPS** - **SLUS-20151**
-|Mafia|**Loadable with FPS** - **SLES-52278**
-|Magna Carta: Tears of Blood|**Intro only**
-|Megaman X7|**Loadable with FPS, but shows nothing** - **SLES_518.85;1**
-|Megaman X8|**Loadable with FPS, but shows nothing** - **SLES_529.88;1**
-|Metal Gear Solid 2: Sons of Liberty|**Loadable with FPS, but shows nothing** - **SLES-50383**
-|Metal Gear Solid 3: Snake Eater|**Nothing/crash** - **SLES-82013**
-|Metal Gear Solid 3: Subsistence (Disc 1)|**Loadable with FPS, but shows nothing** - **SLUS-21359** - **24-May-2015**
-|Metal Gear Solid 3: Subsistence (Disc 2)|**Loadable with FPS, but shows nothing** - **SLUS-21243** - **24-May-2015**
-|Mister Mosquito|**Loadable with FPS** - **SLES-50769**
-|Monster Hunter 2|**Intro only** - **SLPM-66280** - **24-May-2015**
-|Odin Sphere|**Loadable with FPS** - **SLES-55110**
-|Okami|**Loadable with FPS** - **SLUS-21115**
-|Oni|**Intro only** (can't skip videos) - **SLES-50134**
-|Outrun 2006: Coast 2 Coast|**Crashes** - **SLUS-21274**
-|Persona 3 FES|**Loadable with FPS, but shows nothing** - **09-Apr-2015** - **SLES-55354**
-|Persona 4|**Loadable with FPS** - **SLES-55474**
-|Pilot Down: Behind Enemy Lines|**Intro Only** (crashes when trying to start a new game) - **SLES-53099**
-|Project Snowblind|**Crashes** - **SLES-52859**|
-|R-Type Final|**Menu/Title screen only** (No dualshock 2 detected screen) - **SLUS-20780** - **21-June-2015**
-|Ratchet & Clank|**Nothing/crash**
-|Ratchet & Clank: Going Commando|**Nothing/crash** - **SCUS-97268** - **24-May-2015**
-|Ratchet & Clank: Up Your Aresenal|**Nothing/crash** - **SCUS-97353** - **24-May-2015**
-|Radiata Stories|**Intro** (graphics issues, random hang-ups) - **SLUS-21262** - **31-May-2015**
-|Rayman M|**Intro Only** (crashes after displaying Ubisoft Logo) - **SLES-50457**
-|Red Dead Revolver|**Loadable with FPS** - **SLES-52478**
-|Red Faction|**Title Screen** (freezes loading level) - **SLES-50277**
-|Red Faction 2|**Intro only** (crashes on title screen) - **SLES-51133**
-|Red Star, The|**Crashes** - **SLES-54581**
-|Rez|**Loadable with FPS** - **SCES-50501**
-|Ridge Racer 5|**Crashes** - **PBPX-95201**
-|Rogue Galaxy|**Loadable with FPS** - **SCES-54552**
-|Romancing SaGa|**Intro only** (input bug)
-|Samurai Warriors 2|**In-game** (graphics issues, random hang-ups) - **SLPM-66307** - **29-Mar-2015**
-|Second Sight|**Title Screen** (Freezes while loading level) - **SLES-52670**
-|Sengoku Basara 2 Heroes|**Loadable with FPS** - **SLPM-66848** - **31-May-2015**
-|Sengoku Basara X|**Crash** - **SLPM-55008** - **29-Mar-2015**
-|Shadow Hearts|**Intro Only** (Crashes after logos) - **SLUS-20347**
-|Shadow Hearts: Covenant|**Loadable with FPS** - **SLES-82030**
-|Shadow of the Colossus|**Loadable with FPS, but shows nothing** - **SCES-53326**
-|Shadow Tower: Abyss|**Loadable with FPS, but shows nothing** - **SLPS-25217** - **24-May-2015**
-|Shining Tears|**Loadable with FPS** - **SLUS-21063** - **29-Mar-2015**
-|Shinobi|**Loadable with FPS, but shows nothing** - **SLPS-25026** - **24-May-2015**
-|Silent Hill 2|**Crashes** - **SLES-50382**
-|Silent Hill 4|**Intro Only** - **SLES-52445**
-|Simpsons Hit and Run, The|**Crashes** - **SLES-51897**
-|Sly Cooper and the Thievius Raccoonus|**Loadable with FPS** - **SCES-50917**
-|Sly 3 - Honor Among Thieves|**Loadable with FPS** - **SCES-53409**
-|SoulCalibur II|**Crashes** - **SLES-51799**
-|SoulCalibur III|**Loads with FPS** - **SCES-53312**
-|Spectral Gene|**Intro** - **SLPM-66899** - **31-May-2015**
-|Spy Hunter 2|**Loads with FPS** - **SLES-51841**
-|Spy Hunter|**Title Screen** - **SLES-50268**
-|Star Wars - Battlefront II|**Crashes** - **SLUS-21240**
-|Steambot Chronicles|**Title Screen** - **SLUS-21344**
-|Suikoden V| **Loadable with FPS, but shows nothing** - **SLUS-21291** - **21-June-2015**
-|TimeSplitters: Future Perfect|**Menu/Title screen only**
-|Tony Hawk's Pro Skater 3|**Title Screen** (Level selection crashes) - **SLES-50435**
-|Tony Hawk's Pro Skater 4|**Loadable with FPS** - **SLES-51130**
-|Tony Hawk's Project 8|**Loadable with FPS** - **SLES-54389**
-|Tony Hawk's Underground| **Loadable with FPS** - **SLES-51848**
-|Tony Hawk's Underground 2|**Loadable with FPS** - **SLES-52621**
-|Tales of the Abyss|**Loadable with FPS** - **SLUS-21386** - **29-Mar-2015**
-|Trapt|**Crash** - **SLUS-21255** - **29-Mar-2015**
-|Twisted Metal: Black|**Intro Only** - **PBPX-95506** - **24-May-2015**
-|Under the Skin|**Crashes** - **SLES-52719**
-|Unreal Tournament |**In-game**
-|Valkyrie Profile 2|**Menu/Title screen only** - **SLUS-21452** - **29-Mar-2015**
-|Virtua Fighter 4: Evolution| **In-game** - **SLES-51616** - **03-May-2015**
-|War of the Monsters|**Intro Only** - **SCUS-97197**
-|We Love Katamari|**Loadable with FPS** - **SLUS-21230**
-|Whiplash|**Loadable with FPS** - **SLES-51958**
-|Wild Arms Alter Code: F|**In-game**
-|Wipeout Fusion|**Crashes** - **SCES-50005**
-|Wipeout Pulse|**Loads with FPS** - **SCES-54748**
-|XIII|**Intro Only** (language selection, crashes while loading) - **SLES-51244**
-|Zone of the Enders|**Intro only** (screen goes grey) - **SLES-50111**
-|Zone of the Enders: The 2nd Runner|**Loadable with FPS** - **SLES-51113**
+|.hack//Infection Part 1|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20267**</li><li>Tested: **21-June-2015**</li></ul>
+|Aggressive Inline|<ul><li>**Loadable with FPS**</li><li>**SLUS-20327**</li></ul>
+|Alien Hominid|<ul><li>**Loadable with FPS**</li><li>**SLES-53139**</li></ul>
+|Ape Escape 2|<ul><li>**Crashes**</li><li>**SLUS-20685**</li></ul>
+|Ape Escape 3|<ul><li>**Loadable with FPS**</li><li>**SCUS-97501**</li></ul>
+|Area 51|<ul><li>**Intro only**</li><li>**SLUS-20595**</li></ul>
+|Arcana Heart|<ul><li>**In-game**</li><li>**SLPM-66850**</li><li>Tested: **31-May-2015**</li></ul>
+|Arcana Heart 2|<ul><li>**In-game**</li><li>**SLPM-55147**</li><li>Tested: **31-May-2015**</li></ul>
+|Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing** (Loud static & distorted sound)</li><li>**SLUS-21445**</li><li>Tested: **21-June-2015**</li></ul>
+|Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing** (Loud static & distorted sound)</li><li>**SLUS-21788**</li></ul>
+|Animaniacs: The Great Edgar Hunt|<ul><li>**Nothing/crash**</li></ul>
+|Atelier Iris: Eternal Mana|<ul><li>**In-game**</li></ul>
+|Atelier Iris 2: The Azoth of Destiny|<ul><li>**In-game**</li><li>**SLUS-21327**</li><li>Tested: **21-June-2015**</li></ul>
+|Atelier Iris 3: Grand Phantasm|<ul><li>**Loadable with FPS, but shows nothing** (Loud static & distorted sound)</li><li>**SLUS-21564**</li><li>Tested: **21-June-2015**</li></ul>
+|Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li></ul>
+|Beatmania|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21239**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
+|Bully|<ul><li>**Intro Only**</li><li>**SLES-53561**</li></ul>
+|Burnout 3: Takedown|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21050**</li><li>Tested: **21-June-2015**</li></ul>
+|Castlevania: Curse of Darkness|<ul><li>**In-game**</li></ul>
+|Chaos Wars|<ul><li>**Intro only** (flashing)</li></ul>
+|Crash Nitro Kart|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-51511**</li></ul>
+|Crash Twinsanity|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20909**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Dance Dance Revolution Extreme|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20916**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Dance Dance Revolution SuperNOVA|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21377**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Dance Dance Revolution SuperNOVA 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21608**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Dark Cloud|<ul><li>**In-game** (graphics issues)</li><li>**SCES-50295**</li></ul>
+|Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCES-51190**</li></ul>
+|Dead to Rights|<ul><li>**Nothing/crash**</li><li>**SLUS-20220**</li><li>Tested: **19-April-2015**</li></ul>
+|Destroy All Humans!|<ul><li>**Menu/Title screen only** (no input)</li><li>**SLES-53196**</li></ul>
+|Destroy All Humans! 2|<ul><li>**Menu/Title screen only** (no input)</li><li>**SLES-54384**</li></ul>
+|Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
+|Disgaea: Hour of Darkness|<ul><li>**In-game** (graphics issues)</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li></ul>
+|Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>
+|Dragon Ball Z</li>Infinite World|<ul><li>**In-game**</li><li>**SLUS-21842**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Dragon Quest VIII|<ul><li>**Loadable with FPS**</li><li>**SLUS-21207**</li></ul>
+|Driv3r|<ul><li>**Loadable with FPS**</li><li>**SLES-50876**</li></ul>
+|Driver: Parallel Lines|<ul><li>**Loadable with FPS**</li><li>**SLES-54027**</li></ul>
+|Dynasty Warriors 2|<ul><li>**In-game** (graphics issues)</li><li>**SLUS-20079**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Dynasty Warriors 5|<ul><li>**In-game** (story mode broken, graphics issues)</li><li>**SLUS-21153**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Final Fantasy: Dirge of Cerberus|<ul><li>**Intro** (Stuck after SQUARE ENIX logo)</li><li>**SLUS-21419**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Final Fantasy X|<ul><li>**In-game** (SPU issues/save states needed)</li><li>**SLUS-20312**</li><li>Tested: **26-April-2015**</li></ul>
+|Final Fantasy X-2|<ul><li>**In-game** (graphics issues)</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li></ul>
+|Final Fantasy X-2 International + Last Mission|<ul><li>**In-game** (Last mission only)</li><li>**SLPM-65478**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
+|Flatout|<ul><li>**Loadable with FPS**</li><li>**SLES-52753**</li></ul>
+|Flipnic|<ul><li>**Crash**</li><li>**SLES-52065**</li></ul>
+|Forbidden Siren|<ul><li>**Intro Only** (no controller detected)</li><li>**SCES-51920**</li></ul>
+|Freedom Fighters|<ul><li>**Intro only** (Crashes after EA logo)</li><li>**SLES-51467**</li></ul>
+|Front Mission 4|<ul><li>**Loadable**</li><li>**PBPX-95506**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Full Metal Alchemist and the Broken Angel|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20994**</li><li>Tested: **21-June-2015**</li></ul>
+|God of War|<ul><li>**Intro only**</li><li>**SCUS-97399**</li><li>Tested: **10-May-2015**</li></ul>
+|Gradius III and IV|<ul><li>**Loadable with FPS**</li><li>**SLUS-20040**</li></ul>
+|Gradius V|<ul><li>**In-game**</li><li>**SLPM-62462**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Grandia II|<ul><li>**In-game**</li></ul>
+|Grand Theft Auto 3|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
+|Grand Theft Auto: Vice City|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
+|Gran Turismo 3: A-Spec|<ul><li>**Nothing/crash**</li><li>**SCES-50294**</li></ul>
+|Gran Turismo 4|<ul><li>**Nothing/crash**</li><li>**SCES-51719**</li></ul>
+|Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
+|Half-Life|<ul><li>**In-game**</li></ul>
+|Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
+|Hot Shots Golf Fore!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97401**</li><li>Tested: **05-April-2015**</li></ul>
+|Hot Wheels</li>World Race|<ul><li>**Crash**</li><li>**SLES-51879**</li></ul>
+|Ico|<ul><li>**Loadable with FPS**</li><li>**SCES-50760**</li><li>Tested: **24-May-2015**</li></ul>
+|Indigo Prophecy|<ul><li>**Crashes**</li><li>**SLUS-21196**</li></ul>
+|Jak & Daxter|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
+|Jak X|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53286**</li><li>Tested: **04-June-2015**</li></ul>
+|James Bond 007: Agent Under Fire|<ul><li>**Loadable with FPS**</li><li>**SLES-50539**</li></ul>
+|James Bond 007: Everything or Nothing|<ul><li>**Loadable with FPS**</li><li>**SLES-52005**</li></ul>
+|James Bond 007: Nightfire|<ul><li>**Loadable with FPS**</li><li>**SLES-51258**</li></ul>
+|Just Cause|<ul><li>**Crashes**</li><li>**SLES-54137**</li></ul>
+|Katamari Damacy|<ul><li>**Loadable with FPS**</li><li>**SLUS-21008**</li><li>Tested: **31-May-2015**</li></ul>
+|Kamiwaza|<ul><li>**Loadable with FPS**</li><li>**SLPM-66477**</li><li>Tested: **31-May-2015**</li></ul>
+|Killer7|<ul><li>**Loadable with FPS**</li><li>**SLES-53366**</li></ul>
+|Killzone|<ul><li>**Crashes**</li><li>**SCES-52004**</li></ul>
+|Kingdom Hearts|<ul><li>**In-game** (graphics issues)</li><li>**SLUS-20370**</li><li>Tested: **05-Apr-2015**</li></ul>
+|Kingdom Hearts: Final Mix|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25198**</li><li>Tested: **24-May-2015**</li></ul>
+|Kingdom Hearts 2|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
+|Kingdom Hearts 2: Final Mix|<ul><li>**Menu/Title screen only** (hangs after second cutscene)</li><li>**SLPM-66675**</li><li>Tested: **24-May-2015**</li></ul>
+|King's Field IV|<ul><li>**Intro Only**</li><li>**SLES-50920**</li><li>Tested: **24-May-2015**</li></ul>
+|Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
+|Mafia|<ul><li>**Loadable with FPS**</li><li>**SLES-52278**</li></ul>
+|Magna Carta: Tears of Blood|<ul><li>**Intro only**</li></ul>
+|Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
+|Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
+|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li></ul>
+|Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
+|Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
+|Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21243**</li><li>Tested: **24-May-2015**</li></ul>
+|Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
+|Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
+|Odin Sphere|<ul><li>**Loadable with FPS**</li><li>**SLES-55110**</li></ul>
+|Okami|<ul><li>**Loadable with FPS**</li><li>**SLUS-21115**</li></ul>
+|Oni|<ul><li>**Intro only** (can't skip videos)</li><li>**SLES-50134**</li></ul>
+|Outrun 2006: Coast 2 Coast|<ul><li>**Crashes**</li><li>**SLUS-21274**</li></ul>
+|Persona 3 FES|<ul><li>**Loadable with FPS, but shows nothing**</li><li>Tested: **09-Apr-2015**</li><li>**SLES-55354**</li></ul>
+|Persona 4|<ul><li>**Loadable with FPS**</li><li>**SLES-55474**</li></ul>
+|Pilot Down: Behind Enemy Lines|<ul><li>**Intro Only** (crashes when trying to start a new game)</li><li>**SLES-53099**</li></ul>
+|Project Snowblind|<ul><li>**Crashes**</li><li>**SLES-52859**</li></ul>
+|R-Type Final|<ul><li>**Menu/Title screen only** (No dualshock 2 detected screen)</li><li>**SLUS-20780**</li><li>Tested: **21-June-2015**</li></ul>
+|Ratchet & Clank|<ul><li>**Nothing/crash**</li></ul>
+|Ratchet & Clank: Going Commando|<ul><li>**Nothing/crash**</li><li>**SCUS-97268**</li><li>Tested: **24-May-2015**</li></ul>
+|Ratchet & Clank: Up Your Aresenal|<ul><li>**Nothing/crash**</li><li>**SCUS-97353**</li><li>Tested: **24-May-2015**</li></ul>
+|Radiata Stories|<ul><li>**Intro** (graphics issues, random hang-ups)</li><li>**SLUS-21262**</li><li>Tested: **31-May-2015**</li></ul>
+|Rayman M|<ul><li>**Intro Only** (crashes after displaying Ubisoft Logo)</li><li>**SLES-50457**</li></ul>
+|Red Dead Revolver|<ul><li>**Loadable with FPS**</li><li>**SLES-52478**</li></ul>
+|Red Faction|<ul><li>**Title Screen** (freezes loading level)</li><li>**SLES-50277**</li></ul>
+|Red Faction 2|<ul><li>**Intro only** (crashes on title screen)</li><li>**SLES-51133**</li></ul>
+|Red Star, The|<ul><li>**Crashes**</li><li>**SLES-54581**</li></ul>
+|Rez|<ul><li>**Loadable with FPS**</li><li>**SCES-50501**</li></ul>
+|Ridge Racer 5|<ul><li>**Crashes**</li><li>**PBPX-95201**</li></ul>
+|Rogue Galaxy|<ul><li>**Loadable with FPS**</li><li>**SCES-54552**</li></ul>
+|Romancing SaGa|<ul><li>**Intro only** (input bug)</li></ul>
+|Samurai Warriors 2|<ul><li>**In-game** (graphics issues, random hang-ups)</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Second Sight|<ul><li>**Title Screen** (Freezes while loading level)</li><li>**SLES-52670**</li></ul>
+|Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
+|Sengoku Basara X|<ul><li>**Crash**</li><li>**SLPM-55008**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Shadow Hearts|<ul><li>**Intro Only** (Crashes after logos)</li><li>**SLUS-20347**</li></ul>
+|Shadow Hearts: Covenant|<ul><li>**Loadable with FPS**</li><li>**SLES-82030**</li></ul>
+|Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53326**</li></ul>
+|Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
+|Shining Tears|<ul><li>**Loadable with FPS**</li><li>**SLUS-21063**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Shinobi|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25026**</li><li>Tested: **24-May-2015**</li></ul>
+|Silent Hill 2|<ul><li>**Crashes**</li><li>**SLES-50382**</li></ul>
+|Silent Hill 4|<ul><li>**Intro Only**</li><li>**SLES-52445**</li></ul>
+|Simpsons Hit and Run, The|<ul><li>**Crashes**</li><li>**SLES-51897**</li></ul>
+|Sly Cooper and the Thievius Raccoonus|<ul><li>**Loadable with FPS**</li><li>**SCES-50917**</li></ul>
+|Sly 3</li>Honor Among Thieves|<ul><li>**Loadable with FPS**</li><li>**SCES-53409**</li></ul>
+|SoulCalibur II|<ul><li>**Crashes**</li><li>**SLES-51799**</li></ul>
+|SoulCalibur III|<ul><li>**Loads with FPS**</li><li>**SCES-53312**</li></ul>
+|Spectral Gene|<ul><li>**Intro**</li><li>**SLPM-66899**</li><li>Tested: **31-May-2015**</li></ul>
+|Spy Hunter 2|<ul><li>**Loads with FPS**</li><li>**SLES-51841**</li></ul>
+|Spy Hunter|<ul><li>**Title Screen**</li><li>**SLES-50268**</li></ul>
+|Star Wars</li>Battlefront II|<ul><li>**Crashes**</li><li>**SLUS-21240**</li></ul>
+|Steambot Chronicles|<ul><li>**Title Screen**</li><li>**SLUS-21344**</li></ul>
+|Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
+|TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
+|Tony Hawk's Pro Skater 3|<ul><li>**Title Screen** (Level selection crashes)</li><li>**SLES-50435**</li></ul>
+|Tony Hawk's Pro Skater 4|<ul><li>**Loadable with FPS**</li><li>**SLES-51130**</li></ul>
+|Tony Hawk's Project 8|<ul><li>**Loadable with FPS**</li><li>**SLES-54389**</li></ul>
+|Tony Hawk's Underground|<ul><li>**Loadable with FPS**</li><li>**SLES-51848**</li></ul>
+|Tony Hawk's Underground 2|<ul><li>**Loadable with FPS**</li><li>**SLES-52621**</li></ul>
+|Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Trapt|<ul><li>**Crash**</li><li>**SLUS-21255**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Twisted Metal: Black|<ul><li>**Intro Only**</li><li>**PBPX-95506**</li><li>Tested: **24-May-2015**</li></ul>
+|Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
+|Unreal Tournament |<ul><li>**In-game**</li></ul>
+|Valkyrie Profile 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21452**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLES-51616**</li><li>Tested: **03-May-2015**</li></ul>
+|War of the Monsters|<ul><li>**Intro Only**</li><li>**SCUS-97197**</li></ul>
+|We Love Katamari|<ul><li>**Loadable with FPS**</li><li>**SLUS-21230**</li></ul>
+|Whiplash|<ul><li>**Loadable with FPS**</li><li>**SLES-51958**</li></ul>
+|Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
+|Wipeout Fusion|<ul><li>**Crashes**</li><li>**SCES-50005**</li></ul>
+|Wipeout Pulse|<ul><li>**Loads with FPS**</li><li>**SCES-54748**</li></ul>
+|XIII|<ul><li>**Intro Only** (language selection, crashes while loading)</li><li>**SLES-51244**</li></ul>
+|Zone of the Enders|<ul><li>**Intro only** (screen goes grey)</li><li>**SLES-50111**</li></ul>
+|Zone of the Enders: The 2nd Runner|<ul><li>**Loadable with FPS**</li><li>**SLES-51113**</li></ul>
 ## Android ##
 |Game|Status|
 |----|------|
-|Aeon Flux|**In-game** (needs analog stick support, so can't walk/move) - **SLUS-21205** - **07-Jun-2015**
-|Arcana Heart|**In-game** (some graphics issues with characters) - **SLUS-21720** - **31-May-2015**
-|Ar Tonelico - Melody of Elemia|**Nothing/Crash** - **SLUS-21445** - **07-Jun-2015**
-|Atelier Iris: Eternal Mana|**Menu/Title screen only** (crashes after selecting new game) - **SLUS-21113** - **07-Jun-2015**
-|Bee Movie Game|**Intro only** (crashes during memory card check) - **SLUS-21622** - **07-Jun-2015**
-|Bolt|**Intro only** (crashes after Disney logo) - **SLUS-21844** - **07-Jun-2015**
-|Bully|**Intro only** - **SLUS-21269** - **07-Jun-2015**
-|Butt Ugly Martians - Zoom or Doom!|**Nothing/Crash** - **SLUS-20527** - **07-Jun-2015**
-|Call of Duty - World at War - Final Fronts|**Menu/Title screen only** - **SLUS-21746** - **07-Jun-2015**
-|Castlevania - Lament of Innocence|**Intro only** - **SLUS-20733** - **31-May-2015**
-|Conflict: Vietnam|**Nothing/Crash** (line appears at bottom of screen, but nothing else) - **SLUS-21045** - **24-May-2015**
-|Crash Bandicoot - The Wrath of Cortex|**Nothing/Crash** (just sits at black screen) - **SLUS-20238** - **07-Jun-2015**
-|Dark Cloud|**In-game** (lots of graphics issues/unsupported input) - **SCUS-97111** - **24-May-2015**
-|Dark Cloud 2|**Intro only** (hang after Level 5 logo) - **SCUS-97213** - **07-Jun-2015**
-|Dead To Rights|**Intro only** - **SLUS-20220** - **31-May-2015**
-|Devil May Cry|**Nothing/Crash** - **SLUS-20216** - **07-Jun-2015**
-|Digimon World 4|**Nothing/Crash** - **SLUS-20836** - **07-Jun-2015**
-|Disgaea 2 - Cursed Memories|**In-game** (very slow and very slight graphics issues) - **SLUS-21397** - **31-May-2015**
-|Disgaea - Hour of Darkness|**In-game** (slight graphics issues) - **SLUS-20666** - **24-May-2015**
-|Dragon Ball Z: Infinite World|**Menu/Title screen only** (black screen hang after BANDAI logo) - **SLES-55347** - **31-May-2015**
-|Final Fantasy VII: Dirge of Cerberus|**Intro only** (hangs after Square Enix logo) - **SLUS-21419** - **31-May-2015**
-|Final Fantasy X |**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus) - **SLUS-20312** - **07-Jun-2015**
-|Final Fantasy X-2 | **Menu/Title screen only** (loads first FMV, but won't pass it) - **SLUS-20672** - **07-Jun-2015**
-|Final Fantasy XII | **Menu/Title screen only** (crashes right after new game confirm screen before FMV) - **SLUS-20963** - **07-Jun-2015**
-|Gradius V|**In-game** - **SLUS-20712** - **17-May-2015**
-|Grand Theft Auto III|**Nothing/Crash** - **SLUS-20062** - **31-May-2015**
-|Grand Theft Auto: Vice City|**Menu/Title screen only** (hangs after opening/menu sequence) - **SLUS-20552** - **07-Jun-2015**
-|Grand Theft Auto: San Andreas|**Menu/Title screen only** - **SLUS-20946** - **31-May-2015**
-|Gregory Horror Show|**Nothing/Crash** - **SLES-51933** - **31-May-2015**
-|Guilty Gear X|**In-game** - **SLUS-20287** - **17-May-2015**
-|Half-Life|**In-game** (needs analog sticks, so can't move) - **SLUS-20066** - **31-May-2015**
-|Hot Shots Golf 3|**Nothing/Crash** (screen flashes but nothing else) - **SCUS-97130** - **07-Jun-2015**
-|Jak and Daxter - The Precursor Legacy|**Nothing/Crash** - **SCUS-97124** - **07-Jun-2015**
-|Kingdom Hearts|**In-game** (graphics issues & can't move because of unsupported input/analog sticks) - **SLUS-20370** - **07-Jun-2015**
-|Kingdom Hearts II|**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo) - **SLUS-21005** - **31-May-2015**
-|Klonoa 2: Lunatea's Veil|**Nothing/Crash** - **SLUS-20151** - **31-May-2015**
-|Manhunt|**Intro only** - **SLUS-20827** - **07-Jun-2015**
-|Marvel vs. Capcom 2: New Age of Heroes|**In-game** (graphics issues) - **SLUS-20486** - **17-May-2015**
-|Metal Gear Solid 2: Sons of Liberty|**Nothing/Crash** - **SLUS-20144** - **07-Jun-2015**
-|Metal Slug 4 & 5|**Intro only** (after logos it hangs on black screen) - **SLUS-20971** - **31-May-2015**
-|Monster Hunter|**Nothing/Crash** - **SLUS-20896** - **07-Jun-2015**
-|Mortal Kombat: Armageddon|**Intro only** (won't pass first logo) - **SLUS-21410** - **31-May-2015**
-|Phantom Brave|**In-game** (not all input supported yet) - **SLUS-20955** - **31-May-2015**
-|Resident Evil 4|**Nothing/Crash** - **SLUS-21134** - **31-May-2015**
-|SEGA Ages 2500 Volume 11 - Fist of the North Star|**In-game** - **SLPM-62432** - **17-May-2015**
-|SEGA Ages 2500 Volume 13 - OutRun|**In-game** (messed up textures and graphics and very slow) - **SLPM-62447** - **31-May-2015**
-|SEGA Ages 2500 Volume 17 - Phantasy Star Generation: 2|**In-game** - **SLPM-62553** - **17-May-2015**
-|SEGA Ages 2500 Volume 27 - Panzer Dragoon|**Nothing/Crash** (pixels on bottom of screen; nothing else) - **SLPM-62718**
-|Shadow of the Colossus|**Loadable with FPS, but shows nothing** - **SCUS-97472** - **14-Jun-2015**
-|Shrek The Third|**Nothing/Crash** - **SLUS-21454** - **31-May-2015**
-|Spyro - Enter The Dragonfly|**Nothing/Crash** - **SLUS-20315** - **07-Jun-2015**
-|Star Ocean - Till the End of Time (Disc 1)|**Nothing/Crash** - **SLUS-20488** - **07-Jun-2015**
-|The Bigs 2|**Intro only** (black screen hang after logos) - **SLUS-21860** - **07-Jun-2015**
-|Tom & Jerry in War of the Whiskers|**In-game** (major graphics issues/screen is off-centered) - **SLUS-20355** - **24-May-2015**
-|Unreal Tournament|**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls) - **SLUS-20034** - **17-May-2015**
-|Viewtiful Joe|**Nothing/Crash** - **SLUS-20951** - **07-Jun-2015**
-|Virtua Fighter 4: Evolution|**In-game** (can enter battles, but can't see characters) - **SLUS-20616** - **07-Jun-2015**
-|Whiplash|**Nothing/Crash** - **SLUS-20684** - **07-Jun-2015**
-|Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|**Menu/Title screen only** (stuck at loading screen after new game) - **SLUS-20892** - **31-May-2015**
-|Ys 1 & 2 - Eternal Story|**In-game** (can't see field/characters/objects; just a black area; graphics issue) - **SLPS-25206** - **31-May-2015**
-|Zone of the Enders|**Nothing/Crash** - **SLUS-20148** - **31-May-2015**
+|Aeon Flux|<ul><li>**In-game** (needs analog stick support, so can't walk/move)</li><li>**SLUS-21205**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Arcana Heart|<ul><li>**In-game** (some graphics issues with characters)</li><li>**SLUS-21720**</li><li>Tested: **31-May-2015**</li></ul>
+|Ar Tonelico</li>Melody of Elemia|<ul><li>**Nothing/Crash**</li><li>**SLUS-21445**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Atelier Iris: Eternal Mana|<ul><li>**Menu/Title screen only** (crashes after selecting new game)</li><li>**SLUS-21113**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Bee Movie Game|<ul><li>**Intro only** (crashes during memory card check)</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Bolt|<ul><li>**Intro only** (crashes after Disney logo)</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Bully|<ul><li>**Intro only**</li><li>**SLUS-21269**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Butt Ugly Martians</li>Zoom or Doom!|<ul><li>**Nothing/Crash**</li><li>**SLUS-20527**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Call of Duty</li>World at War</li>Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Castlevania</li>Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
+|Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
+|Crash Bandicoot</li>The Wrath of Cortex|<ul><li>**Nothing/Crash** (just sits at black screen)</li><li>**SLUS-20238**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Dark Cloud|<ul><li>**In-game** (lots of graphics issues/unsupported input)</li><li>**SCUS-97111**</li><li>Tested: **24-May-2015**</li></ul>
+|Dark Cloud 2|<ul><li>**Intro only** (hang after Level 5 logo)</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
+|Devil May Cry|<ul><li>**Nothing/Crash**</li><li>**SLUS-20216**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Digimon World 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-20836**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Disgaea 2</li>Cursed Memories|<ul><li>**In-game** (very slow and very slight graphics issues)</li><li>**SLUS-21397**</li><li>Tested: **31-May-2015**</li></ul>
+|Disgaea</li>Hour of Darkness|<ul><li>**In-game** (slight graphics issues)</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li></ul>
+|Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only** (black screen hang after BANDAI logo)</li><li>**SLES-55347**</li><li>Tested: **31-May-2015**</li></ul>
+|Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only** (hangs after Square Enix logo)</li><li>**SLUS-21419**</li><li>Tested: **31-May-2015**</li></ul>
+|Final Fantasy X |<ul><li>**Menu/Title screen only** (freezes in Zanarkand before gaining control of Tidus)</li><li>**SLUS-20312**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Final Fantasy X-2 |<ul><li>**Menu/Title screen only** (loads first FMV, but won't pass it)</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Final Fantasy XII |<ul><li>**Menu/Title screen only** (crashes right after new game confirm screen before FMV)</li><li>**SLUS-20963**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Gradius V|<ul><li>**In-game**</li><li>**SLUS-20712**</li><li>Tested: **17-May-2015**</li></ul>
+|Grand Theft Auto III|<ul><li>**Nothing/Crash**</li><li>**SLUS-20062**</li><li>Tested: **31-May-2015**</li></ul>
+|Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only** (hangs after opening/menu sequence)</li><li>**SLUS-20552**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **31-May-2015**</li></ul>
+|Gregory Horror Show|<ul><li>**Nothing/Crash**</li><li>**SLES-51933**</li><li>Tested: **31-May-2015**</li></ul>
+|Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
+|Half-Life|<ul><li>**In-game** (needs analog sticks, so can't move)</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li></ul>
+|Hot Shots Golf 3|<ul><li>**Nothing/Crash** (screen flashes but nothing else)</li><li>**SCUS-97130**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Jak and Daxter</li>The Precursor Legacy|<ul><li>**Nothing/Crash**</li><li>**SCUS-97124**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Kingdom Hearts|<ul><li>**In-game** (graphics issues & can't move because of unsupported input/analog sticks)</li><li>**SLUS-20370**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Kingdom Hearts II|<ul><li>**Intro only** (extremely slow; took over 15 minutes to reach Square Enix logo)</li><li>**SLUS-21005**</li><li>Tested: **31-May-2015**</li></ul>
+|Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
+|Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game** (graphics issues)</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li></ul>
+|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Nothing/Crash**</li><li>**SLUS-20144**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Metal Slug 4 & 5|<ul><li>**Intro only** (after logos it hangs on black screen)</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li></ul>
+|Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Mortal Kombat: Armageddon|<ul><li>**Intro only** (won't pass first logo)</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li></ul>
+|Phantom Brave|<ul><li>**In-game** (not all input supported yet)</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li></ul>
+|Resident Evil 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-21134**</li><li>Tested: **31-May-2015**</li></ul>
+|SEGA Ages 2500 Volume 11</li>Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
+|SEGA Ages 2500 Volume 13</li>OutRun|<ul><li>**In-game** (messed up textures and graphics and very slow)</li><li>**SLPM-62447**</li><li>Tested: **31-May-2015**</li></ul>
+|SEGA Ages 2500 Volume 17</li>Phantasy Star Generation: 2|<ul><li>**In-game**</li><li>**SLPM-62553**</li><li>Tested: **17-May-2015**</li></ul>
+|SEGA Ages 2500 Volume 27</li>Panzer Dragoon|<ul><li>**Nothing/Crash** (pixels on bottom of screen; nothing else)</li><li>**SLPM-62718**</li></ul>
+|Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97472**</li><li>Tested: **14-Jun-2015**</li></ul>
+|Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **31-May-2015**</li></ul>
+|Spyro</li>Enter The Dragonfly|<ul><li>**Nothing/Crash**</li><li>**SLUS-20315**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Star Ocean</li>Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
+|The Bigs 2|<ul><li>**Intro only** (black screen hang after logos)</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Tom & Jerry in War of the Whiskers|<ul><li>**In-game** (major graphics issues/screen is off-centered)</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li></ul>
+|Unreal Tournament|<ul><li>**In-game** (graphics issues/hard to see; difficult to get in-game & needs more controls)</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li></ul>
+|Viewtiful Joe|<ul><li>**Nothing/Crash**</li><li>**SLUS-20951**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Virtua Fighter 4: Evolution|<ul><li>**In-game** (can enter battles, but can't see characters)</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Whiplash|<ul><li>**Nothing/Crash**</li><li>**SLUS-20684**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only** (stuck at loading screen after new game)</li><li>**SLUS-20892**</li><li>Tested: **31-May-2015**</li></ul>
+|Ys 1 & 2</li>Eternal Story|<ul><li>**In-game** (can't see field/characters/objects; just a black area; graphics issue)</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li></ul>
+|Zone of the Enders|<ul><li>**Nothing/Crash**</li><li>**SLUS-20148**</li><li>Tested: **31-May-2015**</li></ul>
