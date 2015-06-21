@@ -23,6 +23,8 @@
 |Arcana Heart 2|**In-game** - **SLPM-55147** - **31-May-2015**
 |Animaniacs: The Great Edgar Hunt|**Nothing/crash** 
 |Atelier Iris: Eternal Mana|**In-game**
+|Atelier Iris 2: The Azoth of Destiny|**In-game** - **SLUS-21327** - **21-June-2015**
+|Atelier Iris 3: Grand Phantasm|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21564** - **21-June-2015**
 |Baldur's Gate: Dark Alliance|**In-game**
 |Beatmania|**Loadable with FPS, but shows nothing** - **SLUS-21239** - **2-Apr-2015**
 |Bombastic|**Nothing/Crash** - **SLES-51966**
