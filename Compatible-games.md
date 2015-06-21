@@ -21,6 +21,8 @@
 |Area 51|**Intro only** - **SLUS-20595**
 |Arcana Heart|**In-game** - **SLPM-66850** - **31-May-2015**
 |Arcana Heart 2|**In-game** - **SLPM-55147** - **31-May-2015**
+|Ar Tonelico: Melody of Elemia|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21445** - **21-June-2015**
+|Ar Tonelico: Melody of Metafalica|**Loadable with FPS, but shows nothing** (Loud static & distorted sound) - **SLUS-21788**
 |Animaniacs: The Great Edgar Hunt|**Nothing/crash** 
 |Atelier Iris: Eternal Mana|**In-game**
 |Atelier Iris 2: The Azoth of Destiny|**In-game** - **SLUS-21327** - **21-June-2015**
