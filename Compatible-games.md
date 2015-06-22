@@ -189,17 +189,18 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Game|Status|
 |----|------|
 |Aeon Flux|<ul><li>**In-game**</li><li>**SLUS-21205**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (needs analog stick support, so can't walk/move)</li></ul>
+|Animaniacs - The Great Edgar Hunt|<ul><li>**Intro only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
 |Arcana Heart|<ul><li>**In-game**</li><li>**SLUS-21720**</li><li>Tested: **31-May-2015**</li><li>Notes: (some graphics issues with characters)</li></ul>
-|Ar Tonelico: Melody of Elemia|<ul><li>**Nothing/Crash**</li><li>**SLUS-21445**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Atelier Iris: Eternal Mana|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21113**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after selecting new game)</li></ul>
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
 |Bully|<ul><li>**Intro only**</li><li>**SLUS-21269**</li><li>Tested: **07-Jun-2015**</li></ul>
-|Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Nothing/Crash**</li><li>**SLUS-20527**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Call of Duty: World at War - Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Castlevania: Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
-|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Nothing/Crash**</li><li>**SLUS-20238**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (just sits at black screen)</li></ul>
+|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20238**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (just sits at black screen)</li></ul>
 |Dark Cloud|<ul><li>**In-game**</li><li>**SCUS-97111**</li><li>Tested: **24-May-2015**</li><li>Notes: (lots of graphics issues/unsupported input)</li></ul>
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hang after Level 5 logo)</li></ul>
 |Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
@@ -209,14 +210,14 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li><li>Notes: (slight graphics issues)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **31-May-2015**</li><li>Notes: (black screen hang after BANDAI logo)</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **31-May-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
-|Final Fantasy X |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20312**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (freezes in Zanarkand before gaining control of Tidus)</li></ul>
+|Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (seems to play a pinch faster in the latest build)</li></ul>
 |Final Fantasy X-2 |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (loads first FMV, but won't pass it)</li></ul>
-|Final Fantasy XII |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20963**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes right after new game confirm screen before FMV)</li></ul>
+|Final Fantasy XII |<ul><li>**In-game**</li><li>**SLUS-20963**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (goes in-game but can't proceed due to lack of input support with analog sticks)</li></ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLUS-20712**</li><li>Tested: **17-May-2015**</li></ul>
 |Grand Theft Auto III|<ul><li>**Nothing/Crash**</li><li>**SLUS-20062**</li><li>Tested: **31-May-2015**</li></ul>
-|Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
-|Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **31-May-2015**</li></ul>
-|Gregory Horror Show|<ul><li>**Nothing/Crash**</li><li>**SLES-51933**</li><li>Tested: **31-May-2015**</li></ul>
+|Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
+|Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **20-Jun-2015**</li></ul>
+|Gregory Horror Show|<ul><li>**Nothing/Crash**</li><li>**SLES-51933**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Nothing/Crash**</li><li>**SCUS-97130**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
@@ -224,9 +225,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (graphics issues & can't move because of unsupported input/analog sticks)</li></ul>
 |Kingdom Hearts II|<ul><li>**Intro only**</li><li>**SLUS-21005**</li><li>Tested: **31-May-2015**</li><li>Notes: (extremely slow; took over 15 minutes to reach Square Enix logo)</li></ul>
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
-|Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (gets stuck whenever you press any buttons)</li></ul>
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Nothing/Crash**</li><li>**SLUS-20144**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Metal Slug 4 & 5|<ul><li>**Intro only**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (after logos it hangs on black screen)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Mortal Kombat: Armageddon|<ul><li>**Intro only**</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li><li>Notes: (won't pass first logo)</li></ul>
@@ -238,12 +239,12 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |SEGA Ages 2500 Volume 27: Panzer Dragoon|<ul><li>**Nothing/Crash**</li><li>**SLPM-62718**</li><li>Notes: (pixels on bottom of screen; nothing else)</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97472**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **31-May-2015**</li></ul>
-|Spyro: Enter The Dragonfly|<ul><li>**Nothing/Crash**</li><li>**SLUS-20315**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Spyro: Enter The Dragonfly|<ul><li>**Intro only**</li><li>**SLUS-20315**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (shows Spyro, which is part of the intro process, but hangs & won't proceed)</li></ul>
 |Star Ocean: Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |Unreal Tournament|<ul><li>**In-game**</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues/hard to see; difficult to get in-game & needs more controls)</li></ul>
-|Viewtiful Joe|<ul><li>**Nothing/Crash**</li><li>**SLUS-20951**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Viewtiful Joe|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20951**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (can enter battles, but can't see characters)</li></ul>
 |Whiplash|<ul><li>**Nothing/Crash**</li><li>**SLUS-20684**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **31-May-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
