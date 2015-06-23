@@ -52,10 +52,10 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution SuperNOVA|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21377**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution SuperNOVA 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21608**</li><li>Tested: **02-Apr-2015**</li></ul>
-|Dark Cloud|<ul><li>**In-game**</li><li>**SCES-50295**</li>Notes: (graphics issues)<li></li></ul>
+|Dark Cloud|<ul><li>**In-game**</li><li>**SCES-50295**</li><li>Notes: (graphics issues)</li></ul>
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCES-51190**</li></ul>
 |Dead to Rights|<ul><li>**Nothing/crash**</li><li>**SLUS-20220**</li><li>Tested: **19-April-2015**</li></ul>
-|Destroy All Humans!|<ul><li>**Menu/Title screen only**</li><li>**SLES-53196**</li>Notes: (no input)<li></li></ul>
+|Destroy All Humans!|<ul><li>**Menu/Title screen only**</li><li>**SLES-53196**</li><li>Notes: (no input)</li></ul>
 |Destroy All Humans! 2|<ul><li>**Menu/Title screen only**</li><li>**SLES-54384**</li><li>Notes: (no input)</li></ul>
 |Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
