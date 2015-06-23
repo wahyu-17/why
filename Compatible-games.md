@@ -222,6 +222,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Nothing/Crash**</li><li>**SCUS-97130**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
 |Jak and Daxter: The Precursor Legacy|<ul><li>**Nothing/Crash**</li><li>**SCUS-97124**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Jet Li: Rise To Honor|<ul><li>**Intro only**</li><li>**SCUS-97279**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (graphics issues & can't move because of unsupported input/analog sticks)</li></ul>
 |Kingdom Hearts II|<ul><li>**Intro only**</li><li>**SLUS-21005**</li><li>Tested: **31-May-2015**</li><li>Notes: (extremely slow; took over 15 minutes to reach Square Enix logo)</li></ul>
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
