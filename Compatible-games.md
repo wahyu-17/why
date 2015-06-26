@@ -116,6 +116,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21243**</li><li>Tested: **24-May-2015**</li></ul>
+|Metal Slug 6|<ul><li>**In-Game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
 |Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
 |Odin Sphere|<ul><li>**Loadable with FPS**</li><li>**SLES-55110**</li></ul>
