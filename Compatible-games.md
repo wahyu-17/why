@@ -110,7 +110,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
 |Mafia|<ul><li>**Loadable with FPS**</li><li>**SLES-52278**</li></ul>
 |Magna Carta: Tears of Blood|<ul><li>**Intro only**</li></ul>
-|Medal of Honor Frontline|<ul><li>**Intro only**</li></ul>
+|Medal of Honor Frontline|<ul><li>**Intro only**</li><li>**SLUS-20368**</li></ul>
 |Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
 |Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li></ul>
