@@ -67,7 +67,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dynasty Warriors 2|<ul><li>**In-game**</li><li>**SLUS-20079**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dynasty Warriors 5|<ul><li>**In-game**</li><li>**SLUS-21153**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (story mode broken, graphics issues)</li></ul>
 |Final Fantasy: Dirge of Cerberus|<ul><li>**Intro**</li><li>**SLUS-21419**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Stuck after SQUARE ENIX logo)</li></ul>
-|Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **26-April-2015**</li><li>Notes: (SPU issues/save states needed)</li></ul>
+|Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2 International + Last Mission|<ul><li>**In-game**</li><li>**SLPM-65478**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Last mission only)</li></ul>
 |Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
