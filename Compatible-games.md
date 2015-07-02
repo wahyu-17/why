@@ -165,6 +165,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Star Wars</li>Battlefront II|<ul><li>**Crashes**</li><li>**SLUS-21240**</li></ul>
 |Steambot Chronicles|<ul><li>**Title Screen**</li><li>**SLUS-21344**</li></ul>
 |Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
+|Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
 |Tony Hawk's Pro Skater 3|<ul><li>**Title Screen**</li><li>**SLES-50435**</li><li>Notes: (Level selection crashes)</li></ul>
 |Tony Hawk's Pro Skater 4|<ul><li>**Loadable with FPS**</li><li>**SLES-51130**</li></ul>
