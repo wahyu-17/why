@@ -61,6 +61,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**In-game**</li><li>**SLUS-21842**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
 |Dragon Quest VIII|<ul><li>**In-game**</li><li>**SLUS-21207**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Driv3r|<ul><li>**Loadable with FPS**</li><li>**SLES-50876**</li></ul>
 |Driver: Parallel Lines|<ul><li>**Loadable with FPS**</li><li>**SLES-54027**</li></ul>
