@@ -106,7 +106,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Killzone|<ul><li>**Crashes**</li><li>**SCES-52004**</li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **05-Apr-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Kingdom Hearts: Final Mix|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25198**</li><li>Tested: **24-May-2015**</li></ul>
-|Kingdom Hearts 2|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
+|Kingdom Hearts 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (seems to freeze right at Twilight Town, right before getting Roxas)</li></ul>
 |Kingdom Hearts 2: Final Mix|<ul><li>**Menu/Title screen only**</li><li>**SLPM-66675**</li><li>Tested: **24-May-2015**</li><li>Notes: (hangs after second cutscene)</li></ul>
 |King's Field IV|<ul><li>**Intro Only**</li><li>**SLES-50920**</li><li>Tested: **24-May-2015**</li></ul>
 |Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
