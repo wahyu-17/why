@@ -149,7 +149,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
 |Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
 |Sengoku Basara X|<ul><li>**Crash**</li><li>**SLPM-55008**</li><li>Tested: **29-Mar-2015**</li></ul>
-|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: Freezes during intro cutscene, but can be played by skipping it</li></ul></li><li>Tested: **07-Jul-2015**</li></ul>
+|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: Freezes during intro cutscene, but can be played by skipping it</li><li>Tested: **07-Jul-2015**</li></ul>
 |Shadow Hearts: Covenant|<ul><li>**Loadable with FPS**</li><li>**SLES-82030**</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53326**</li></ul>
 |Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
