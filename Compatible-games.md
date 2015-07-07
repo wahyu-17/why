@@ -216,6 +216,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Digimon World 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-20836**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **31-May-2015**</li><li>Notes: (very slow and very slight graphics issues)</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li><li>Notes: (slight graphics issues)</li></ul>
+|Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **31-May-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
 |Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (seems to play a pinch faster in the latest build)</li></ul>
