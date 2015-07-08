@@ -219,7 +219,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li><li>Notes: (slight graphics issues)</li></ul>
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
-|Evergrace|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues and doesn't reach loading screen)</li></ul>
+|Evergrace|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **31-May-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
 |Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (seems to play a pinch faster in the latest build)</li></ul>
 |Final Fantasy X-2 |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (loads first FMV, but won't pass it)</li></ul>
