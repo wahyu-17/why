@@ -68,6 +68,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Driver: Parallel Lines|<ul><li>**Loadable with FPS**</li><li>**SLES-54027**</li></ul>
 |Dynasty Warriors 2|<ul><li>**In-game**</li><li>**SLUS-20079**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dynasty Warriors 5|<ul><li>**In-game**</li><li>**SLUS-21153**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (story mode broken, graphics issues)</li></ul>
+|Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
 |Final Fantasy: Dirge of Cerberus|<ul><li>**Intro**</li><li>**SLUS-21419**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Stuck after SQUARE ENIX logo)</li></ul>
 |Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
@@ -149,7 +150,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
 |Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
 |Sengoku Basara X|<ul><li>**Crash**</li><li>**SLPM-55008**</li><li>Tested: **29-Mar-2015**</li></ul>
-|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: There are some harmless broken graphics, but gameplay is too fast</li><li>Tested: **07-Jul-2015**</li></ul>
+|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: (There are some harmless broken graphics, but gameplay is too fast)</li><li>Tested: **07-Jul-2015**</li></ul>
 |Shadow Hearts: Covenant|<ul><li>**Loadable with FPS**</li><li>**SLES-82030**</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53326**</li></ul>
 |Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
@@ -248,7 +249,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |SEGA Ages 2500 Volume 13: OutRun|<ul><li>**In-game**</li><li>**SLPM-62447**</li><li>Tested: **31-May-2015**</li><li>Notes: (messed up textures and graphics and very slow)</li></ul>
 |SEGA Ages 2500 Volume 17: Phantasy Star Generation: 2|<ul><li>**In-game**</li><li>**SLPM-62553**</li><li>Tested: **17-May-2015**</li></ul>
 |SEGA Ages 2500 Volume 27: Panzer Dragoon|<ul><li>**Nothing/Crash**</li><li>**SLPM-62718**</li><li>Notes: (pixels on bottom of screen; nothing else)</li></ul>
-|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: Freezes during intro cutscene, but can be played by skipping it</li><li>Tested: **07-Jul-2015**</li></ul>
+|Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Notes: (Freezes during intro cutscene, but can be played by skipping it)</li><li>Tested: **07-Jul-2015**</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97472**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **31-May-2015**</li></ul>
 |Spyro: Enter The Dragonfly|<ul><li>**Intro only**</li><li>**SLUS-20315**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (shows Spyro, which is part of the intro process, but hangs & won't proceed)</li></ul>
