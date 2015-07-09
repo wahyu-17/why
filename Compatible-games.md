@@ -178,6 +178,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tony Hawk's Underground|<ul><li>**Loadable with FPS**</li><li>**SLES-51848**</li></ul>
 |Tony Hawk's Underground 2|<ul><li>**Loadable with FPS**</li><li>**SLES-52621**</li></ul>
 |Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **29-Mar-2015**</li></ul>
+|The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Trapt|<ul><li>**Crash**</li><li>**SLUS-21255**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Twisted Metal: Black|<ul><li>**Intro Only**</li><li>**PBPX-95506**</li><li>Tested: **24-May-2015**</li></ul>
 |Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
@@ -220,10 +221,10 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
 |Evergrace|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
-|Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **31-May-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
-|Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (seems to play a pinch faster in the latest build)</li></ul>
+|Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
+|Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (runs okay, few graphics glitches, but is pretty slow)</li></ul>
 |Final Fantasy X-2 |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (loads first FMV, but won't pass it)</li></ul>
-|Final Fantasy XII |<ul><li>**In-game**</li><li>**SLUS-20963**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (goes in-game but can't proceed due to lack of input support with analog sticks)</li></ul>
+|Final Fantasy XII |<ul><li>**In-game**</li><li>**SLUS-20963**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (very slow and slight graphics issues)</li></ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLUS-20712**</li><li>Tested: **17-May-2015**</li></ul>
 |Grand Theft Auto III|<ul><li>**Nothing/Crash**</li><li>**SLUS-20062**</li><li>Tested: **31-May-2015**</li></ul>
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
@@ -241,9 +242,10 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Metal Slug 4 & 5|<ul><li>**Intro only**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (after logos it hangs on black screen)</li></ul>
-|Metal Slug 6|<ul><li>**In-Game**</li><li>**SLPS-25674**</li><li>**Just some textures/sprites missing at some points, game saves not tested**</li></ul>
+|Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Just some textures/sprites missing at some points, game saves not tested**</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Mortal Kombat: Armageddon|<ul><li>**Intro only**</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li><li>Notes: (won't pass first logo)</li></ul>
+|Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
 |Resident Evil 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-21134**</li><li>Tested: **31-May-2015**</li></ul>
 |SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
@@ -257,6 +259,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Star Ocean: Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
+|The Ant Bully|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Unreal Tournament|<ul><li>**In-game**</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues/hard to see; difficult to get in-game & needs more controls)</li></ul>
 |Viewtiful Joe|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20951**</li><li>Tested: **28-Jun-2015**</li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (can enter battles, but can't see characters)</li></ul>
