@@ -203,7 +203,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Atelier Iris: Eternal Mana|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21113**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after selecting new game)</li></ul>
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
+|Blood Omen 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20024**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
+|Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bully|<ul><li>**Intro only**</li><li>**SLUS-21269**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Call of Duty: World at War - Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
@@ -211,7 +213,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Capcom Fighting Evolution|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20950**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
 |Crash Bandicoot: The Wrath of Cortex|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20238**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (just sits at black screen)</li></ul>
-|Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Dark Cloud|<ul><li>**In-game**</li><li>**SCUS-97111**</li><li>Tested: **24-May-2015**</li><li>Notes: (lots of graphics issues/unsupported input)</li></ul>
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hang after Level 5 logo)</li></ul>
 |Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
