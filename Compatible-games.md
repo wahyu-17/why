@@ -260,6 +260,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
 |RPG Maker 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21178**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
+|Saint Seiya: The Sanctuary|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-54162**</li><li>Tested: **11-Jul-2015**</li></ul>
 |SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
 |SEGA Ages 2500 Volume 13: OutRun|<ul><li>**In-game**</li><li>**SLPM-62447**</li><li>Tested: **31-May-2015**</li><li>Notes: (messed up textures and graphics and very slow)</li></ul>
 |SEGA Ages 2500 Volume 17: Phantasy Star Generation: 2|<ul><li>**In-game**</li><li>**SLPM-62553**</li><li>Tested: **17-May-2015**</li></ul>
