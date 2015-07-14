@@ -203,6 +203,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Aqua Aqua|<ul><li>**In-game**</li><li>**SLUS-20162**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Atelier Iris: Eternal Mana|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21113**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (hangs on a black screen between first cutscenes with Lita)</li></ul>
+|Atelier Iris 2: The Azoth of Destiny|<ul><li>**In-game**</li><li>**SLUS-21327**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics problem with field of view/viewing frustum being too close & can't see everything on the screen)</li></ul>
 |Bakugan: Battle Brawlers|<ul><li>**In-game**</li><li>**SLUS-21902**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (in order to get in-game at this point, you have to skip a select number of intro videos or else the emulator will freeze, and you have to skip some very quickly; otherwise, it works just fine, but it's extremely slow and stalls a lot during battles)</li></ul>
 |Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li><li>**SLUS-20035**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (split-screen graphical issues, plus other graphics issues; very, very slow too)</li></ul>
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
