@@ -255,6 +255,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mortal Kombat: Armageddon|<ul><li>**Intro only**</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li><li>Notes: (won't pass first logo)</li></ul>
 |Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
+|Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
 |Resident Evil 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-21134**</li><li>Tested: **31-May-2015**</li></ul>
 |Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
