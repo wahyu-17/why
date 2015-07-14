@@ -248,7 +248,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (gets stuck whenever you press any buttons)</li></ul>
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **20-Jun-2015**</li></ul>
-|Metal Slug 4 & 5|<ul><li>**Intro only**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (after logos it hangs on black screen)</li></ul>
+|Metal Slug 4 & 5|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (some slight graphics issues)</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Just some textures/sprites missing at some points, game saves not tested**</li></ul>
 |Midway Arcade Treasures 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20997**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (There are missing effects and the games don't play)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
