@@ -211,6 +211,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
 |Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bully|<ul><li>**Intro only**</li><li>**SLUS-21269**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Bust A Block|<ul><li>**Menu/Title screen only**</li><li>**SLES-51713**</li><li>Tested: **15-JuL-2015**</li></ul>
 |Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Call of Duty: World at War - Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Castlevania: Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
