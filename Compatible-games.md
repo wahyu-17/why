@@ -228,6 +228,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
 |Evergrace|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
+|Fatal Frame II: Crimson Butterfly|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20766**</li><li>Tested: **12-Jul-2015**</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
 |Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (runs okay, few graphics glitches, but is pretty slow)</li></ul>
 |Final Fantasy X-2 |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (loads first FMV, but won't pass it)</li></ul>
@@ -259,6 +260,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
+|Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
 |Resident Evil 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-21134**</li><li>Tested: **31-May-2015**</li></ul>
 |Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
