@@ -124,7 +124,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Slug 6|<ul><li>**In-Game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
 |Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
-|Odin Sphere|<ul><li>**Loadable with FPS**</li><li>**SLES-55110**</li></ul>
+|Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li></ul>
 |Okami|<ul><li>**Loadable with FPS**</li><li>**SLUS-21115**</li></ul>
 |Oni|<ul><li>**Intro only**</li><li>**SLES-50134**</li><li>Notes: (can't skip videos)</li></ul>
 |Outrun 2006: Coast 2 Coast|<ul><li>**Crashes**</li><li>**SLUS-21274**</li></ul>
@@ -260,7 +260,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
-|Odin Sphere|<ul><li>**Nothing/Crash**</li><li>**SLUS-21577**</li><li>Tested: **15-Jul-2015**</li></ul>
+|Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li></ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
