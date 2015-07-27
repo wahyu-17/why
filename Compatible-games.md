@@ -290,3 +290,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ys 1 & 2: Eternal Story|<ul><li>**In-game**</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li><li>Notes: (can't see field/characters/objects; just a black area; graphics issue)</li></ul>
 |Zone of the Enders|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20148**</li><li>Tested: **12-Jul-2015**</li></ul>
 ## iOS
+| Game | Status |
+|------|--------|
+|Barnyard|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
