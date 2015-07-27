@@ -289,3 +289,4 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
 |Ys 1 & 2: Eternal Story|<ul><li>**In-game**</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li><li>Notes: (can't see field/characters/objects; just a black area; graphics issue)</li></ul>
 |Zone of the Enders|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20148**</li><li>Tested: **12-Jul-2015**</li></ul>
+## iOS
