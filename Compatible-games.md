@@ -295,5 +295,5 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Barnyard|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Crash bandicoot The Warth of Cortex|<ul><li>**Keeps on black screen**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Crash bandicoot twinsanity|<ul><li>**Nothing/crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Spyro - A Hero's Tail (USA)|<ul><li>**Nothing/crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Tomb Raider Underworld (ps2 version)|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
+|Spyro - A Hero's Tail (USA)|<ul><li>**Keeps on black screen**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
+|Tomb Raider Underworld (ps2 version)|<ul><li>**keeps on black screen**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
