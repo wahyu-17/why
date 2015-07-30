@@ -302,6 +302,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |ZooCube|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Haunting Ground|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Disney's Donald Duck - Quack Attack|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
-|Final Fantasy X|<ul><li>**In-game (but miss input to control**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
+|Final Fantasy X|<ul><li>**In-game (but miss input to control)**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
 |Shrek the Third|<ul><li>**Nothing/crash**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
 |Spyro - Enter the Dragonfly|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
