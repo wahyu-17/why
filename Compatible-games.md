@@ -138,6 +138,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ratchet & Clank: Up Your Aresenal|<ul><li>**Nothing/crash**</li><li>**SCUS-97353**</li><li>Tested: **24-May-2015**</li></ul>
 |Radiata Stories|<ul><li>**Intro**</li><li>**SLUS-21262**</li><li>Tested: **31-May-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Rayman M|<ul><li>**Intro Only**</li><li>**SLES-50457**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
+|Rayman 3: Hoodlum Havoc|<ul><li>**Intro Only**</li><li>**SLES_512.22**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
 |Red Dead Revolver|<ul><li>**Loadable with FPS**</li><li>**SLES-52478**</li></ul>
 |Red Faction|<ul><li>**Title Screen**</li><li>**SLES-50277**</li><li>Notes: (freezes loading level)</li></ul>
 |Red Faction 2|<ul><li>**Intro only**</li><li>**SLES-51133**</li><li>Notes: (crashes on title screen)</li></ul>
