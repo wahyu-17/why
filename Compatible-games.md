@@ -261,7 +261,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
-|Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li></ul>
+|Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
@@ -270,6 +270,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
 |RPG Maker 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21178**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Saint Seiya: The Sanctuary|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-54162**</li><li>Tested: **11-Jul-2015**</li></ul>
+|SEGA Ages 2500 Volume 01: Phantasy Star Generation: 1|<ul><li>**In-game**</li><li>**SLPM-62362**</li><li>Tested: **03-August-2015**</li></ul>
 |SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
 |SEGA Ages 2500 Volume 13: OutRun|<ul><li>**In-game**</li><li>**SLPM-62447**</li><li>Tested: **31-May-2015**</li><li>Notes: (messed up textures and graphics and very slow)</li></ul>
 |SEGA Ages 2500 Volume 17: Phantasy Star Generation: 2|<ul><li>**In-game**</li><li>**SLPM-62553**</li><li>Tested: **17-May-2015**</li></ul>
