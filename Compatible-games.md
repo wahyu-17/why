@@ -147,6 +147,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ridge Racer 5|<ul><li>**Crashes**</li><li>**PBPX-95201**</li></ul>
 |Rogue Galaxy|<ul><li>**Loadable with FPS**</li><li>**SCES-54552**</li></ul>
 |Romancing SaGa|<ul><li>**Intro only**</li><li>Notes: (input bug)</li></ul>
+|Rugrats: Royal Ransom|<ul><li>**In-game**</li><li>**SLUS-20443**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not showing up in-game)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
 |Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
@@ -269,6 +270,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
 |RPG Maker 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21178**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
+|Rugrats: Royal Ransom|<ul><li>**In-game**</li><li>**SLUS-20443**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not showing up in-game)</li></ul>
 |Saint Seiya: The Sanctuary|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-54162**</li><li>Tested: **11-Jul-2015**</li></ul>
 |SEGA Ages 2500 Volume 01: Phantasy Star Generation: 1|<ul><li>**In-game**</li><li>**SLPM-62362**</li><li>Tested: **03-August-2015**</li></ul>
 |SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
