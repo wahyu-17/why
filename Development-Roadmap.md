@@ -21,3 +21,15 @@ Register allocation needs to be improved, NEON register allocation needs to be e
 ### Texture un-swizzling
 
 Would improve games that trash the texture cache a lot (Snowblind games, Xenosaga 2 and probably others)
+
+## IOP (input/output processor)
+
+### Scheduling/timing
+
+Not all kernel functions are implemented, and timing is messy; this causes issues with various games (e.g., "Destroy All Humans!", "Shining Force Neo", "Animaniacs: The Great Edgar Hunt", etc.) and version detection seems to be an issue too.
+
+## VUs (vector units)
+
+### Microprograms/blank screens
+
+There's an issue with the VUs & their microprogram/instruction execution in several different games, resulting in blank screens and similar graphics issues, like character models not showing up in-game. In Final Fantasy X, several scenes are blank upon entering (e.g., Macalania Woods); in Final Fantasy X-2, this happens in several scenes as well. Other games suffer from very similar issues too, I believe (Xenosaga 2, Rugrats: Royal Ransom, Whiplash, etc.). Could be the result of improper memory allocation.
