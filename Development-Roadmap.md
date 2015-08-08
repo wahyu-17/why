@@ -24,12 +24,12 @@ Would improve games that trash the texture cache a lot (Snowblind games, Xenosag
 
 ## IOP (input/output processor)
 
-### Scheduling/timing
+### Kernel
 
-Not all kernel functions are implemented, and timing is messy; this causes issues with various games (e.g., "Destroy All Humans!", "Shining Force Neo", "Animaniacs: The Great Edgar Hunt", etc.) and version detection seems to be an issue too.
+Not all kernel functions are implemented, and thread scheduling is inaccurate; this causes issues with various games (e.g., "Destroy All Humans!", "Shining Force Neo", "Animaniacs: The Great Edgar Hunt", etc.) and version detection seems to be an issue too.
 
 ## VUs (vector units)
 
-### Microprograms/blank screens
+### Micro-mode Pipeline
 
-There's an issue with the VUs & their microprogram/instruction execution in several different games, resulting in blank screens and similar graphics issues, like character models not showing up in-game. In Final Fantasy X, several scenes are blank upon entering (e.g., Macalania Woods); in Final Fantasy X-2, this happens in several scenes as well. Other games suffer from very similar issues too, I believe (Xenosaga 2, Rugrats: Royal Ransom, Whiplash, etc.). Could be the result of improper memory allocation.
+The VU pipeline is not properly emulated at the moment resulting in graphics issues, like character models that are corrupted or that are not showing up in-game. 
