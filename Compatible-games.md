@@ -163,6 +163,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Simpsons Hit and Run, The|<ul><li>**Crashes**</li><li>**SLES-51897**</li></ul>
 |Sly Cooper and the Thievius Raccoonus|<ul><li>**Loadable with FPS**</li><li>**SCES-50917**</li></ul>
 |Sly 3</li>Honor Among Thieves|<ul><li>**Loadable with FPS**</li><li>**SCES-53409**</li></ul>
+|Smuggler's Run|<ul><li>**In-game**</li><li>**SLUS-20065**</li><li>Tested: **02-Aug-2015**</li></ul>
 |SoulCalibur II|<ul><li>**Crashes**</li><li>**SLES-51799**</li></ul>
 |SoulCalibur III|<ul><li>**Loads with FPS**</li><li>**SCES-53312**</li></ul>
 |Spectral Gene|<ul><li>**Intro only**</li><li>**SLPM-66899**</li><li>Tested: **31-May-2015**</li></ul>
