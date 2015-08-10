@@ -24,6 +24,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 | Game | Status |
 |------|--------|
 |.hack//Infection Part 1|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20267**</li><li>Tested: **21-June-2015**</li></ul>
+|4x4 Evo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20091**</li><li>Tested: **02-Aug-2015**</li></ul>
+|4x4 Evo 2|<ul><li>**Intro only**</li><li>**SLES-51199**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Aggressive Inline|<ul><li>**Loadable with FPS**</li><li>**SLUS-20327**</li></ul>
 |Alien Hominid|<ul><li>**Loadable with FPS**</li><li>**SLES-53139**</li></ul>
 |Ape Escape 2|<ul><li>**Crashes**</li><li>**SLUS-20685**</li></ul>
