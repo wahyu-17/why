@@ -1,1 +1,1 @@
-Welcome to the Play- wiki!
+Welcome to the Play! wiki!
