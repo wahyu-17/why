@@ -127,6 +127,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21243**</li><li>Tested: **24-May-2015**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
+|Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
 |Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li></ul>
