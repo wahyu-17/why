@@ -137,7 +137,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Prince of Persia: The Sands of Time|<ul><li>**In-game**</li><li>**SLUS-20743**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (issue with decoding IPU videos, but gameplay is mostly fine from the few minutes I played)</li></ul>
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
 |R-Type Final|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20780**</li><li>Tested: **21-June-2015**</li><li>Notes: (No dualshock 2 detected screen)</li></ul>
-|Ratchet & Clank|<ul><li>**Nothing/crash**</li></ul>
+|Ratchet & Clank|<ul><li>**Intro Only**</li><li>**SCUS-97199**</li><li>**Tested 17-Aug-2015**</ul>
 |Ratchet & Clank: Going Commando|<ul><li>**Nothing/crash**</li><li>**SCUS-97268**</li><li>Tested: **24-May-2015**</li></ul>
 |Ratchet & Clank: Up Your Aresenal|<ul><li>**Nothing/crash**</li><li>**SCUS-97353**</li><li>Tested: **24-May-2015**</li></ul>
 |Radiata Stories|<ul><li>**Intro**</li><li>**SLUS-21262**</li><li>Tested: **31-May-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
