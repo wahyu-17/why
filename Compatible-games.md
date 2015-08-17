@@ -102,6 +102,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ico|<ul><li>**Loadable with FPS**</li><li>**SCES-50760**</li><li>Tested: **24-May-2015**</li></ul>
 |Indigo Prophecy|<ul><li>**Nothing/Crash**</li><li>**SLUS-21196**</li></ul>
 |Jak & Daxter|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97124**</li><li>Tested 17-Aug-2015</li></ul>
+|Jak II|<ul><li>**Loadable with Fps, but shows nothing**</li><li>**SCUS-97265**</li><li>Tested 17-Aug-2015</li></ul>
 |Jak X|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53286**</li><li>Tested: **04-June-2015**</li></ul>
 |James Bond 007: Agent Under Fire|<ul><li>**Loadable with FPS**</li><li>**SLES-50539**</li></ul>
 |James Bond 007: Everything or Nothing|<ul><li>**Loadable with FPS**</li><li>**SLES-52005**</li></ul>
