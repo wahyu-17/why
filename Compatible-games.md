@@ -167,7 +167,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Sly Cooper and the Thievius Raccoonus|<ul><li>**Loadable with FPS**</li><li>**SCES-50917**</li></ul>
 |Sly 3</li>Honor Among Thieves|<ul><li>**Loadable with FPS**</li><li>**SCES-53409**</li></ul>
 |Smuggler's Run|<ul><li>**In-game**</li><li>**SLUS-20065**</li><li>Tested: **02-Aug-2015**</li></ul>
-|SoulCalibur II|<ul><li>**Crashes**</li><li>**SLES-51799**</li></ul>
+|SOCOM 3 US Navy SEALs|<ul><li>**Intro Only**</li><li>**SCUS-97474**</li><li>Tested: **17-Aug-2015**</li></ul>
+|SoulCalibur II|<ul><li>**Crashes**</li><li>**SLES-51799**</li></ul> 
 |SoulCalibur III|<ul><li>**Loads with FPS**</li><li>**SCES-53312**</li></ul>
 |Spectral Gene|<ul><li>**Intro only**</li><li>**SLPM-66899**</li><li>Tested: **31-May-2015**</li></ul>
 |Spy Hunter 2|<ul><li>**Loads with FPS**</li><li>**SLES-51841**</li></ul>
