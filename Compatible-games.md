@@ -169,7 +169,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Silent Hill 4|<ul><li>**Intro only**</li><li>**SLES-52445**</li></ul>
 |Simpsons Hit and Run, The|<ul><li>**Crashes**</li><li>**SLES-51897**</li></ul>
 |Sly Cooper and the Thievius Raccoonus|<ul><li>**Loadable with FPS**</li><li>**SCES-50917**</li></ul>
-|Sly 3</li>Honor Among Thieves|<ul><li>**Loadable with FPS**</li><li>**SCES-53409**</li></ul>
+|Sly 3 </li>Honor Among Thieves|<ul><li>**Loadable with FPS**</li><li>**SCES-53409**</li></ul>
 |Smuggler's Run|<ul><li>**In-game**</li><li>**SLUS-20065**</li><li>Tested: **02-Aug-2015**</li></ul>
 |SOCOM 2 US Navy SEALS|<ul><li>**Intro Only**</li><li>**SCUS-97275**</li><li>Tested: **17-Aug-2015**</li></ul>
 |SOCOM 3 US Navy SEALS|<ul><li>**Intro Only**</li><li>**SCUS-97474**</li><li>Tested: **17-Aug-2015**</li></ul>
