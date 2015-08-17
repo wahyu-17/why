@@ -89,6 +89,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Grand Theft Auto 3|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
 |Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **28-Jun-2015**</ul>
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **02-Aug-2015**</ul>
+|Gran Turismo 3: A-Spec|<ul><li>**Intro Only**</li>**SCUS-97102**</li></ul>
 |Gran Turismo 3: A-Spec|<ul><li>**Nothing/crash**</li><li>**SCES-50294**</li></ul>
 |Gran Turismo 4|<ul><li>**Nothing/crash**</li><li>**SCES-51719**</li></ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
