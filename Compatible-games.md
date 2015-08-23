@@ -184,7 +184,10 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Star Wars</li>Battlefront II|<ul><li>**Crashes**</li><li>**SLUS-21240**</li></ul>
 |Steambot Chronicles|<ul><li>**Title Screen**</li><li>**SLUS-21344**</li></ul>
 |Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
+|Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
+|The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
+|The Bigs|<ul><li>**Intro only**</li><li>**SLUS-21623**</li><li>Tested: **16-Aug-2015**</li></ul>
 |The Lord of the Rings: The Two Towers|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20578**</li><li>Tested: **28-Jun-2015**</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
 |Tony Hawk's Pro Skater 3|<ul><li>**Title Screen**</li><li>**SLES-50435**</li><li>Notes: (Level selection crashes)</li></ul>
@@ -192,8 +195,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tony Hawk's Project 8|<ul><li>**Loadable with FPS**</li><li>**SLES-54389**</li></ul>
 |Tony Hawk's Underground|<ul><li>**Loadable with FPS**</li><li>**SLES-51848**</li></ul>
 |Tony Hawk's Underground 2|<ul><li>**Loadable with FPS**</li><li>**SLES-52621**</li></ul>
-|Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **29-Mar-2015**</li></ul>
-|The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Trapt|<ul><li>**Crash**</li><li>**SLUS-21255**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Twisted Metal: Black|<ul><li>**Intro Only**</li><li>**PBPX-95506**</li><li>Tested: **24-May-2015**</li></ul>
 |Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
@@ -206,7 +207,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
 |Wipeout Fusion|<ul><li>**Crashes**</li><li>**SCES-50005**</li></ul>
 |Wipeout Pulse|<ul><li>**Loads with FPS**</li><li>**SCES-54748**</li></ul>
-|Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **02-Aug-2015**</li></ul>
+|Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**In-game**</li><li>**SLUS-20892**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Game seems to have some kind of idling or other issue that makes it run unusually slow)</li></ul>
 |Xenosaga Episode III: Also Sprach Zarathustra|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21389**</li><li>Tested: **02-Aug-2015**</li></ul>
 |XIII|<ul><li>**Intro Only**</li><li>**SLES-51244**</li><li>Notes: (language selection, crashes while loading)</li></ul>
 |Zone of the Enders|<ul><li>**Intro only**</li><li>**SLES-50111**</li><li>Notes: (screen goes grey)</li></ul>
