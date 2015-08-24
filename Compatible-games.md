@@ -232,6 +232,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bust A Block|<ul><li>**Menu/Title screen only**</li><li>**SLES-51713**</li><li>Tested: **15-JuL-2015**</li></ul>
 |Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Call of Duty: World at War - Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul
 |Castlevania: Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
 |Capcom Fighting Evolution|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20950**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
