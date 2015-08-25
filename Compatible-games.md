@@ -308,7 +308,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Spyro: Enter The Dragonfly|<ul><li>**Intro only**</li><li>**SLUS-20315**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (shows Spyro, which is part of the intro process, but hangs & won't proceed)</li></ul>
 |Star Ocean: Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Steambot Chronicles|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-21344**</li><li><li>Tested: **19-August-2015**</li></ul>
-|Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li><li>Tested:**25-Aug-2015**</li><li>Notes: N/A</li></ul>
+|Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested:**25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |The Ant Bully|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
