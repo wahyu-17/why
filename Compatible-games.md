@@ -281,7 +281,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
-|Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
+|Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
