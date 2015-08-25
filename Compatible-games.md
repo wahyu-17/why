@@ -263,6 +263,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
+|Hunter - The Reckoning Wayward|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20511**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Jade Cocoon 2|<ul><li>**Intro only**</li><li>**SLUS-20309**</li><li>Tested: **14-Jul-2015**</li></ul>
 |Jak and Daxter: The Precursor Legacy|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97124**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Jet Li: Rise To Honor|<ul><li>**Intro only**</li><li>**SCUS-97279**</li><li>Tested: **20-Jun-2015**</li></ul>
@@ -280,6 +281,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
+|Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
@@ -309,6 +311,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Viewtiful Joe|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20951**</li><li>Tested: **12-Jul-2015**</li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (can enter battles, but can't see characters)</li></ul>
 |Whiplash|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20684**</li><li>Tested: **28-Jun-2015**</li></ul>
+|WWF SmackDown! Just Bring It|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20316**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
 |Ys 1 & 2: Eternal Story|<ul><li>**In-game**</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li><li>Notes: (can't see field/characters/objects; just a black area; graphics issue)</li></ul>
 |Zone of the Enders|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20148**</li><li>Tested: **12-Jul-2015**</li></ul>
