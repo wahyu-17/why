@@ -286,8 +286,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
-|Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
+|Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Resident Evil - Code Veronica X|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20184**</li><li>Tested: **25-Aug-2015**</li><li>Notes: (The game doesn't pass the first screen)</li></ul>
 |Resident Evil - Dead Aim|<ul><li>**Nothing/Crash**</li><li>**SLUS-20669**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Resident Evil Outbreak 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20984**</li><li>Tested: **25-Aug-2015**</li><li>Notes: (Crashes after loading screen)</li></ul>
