@@ -207,6 +207,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
 |Wipeout Fusion|<ul><li>**Crashes**</li><li>**SCES-50005**</li></ul>
 |Wipeout Pulse|<ul><li>**Loads with FPS**</li><li>**SCES-54748**</li></ul>
+|WWE Smackdown! vs. Raw 2006|<ul><li>**Intro only**</li><li>**SLUS-21286**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**In-game**</li><li>**SLUS-20892**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Game seems to have some kind of idling or other issue that makes it run unusually slow)</li></ul>
 |Xenosaga Episode III: Also Sprach Zarathustra|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21389**</li><li>Tested: **02-Aug-2015**</li></ul>
 |XIII|<ul><li>**Intro Only**</li><li>**SLES-51244**</li><li>Notes: (language selection, crashes while loading)</li></ul>
