@@ -211,14 +211,14 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |WWE Smackdown! vs. Raw 2006|<ul><li>**Intro only**</li><li>**SLUS-21286**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**In-game**</li><li>**SLUS-20892**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Game seems to have some kind of idling or other issue that makes it run unusually slow)</li></ul>
 |Xenosaga Episode III: Also Sprach Zarathustra|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21389**</li><li>Tested: **02-Aug-2015**</li></ul>
-|XIII|<ul><li>**Intro Only**</li><li>**SLES-51244**</li><li>Notes: (language selection, crashes while loading)</li></ul>
-|Zone of the Enders|<ul><li>**Intro only**</li><li>**SLES-50111**</li><li>Notes: (screen goes grey)</li></ul>
+|XIII|<ul><li>**Intro Only**</li><li>**SLES-51244**</li><li>Notes: (language selection, crashes while loading)</li></ul>|Zone of the Enders|<ul><li>**Intro only**</li><li>**SLES-50111**</li><li>Notes: (screen goes grey)</li></ul>
 |Zone of the Enders: The 2nd Runner|<ul><li>**Loadable with FPS**</li><li>**SLES-51113**</li></ul>
 ## Android ##
 |Game|Status|
 |----|------|
 |Aeon Flux|<ul><li>**In-game**</li><li>**SLUS-21205**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (seems to work okay)</li></ul>
 |Animaniacs - The Great Edgar Hunt|<ul><li>**Intro only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
+|Arc the Lad: Twilight of the Spirits|<ul><li>**Nothing/Crash**</li><li>**SCUS-97231**</li><li>Tested: **29-August-2015**</li><li>
 |Arcana Heart|<ul><li>**In-game**</li><li>**SLUS-21720**</li><li>Tested: **31-May-2015**</li><li>Notes: (some graphics issues with characters)</li></ul>
 |Aqua Aqua|<ul><li>**In-game**</li><li>**SLUS-20162**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Ar Tonelico: Melody of Elemia|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21445**</li><li>Tested: **14-Jun-2015**</li></ul>
