@@ -201,7 +201,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Twisted Metal: Black|<ul><li>**Intro Only**</li><li>**PBPX-95506**</li><li>Tested: **24-May-2015**</li></ul>
 |Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
 |Unreal Tournament |<ul><li>**In-game**</li></ul>
-|Valkyrie Profile 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21452**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Valkyrie Profile 2|<ul><li>**In-game**</li><li>**SLUS-21452**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (major graphics issues when in-game)</li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLES-51616**</li><li>Tested: **03-May-2015**</li></ul>
 |War of the Monsters|<ul><li>**Intro Only**</li><li>**SCUS-97197**</li></ul>
 |We Love Katamari|<ul><li>**Loadable with FPS**</li><li>**SLUS-21230**</li></ul>
