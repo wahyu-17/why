@@ -85,6 +85,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Freedom Fighters|<ul><li>**Intro only**</li><li>**SLES-51467**</li><li>Notes: (Crashes after EA logo)</li></ul>
 |Front Mission 4|<ul><li>**Loadable**</li><li>**PBPX-95506**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Full Metal Alchemist and the Broken Angel|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20994**</li><li>Tested: **21-June-2015**</li></ul>
+|Ghost in the Shell Stand Alone Complex (Demo)|<ul><li>**Nothing/Crash**</li><li>**SLUS-29123**</li><li>Tested: **14-September-2015**</ul>
 |God of War|<ul><li>**Intro only**</li><li>**SCUS-97399**</li><li>Tested: **10-May-2015**</li></ul>
 |Gradius III and IV|<ul><li>**Loadable with FPS**</li><li>**SLUS-20040**</li></ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLPM-62462**</li><li>Tested: **29-Mar-2015**</li></ul>
