@@ -267,6 +267,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Grand Theft Auto III|<ul><li>**Nothing/Crash**</li><li>**SLUS-20062**</li><li>Tested: **31-May-2015**</li></ul>
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
 |Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **20-Jun-2015**</li></ul>
+|Gran Turismo 2000 Tech Demo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**PAPX-90203**</li><li>Tested: **14-September-2015**</ul>
 |Gregory Horror Show|<ul><li>**Nothing/Crash**</li><li>**SLES-51933**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
