@@ -127,6 +127,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
 |Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li><li>Tested: **02-Aug-2015**</li></ul>
+|Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **14-September-2015**</ul>
 |Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21243**</li><li>Tested: **24-May-2015**</li></ul>
