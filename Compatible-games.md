@@ -163,6 +163,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Rugrats: Royal Ransom|<ul><li>**In-game**</li><li>**SLUS-20443**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not showing up in-game)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
+|SEGA Ages 2500 Volume 01: Phantasy Star Generation: 1|<ul><li>**In-game**</li><li>**SLPM-62362**</li><li>Tested: **14-September-2015**</li></ul>
 |Sega Super Stars Tennis|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21733**</li><li>Tested 17-Aug-2015</li></ul>
 |Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
 |Sengoku Basara X|<ul><li>**Crash**</li><li>**SLPM-55008**</li><li>Tested: **29-Mar-2015**</li></ul>
