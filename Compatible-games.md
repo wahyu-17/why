@@ -47,7 +47,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Barnyard|<ul><li>**Intro only**</li><li>**SLUS-21277**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Beatmania|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21239**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
-|Bully|<ul><li>**Intro only**</li><li>**SLES-53561**</li></ul>
+|Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
 |Burnout 3: Takedown|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21050**</li><li>Tested: **21-June-2015**</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**In-game**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
@@ -92,12 +92,12 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gradius V|<ul><li>**In-game**</li><li>**SLPM-62462**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Grandia II|<ul><li>**In-game**</li></ul>
 |Grand Theft Auto 3|<ul><li>**Loadable with FPS, but shows nothing**</li></ul>
-|Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **28-Jun-2015**</ul>
-|Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **23-Aug-2015**</ul>
+|Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **20-Sep-2015**<li>Notes: (close to in-game, but tends to crash before moving CJ around)</li></ul>
+|Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Sep-2015**<li>Notes: (will freeze in intro sequence with any input, and hangs waiting otherwise)</li></ul>
 |Gran Turismo 2000 Tech Demo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**PAPX-90203**</li><li>Tested: **14-September-2015**</ul>
 |Gran Turismo 3: A-Spec|<ul><li>**Intro Only**</li>**SCUS-97102**</li></ul>
 |Gran Turismo 3: A-Spec|<ul><li>**Intro only**</li><li>**SCES-50294**</li><li>Tested: **23-Aug-2015**</li></ul>
-|Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **23-Aug-2015**</li></ul>
+|Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
 |Half-Life|<ul><li>**In-game**</li></ul>
 |Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
