@@ -143,7 +143,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Onimusha: Warlords|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20018**</li><li>Tested: **13-Sep-2015**</li></ul>
 |Outrun 2006: Coast 2 Coast|<ul><li>**Crashes**</li><li>**SLUS-21274**</li></ul>
 |Persona 3 FES|<ul><li>**In-game**</li><li>Tested: **20-Sep-2015**</li><li>**SLUS-21621**</li><li>Notes: (graphics issues and long hangs, but progresses eventually)</li></ul>
-|Persona 4|<ul><li>**Loadable with FPS**</li><li>**SLES-55474**</li></ul>
+|Persona 4|<ul><li>**In-game**</li><li>Tested: **21-Sep-2015**</li><li>**SLES-55474**</li><li>Notes: (graphics issues)</li></ul>
 |Pilot Down: Behind Enemy Lines|<ul><li>**Intro Only**</li><li>**SLES-53099**</li><li>Notes: (crashes when trying to start a new game)</li></ul>
 |Prince of Persia: The Sands of Time|<ul><li>**In-game**</li><li>**SLUS-20743**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (issue with decoding IPU videos, but gameplay is mostly fine from the few minutes I played)</li></ul>
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
