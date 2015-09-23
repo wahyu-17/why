@@ -105,6 +105,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Hot Wheels</li>World Race|<ul><li>**Crash**</li><li>**SLES-51879**</li></ul>
 |Ico|<ul><li>**Loadable with FPS**</li><li>**SCES-50760**</li><li>Tested: **24-May-2015**</li></ul>
 |Indigo Prophecy|<ul><li>**Nothing/Crash**</li><li>**SLUS-21196**</li></ul>
+|Jade Cocoon 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20309**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (crashes after new game and sometimes before it)</li></ul>
 |Jak & Daxter|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97124**</li><li>Tested 17-Aug-2015</li></ul>
 |Jak II|<ul><li>**Loadable with Fps, but shows nothing**</li><li>**SCUS-97265**</li><li>Tested 17-Aug-2015</li></ul>
 |Jak 3|<ul><li>**Nothing/Crash**</li><li>**SCUS-97330**</li><li>Tested 17-Aug-2015</li></ul>
