@@ -126,10 +126,11 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
 |Mafia|<ul><li>**Loadable with FPS**</li><li>**SLES-52278**</li></ul>
 |Magna Carta: Tears of Blood|<ul><li>**Intro only**</li></ul>
+|Manhunt|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20827**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Medal of Honor Frontline|<ul><li>**Intro only**</li><li>**SLUS-20368**</li></ul>
 |Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
 |Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
-|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li><li>Tested: **02-Aug-2015**</li></ul>
+|Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **14-September-2015**</ul>
 |Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
