@@ -148,11 +148,12 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Persona 4|<ul><li>**In-game**</li><li>Tested: **20-Sep-2015**</li><li>**SLES-55474**</li><li>Notes: (graphics issues)</li></ul>
 |Pilot Down: Behind Enemy Lines|<ul><li>**Intro Only**</li><li>**SLES-53099**</li><li>Notes: (crashes when trying to start a new game)</li></ul>
 |Prince of Persia: The Sands of Time|<ul><li>**In-game**</li><li>**SLUS-20743**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (issue with decoding IPU videos, but gameplay is mostly fine from the few minutes I played)</li></ul>
+|Pro Evolution Soccer 6|<ul><li>**Menu/Title screen only**</li><li>**SLES-54203**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
 |R-Type Final|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20780**</li><li>Tested: **21-June-2015**</li><li>Notes: (No dualshock 2 detected screen)</li></ul>
 |Ratchet & Clank|<ul><li>**Intro Only**</li><li>**SCUS-97199**</li><li>**Tested 17-Aug-2015**</ul>
 |Ratchet & Clank: Going Commando|<ul><li>**Nothing/crash**</li><li>**SCUS-97268**</li><li>Tested: **24-May-2015**</li></ul>
-|Ratchet & Clank: Up Your Aresenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **20-Aug-2015**</li></ul>
+|Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **20-Aug-2015**</li></ul>
 |Radiata Stories|<ul><li>**Intro**</li><li>**SLUS-21262**</li><li>Tested: **31-May-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Rayman M|<ul><li>**Intro only**</li><li>**SLES-50457**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
 |Rayman 3: Hoodlum Havoc|<ul><li>**Intro only**</li><li>**SLES_512.22**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
@@ -198,7 +199,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
 |The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
-|The Bigs|<ul><li>**Intro only**</li><li>**SLUS-21623**</li><li>Tested: **16-Aug-2015**</li></ul>
+|The Bigs|<ul><li>**Intro only**</li><li>**SLUS-21623**</li><li>Tested: **27-Sep-2015**</li></ul>
 |The Lord of the Rings: The Two Towers|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20578**</li><li>Tested: **28-Jun-2015**</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
 |Tony Hawk's Pro Skater 3|<ul><li>**Title Screen**</li><li>**SLES-50435**</li><li>Notes: (Level selection crashes)</li></ul>
@@ -218,8 +219,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
 |Wipeout Fusion|<ul><li>**Crashes**</li><li>**SCES-50005**</li></ul>
 |Wipeout Pulse|<ul><li>**Loads with FPS**</li><li>**SCES-54748**</li></ul>
-|WWE Smackdown! vs. Raw 2006|<ul><li>**Intro only**</li><li>**SLUS-21286**</li><li>Tested: **23-Aug-2015**</li></ul>
-|Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**In-game**</li><li>**SLUS-20892**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Game seems to have some kind of idling or other issue that makes it run unusually slow)</li></ul>
+|WWE Smackdown! vs. Raw 2006|<ul><li>**Intro only**</li><li>**SLUS-21286**</li><li>Tested: **27-Sep-2015**</li></ul>
+|Xenosaga Episode II: Jenseits von Gut und Bose|<ul><li>**In-game**</li><li>**SLUS-20892**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (Game seems to have some kind of idling or other issue that makes it run unusually slow)</li></ul>
 |Xenosaga Episode III: Also Sprach Zarathustra|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21389**</li><li>Tested: **02-Aug-2015**</li></ul>
 |XIII|<ul><li>**Intro Only**</li><li>**SLES-51244**</li><li>Notes: (language selection, crashes while loading)</li></ul>|Zone of the Enders|<ul><li>**Intro only**</li><li>**SLES-50111**</li><li>Notes: (screen goes grey)</li></ul>
 |Zone of the Enders: The 2nd Runner|<ul><li>**Loadable with FPS**</li><li>**SLES-51113**</li></ul>
@@ -302,7 +303,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Persona 4|<ul><li>**In-game**</li><li>**SLUS-21782**</li><li>Tested: **27-Sep-2015**</li><li>Notes: N/A</li></ul>
-|Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **31-May-2015**</li><li>Notes: (not all input supported yet)</li></ul>
+|Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **27-Sep-2015**</li><li>Notes: ()</li></ul>
+|Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
 |Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Resident Evil - Code Veronica X|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20184**</li><li>Tested: **25-Aug-2015**</li><li>Notes: (The game doesn't pass the first screen)</li></ul>
