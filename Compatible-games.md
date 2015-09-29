@@ -45,7 +45,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Atelier Iris 3: Grand Phantasm|<ul><li>**In-game**</li><li>**SLUS-21564**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Same issues as Ar Tonelico with graphics and sound.)</li></ul>
 |Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li></ul>
 |Barnyard|<ul><li>**Intro only**</li><li>**SLUS-21277**</li><li>Tested: **05-Jul-2015**</li></ul>
-|Beatmania|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21239**</li><li>Tested: **02-Apr-2015**</li></ul>
+|Beatmania|<ul><li>**Intro only**</li><li>**SLUS-21239**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
 |Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
 |Burnout 3: Takedown|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21050**</li><li>Tested: **21-June-2015**</li></ul>
