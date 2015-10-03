@@ -47,6 +47,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Barnyard|<ul><li>**Intro only**</li><li>**SLUS-21277**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Beatmania|<ul><li>**Intro only**</li><li>**SLUS-21239**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
+|Bomberman Hardball|<ul><li>**Intro only**</li><li>**SLES-53301**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (hangs and loops on title screen)</li></ul>
 |Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
 |Burnout 3: Takedown|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21050**</li><li>Tested: **21-June-2015**</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**In-game**</li></ul>
@@ -75,6 +76,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dynasty Warriors 2|<ul><li>**In-game**</li><li>**SLUS-20079**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dynasty Warriors 5|<ul><li>**In-game**</li><li>**SLUS-21153**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (story mode broken, graphics issues)</li></ul>
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
+|Fire Pro Wrestling Returns|<ul><li>**In-game**</li><li>**SLUS-21702**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (texture/swizzle graphics garbage sometimes appears in-game)</li></ul>
 |Final Fantasy: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **30-Aug-2015**</li><li>Notes: (Stuck after SQUARE ENIX logo)</li></ul>
 |Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
@@ -216,6 +218,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |War of the Monsters|<ul><li>**Intro Only**</li><li>**SCUS-97197**</li></ul>
 |We Love Katamari|<ul><li>**Loadable with FPS**</li><li>**SLUS-21230**</li></ul>
 |Whiplash|<ul><li>**Loadable with FPS**</li><li>**SLES-51958**</li></ul>
+|Wild Arms 3|<ul><li>**In-game**</li><li>**SCUS-97203**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (graphics issues with characters & some other objects)</li></ul>
 |Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
 |Wipeout Fusion|<ul><li>**Crashes**</li><li>**SCES-50005**</li></ul>
 |Wipeout Pulse|<ul><li>**Loads with FPS**</li><li>**SCES-54748**</li></ul>
