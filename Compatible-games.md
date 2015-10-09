@@ -100,6 +100,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gran Turismo 3: A-Spec|<ul><li>**Intro Only**</li>**SCUS-97102**</li></ul>
 |Gran Turismo 3: A-Spec|<ul><li>**Intro only**</li><li>**SCES-50294**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **20-Sep-2015**</li></ul>
+|Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **Self-compiled build**</li><li>Notes: (some minor graphics problems & some other issues)</li></ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
 |Half-Life|<ul><li>**In-game**</li></ul>
 |Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
@@ -129,6 +130,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mafia|<ul><li>**Loadable with FPS**</li><li>**SLES-52278**</li></ul>
 |Magna Carta: Tears of Blood|<ul><li>**Intro only**</li></ul>
 |Manhunt|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20827**</li><li>Tested: **20-Sep-2015**</li></ul>
+|Maximo: Ghosts to Glory|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20017**</li><li>Tested: **04-Oct-2015**</li></ul>
 |Medal of Honor Frontline|<ul><li>**Intro only**</li><li>**SLUS-20368**</li></ul>
 |Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
 |Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
