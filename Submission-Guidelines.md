@@ -24,10 +24,12 @@ if(x == y)
 
 ## C++
 
-- Class member variables shall be prefixed by `m_` (ex.: `int m_member = 0;`).
+- Class member method names shall begin with a upper case character (ex.: `int DoSomething()`). 
+- Class member variable names shall be prefixed by `m_` (ex.: `int m_member = 0;`).
 
 ## Java
 
-- Class member variables shall be prefixed by `_` (ex.: `public int _member = 0;`).
+- Class member method names shall begin with a lower case character (ex.: `int doSomething()`).
+- Class member variable names shall be prefixed by `_` (ex.: `public int _member = 0;`).
 
 # Branding Guidelines
