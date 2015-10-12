@@ -10,8 +10,24 @@ Please make sure your changes compile properly if merged in the master branch.
 
 # Code Style
 
+## General (Applies to all languages)
+
+- Use tabs for indentation.
+- Use spaces for spacing.
+- The following indent style shall be followed (Allman style):
+```
+if(x == y)
+{
+    statement;
+}
+```
+
 ## C++
 
+- Class member variables shall be prefixed by `m_` (ex.: `int m_member = 0;`).
+
 ## Java
+
+- Class member variables shall be prefixed by `_` (ex.: `public int _member = 0;`).
 
 # Branding Guidelines
