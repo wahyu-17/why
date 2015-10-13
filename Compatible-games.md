@@ -116,6 +116,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |James Bond 007: Agent Under Fire|<ul><li>**Loadable with FPS**</li><li>**SLES-50539**</li></ul>
 |James Bond 007: Everything or Nothing|<ul><li>**Loadable with FPS**</li><li>**SLES-52005**</li></ul>
 |James Bond 007: Nightfire|<ul><li>**Loadable with FPS**</li><li>**SLES-51258**</li></ul>
+|Jurassic Park: Operation Genesis|<ul><li>**Intro only**</li><li>**SLES-51354**</li><li>Tested: **11-Oct-2015**</li></ul>
 |Just Cause|<ul><li>**Nothing/Crash**</li><li>**SLES-54137**</li></ul>
 |Katamari Damacy|<ul><li>**Loadable with FPS**</li><li>**SLUS-21008**</li><li>Tested: **31-May-2015**</li></ul>
 |Kamiwaza|<ul><li>**Loadable with FPS**</li><li>**SLPM-66477**</li><li>Tested: **31-May-2015**</li></ul>
