@@ -171,7 +171,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Rogue Galaxy|<ul><li>**Loadable with FPS**</li><li>**SCES-54552**</li></ul>
 |Romancing SaGa|<ul><li>**Intro only**</li><li>Notes: (input bug)</li></ul>
 |Rugrats: Royal Ransom|<ul><li>**In-game**</li><li>**SLUS-20443**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not showing up in-game)</li></ul>
-|Rule of Rose|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21448**</li><li>Tested: 26-Oct-2015**</li><li>Notes:(game got stuck at the loading screen before title screen)</li></ul>
+|Rule of Rose|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21448**</li><li>Tested: 26-Oct-2015**</li><li>Notes: (game got stuck at the loading screen before title screen)</li></ul>
 |Rumble Roses| <ul><li>**In-game**</li><li>**SLUS-20970**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (can't really see anything though; major graphics issues)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
