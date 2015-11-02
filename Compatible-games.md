@@ -144,7 +144,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
 |Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
-|Myth Makers Orbs of Doom |<ul><li>**Intro Only**</li><li>**SLES-52241**</li><li>Tested 02-Nov-2015**</li><li>Notes: (Before the main menu the game mentions that you need the Analog Controller, feature is still missing on windows.)</li></ul>
+|Myth Makers Orbs of Doom |<ul><li>**Intro Only**</li><li>**SLES-52241**</li><li>Tested 02-Nov-2015**</li><li>Notes: (Before the main menu the game mentions that you need the Analog Controller, feature is still missing on windows.)**</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li></ul>
 |Okami|<ul><li>**Loadable with FPS**</li><li>**SLUS-21115**</li></ul>
 |Oni|<ul><li>**Intro only**</li><li>**SLES-50134**</li><li>Notes: (can't skip videos)</li></ul>
@@ -172,7 +172,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Rogue Galaxy|<ul><li>**Loadable with FPS**</li><li>**SCES-54552**</li></ul>
 |Romancing SaGa|<ul><li>**Intro only**</li><li>Notes: (input bug)</li></ul>
 |Rugrats: Royal Ransom|<ul><li>**In-game**</li><li>**SLUS-20443**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not showing up in-game)</li></ul>
-|Rule of Rose|<ul><li>**Intro only**</li><li>**SLUS-21448**</li><li>Tested: 26-Oct-2015</li><li>Notes: (game got stuck at the loading screen before title screen)</li></ul>
+|Rule of Rose|<ul><li>**Intro only**</li><li>**SLUS-21448**</li><li>Tested: 26-Oct-2015</li><li>Notes: (game got stuck at the loading screen before title screen)**</li></ul>
 |Rumble Roses| <ul><li>**In-game**</li><li>**SLUS-20970**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (can't really see anything though; major graphics issues)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
