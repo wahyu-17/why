@@ -194,6 +194,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Smuggler's Run|<ul><li>**In-game**</li><li>**SLUS-20065**</li><li>Tested: **02-Aug-2015**</li></ul>
 |SOCOM 2 US Navy SEALS|<ul><li>**Intro Only**</li><li>**SCUS-97275**</li><li>Tested: **17-Aug-2015**</li></ul>
 |SOCOM 3 US Navy SEALS|<ul><li>**Intro Only**</li><li>**SCUS-97474**</li><li>Tested: **17-Aug-2015**</li></ul>
+|Sonic Heroes|<ul><li>**In-game**</li><li>**SLUS-20178**</li><li>Tested: **05-Nov-2015**</li><li>Notes: (some graphical issues. Music and FMVs do not appear to play.)</li></ul>
 |SoulCalibur II|<ul><li>**Crashes**</li><li>**SLES-51799**</li></ul> 
 |SoulCalibur III|<ul><li>**Loads with FPS**</li><li>**SCES-53312**</li></ul>
 |Spectral Gene|<ul><li>**Intro only**</li><li>**SLPM-66899**</li><li>Tested: **31-May-2015**</li></ul>
