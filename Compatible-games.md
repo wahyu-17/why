@@ -100,7 +100,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gran Turismo 3: A-Spec|<ul><li>**Intro Only**</li>**SCUS-97102**</li></ul>
 |Gran Turismo 3: A-Spec|<ul><li>**Intro only**</li><li>**SCES-50294**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **20-Sep-2015**</li></ul>
-|Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **Self-compiled build**</li><li>Notes: (some minor graphics problems & some other issues)</li></ul>
+|Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li><ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
 |Half-Life|<ul><li>**In-game**</li></ul>
 |Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
@@ -286,7 +286,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
 |Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Gran Turismo 2000 Tech Demo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**PAPX-90203**</li><li>Tested: **14-September-2015**</ul>
-|Gregory Horror Show|<ul><li>**Nothing/Crash**</li><li>**SLES-51933**</li><li>Tested: **20-Jun-2015**</li></ul>
+|Gregory Horror Show|<ul><li>**In Game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li></ul>
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
