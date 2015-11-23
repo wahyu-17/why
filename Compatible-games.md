@@ -82,6 +82,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2 International + Last Mission|<ul><li>**In-game**</li><li>**SLPM-65478**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Last mission only)</li></ul>
 |Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
+|Final Fight: Streetwise|<ul><li>**Crash**</li><li>**SLES-53853**</li><li>Tested: **23-November-2015**</li></ul>
 |Flatout|<ul><li>**Loadable with FPS**</li><li>**SLES-52753**</li></ul>
 |Flipnic|<ul><li>**Crash**</li><li>**SLES-52065**</li></ul>
 |Forbidden Siren|<ul><li>**Intro only**</li><li>**SCES-51920**</li><li>Notes: (no controller detected)</li></ul>
@@ -203,6 +204,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Star Wars</li>Battlefront II|<ul><li>**Crashes**</li><li>**SLUS-21240**</li></ul>
 |Steambot Chronicles|<ul><li>**Title Screen**</li><li>**SLUS-21344**</li></ul>
 |Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
+|Superman Returns|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21434**</li><li>Tested: **23-November-2015**</li></ul>
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (hangs and crashes sometimes)</li></ul>
 |Tales of Legendia|<ul><li>**Menu/Title screen only**</li><li>Menu has glitches. Can`t get in-game because it runs out of memory</li><li>**SLUS-21201**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Aug-2015**</li></ul>
@@ -346,6 +348,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Street Fighter EX3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20130**</li><li>Tested: **19-Oct-2015**</li></ul>
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (not too slow on powerful devices)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
+|Swords of Destiny|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25459**</li><li>Tested: **23-November-2015**</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |The Ant Bully|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
