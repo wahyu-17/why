@@ -280,7 +280,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Final Fantasy X-2 |<ul><li>**Menu/Title screen only**</li><li>**SLUS-20672**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (loads first FMV, but won't pass it)</li></ul>
 |Final Fantasy XII |<ul><li>**In-game**</li><li>**SLUS-20963**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (very slow and slight graphics issues)</li></ul>
 |Front Mission 5 - Scars of the War|<ul><li>**In-game**</li><li>**SLPM-66205**</li><li>Tested: **05-Jul-2015**</li></ul>
-|Genji Dawn of the Samurai|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS_97471**</li><li>Tested: **30-Aug-2015**</ul>
+|Genji Dawn of the Samurai|<ul><li>**In-game**</li><li>**SCUS_97471**</li><li>Tested: **23-November-2015**</ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLUS-20712**</li><li>Tested: **17-May-2015**</li></ul>
 |Grand Theft Auto III|<ul><li>**Nothing/Crash**</li><li>**SLUS-20062**</li><li>Tested: **31-May-2015**</li></ul>
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (hangs after opening/menu sequence)</li></ul>
