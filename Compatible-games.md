@@ -177,7 +177,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Rumble Roses| <ul><li>**In-game**</li><li>**SLUS-20970**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (can't really see anything though; major graphics issues)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Second Sight|<ul><li>**Title Screen**</li><li>**SLES-52670**</li><li>Notes: (Freezes while loading level)</li></ul>
-|SEGA Ages 2500 Volume 01: Phantasy Star Generation: 1|<ul><li>**In-game**</li><li>**SLPM-62362**</li><li>Tested: **14-September-2015**</li></ul>
+|SEGA Ages 2500 Volume 01: Phantasy Star Generation: 1|<ul><li>**In-game**</li><li>**SLPM-62362**</li><li>Tested: **24-Nov-2015**</li><li>Notes: (There are some extreme graphic glitches when in battle mode or in some buildings.)</li></ul>
 |SEGA Ages 2500 Volume 17: Phantasy Star Generation: 2|<ul><li>**In-game**</li><li>**SLPM-62553**</li><li>Tested: **24-Nov-2015**</li><li>Notes: (There are some extreme graphic glitches when in battle mode or in some buildings.)</li></ul>
 |Sega Super Stars Tennis|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21733**</li><li>Tested 17-Aug-2015</li></ul>
 |Sengoku Basara 2 Heroes|<ul><li>**Loadable with FPS**</li><li>**SLPM-66848**</li><li>Tested: **31-May-2015**</li></ul>
