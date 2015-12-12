@@ -322,6 +322,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Persona 3 FES|<ul><li>**In-game**</li><li>**SLUS-21621**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Persona 4|<ul><li>**In-game**</li><li>**SLUS-21782**</li><li>Tested: **27-Sep-2015**</li><li>Notes: N/A</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **27-Sep-2015**</li><li>Notes: ()</li></ul>
+|Prince of Persia - The Sands of Time|<ul><li>**In-game**</li><li>**SLUS_20743**</li><li>Tested: **11-Dec-2015**</li><li>Notes: (slow)</li></ul>
 |Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
 |Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
