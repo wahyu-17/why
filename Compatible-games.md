@@ -264,7 +264,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Castlevania: Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
 |Capcom Fighting Evolution|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20950**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
-|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20238**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (just sits at black screen)</li></ul>
+|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20238**</li><li>Tested: **10-Dec-2015**</li><li>Notes: (just sits at black screen)</li></ul>
 |Dark Cloud|<ul><li>**In-game**</li><li>**SCUS-97111**</li><li>Tested: **24-May-2015**</li><li>Notes: (lots of graphics issues/unsupported input)</li></ul>
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hang after Level 5 logo)</li></ul>
 |Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
@@ -355,6 +355,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |The Ant Bully|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Trapt|<ul><li>**Intro only**</li><li>**SLUS-21255**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (The game detects no controller)</li></ul>
+|Ty Tasmanian Tiger 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>Tested: **10-Dec-2015**</li></ul>
 |Unreal Tournament|<ul><li>**In-game**</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues/hard to see; difficult to get in-game & needs more controls)</li></ul>
 |Viewtiful Joe|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20951**</li><li>Tested: **12-Jul-2015**</li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (can enter battles, but can't see characters)</li></ul>
