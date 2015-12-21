@@ -50,6 +50,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bomberman Hardball|<ul><li>**Intro only**</li><li>**SLES-53301**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (hangs and loops on title screen)</li></ul>
 |Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
 |Burnout 3: Takedown|<ul><li>**Intro Only**</li><li>**SLUS-21050**</li><li>Tested: **17-October-2015**</li><li>Notes: (stuck at the initial loading screen.)</li></ul>
+|Burnout Revenge|<ul><li>**Nothing/Crash**</li><li>**SLES-53507**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
 |Burnout Dominator|<ul><li>**Nothing/Crash**</li><li>**SLES-54681**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**In-game**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
