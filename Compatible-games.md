@@ -305,7 +305,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
 |Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (gets stuck whenever you press any buttons)</li></ul>
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Matrix, The: Path of Neo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21273**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
+|Matrix, The: Path of Neo|<ul><li>**Intro only**</li><li>**SLUS-21273**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **14-September-2015**</ul>
 |Metal Slug 4 & 5|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (some slight graphics issues)</li></ul>
