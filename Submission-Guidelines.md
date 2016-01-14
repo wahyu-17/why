@@ -32,4 +32,7 @@ if(x == y)
 - Class member method names shall begin with a lower case character (ex.: `int doSomething()`).
 - Class member variable names shall be prefixed by `_` (ex.: `public int _member = 0;`).
 
+## Objective-C
+
+- Interface member method names shall begin with a lower case character (ex.: `-(int)doSomething`).
 # Branding Guidelines
