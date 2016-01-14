@@ -35,4 +35,5 @@ if(x == y)
 ## Objective-C
 
 - Interface member method names shall begin with a lower case character (ex.: `-(int)doSomething`).
+
 # Branding Guidelines
