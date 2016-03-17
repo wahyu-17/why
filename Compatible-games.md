@@ -350,6 +350,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Star Ocean: Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Steambot Chronicles|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21344**</li><li>Tested: **19-August-2015**</li></ul>
 |Street Fighter EX3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20130**</li><li>Tested: **19-Oct-2015**</li></ul>
+|Suikoden V|<ul><li>**In-game**</li><li>**SLUS-21291**</li><li>Tested: **10-March-2016**</li></ul>
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (not too slow on powerful devices)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Swords of Destiny|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25459**</li><li>Tested: **23-November-2015**</li></ul>
