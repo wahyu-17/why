@@ -256,7 +256,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bakugan: Battle Brawlers|<ul><li>**In-game**</li><li>**SLUS-21902**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (in order to get in-game at this point, you have to skip a select number of intro videos or else the emulator will freeze, and you have to skip some very quickly; otherwise, it works just fine, but it's extremely slow and stalls a lot during battles)</li></ul>
 |Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li><li>**SLUS-20035**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (split-screen graphical issues, plus other graphics issues; very, very slow too)</li></ul>
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
-|Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-Apr-2016**</li><li>Notes: (N/A Yet)</li></ul>
+|Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |Blood Omen 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20024**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
 |Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
@@ -273,6 +273,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hang after Level 5 logo)</li></ul>
 |Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
 |Destroy All Humans!|<ul><li>**Intro only**</li><li>**SLUS-20945**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
+|Deus Ex: The Conspiracy|<ul><li>**In-game**</li><li>**SLUS-20111**</li><li>Tested: **10-May-2016**</li><li>Notes: (input not detected)</li></ul>
 |Devil May Cry|<ul><li>**Nothing/Crash**</li><li>**SLUS-20216**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Digimon World 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-20836**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **31-May-2015**</li><li>Notes: (very slow and very slight graphics issues)</li></ul>
