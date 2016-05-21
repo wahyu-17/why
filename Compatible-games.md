@@ -24,6 +24,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 | Game | Status |
 |------|--------|
 |.hack//Infection Part 1|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20267**</li><li>Tested: **21-June-2015**</li></ul>
+|.hack//G.U.vol.1//Rebirth|<ul><li>**Intro only**</li><li>Notes: Opening screens / crash</li><li>Tested: **21-May-2016**</li></ul>
 |4x4 Evo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20091**</li><li>Tested: **02-Aug-2015**</li></ul>
 |4x4 Evo 2|<ul><li>**Intro only**</li><li>**SLES-51199**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Ace Combat 4: Shattered Skies|<ul><li>**Crash/Nothing**</li><li>**SLUS-20152**</li><li>Tested 17-Aug-2015</li></ul>
