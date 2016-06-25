@@ -284,6 +284,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not rendering during duels & unstable/crashes, but everything else seems to work perfectly)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
+|Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes:(I can only play Musou Mode, but the other modes lead to a black screen.)</li></ul>
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **04-Oct-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
 |Fatal Frame II: Crimson Butterfly|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20766**</li><li>Tested: **12-Jul-2015**</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
