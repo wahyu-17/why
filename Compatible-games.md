@@ -357,7 +357,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Shadow of Rome|<ul><li>**Nothing/Crash**</li><li>**SLUS-20902**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97472**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **31-May-2015**</li></ul>
-|SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li>li>Notes: (The title screen isn't visible.)</li></ul>
+|SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li><li>Notes: (The title screen isn't visible.)</li></ul>
 |Spyro: Enter The Dragonfly|<ul><li>**Intro only**</li><li>**SLUS-20315**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (shows Spyro, which is part of the intro process, but hangs & won't proceed)</li></ul>
 |Star Ocean: Till the End of Time (Disc 1)|<ul><li>**Nothing/Crash**</li><li>**SLUS-20488**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Steambot Chronicles|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21344**</li><li>Tested: **19-August-2015**</li></ul>
