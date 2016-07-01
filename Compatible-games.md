@@ -259,7 +259,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
 |Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |Blood Omen 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20024**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
-|Breath of Fire: Dragon Quarter|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20499**</li><li>Tested: **29-May-2016**</li><li>Notes: (The loading screen after the title screen doesn't seem to end.)</li></ul>
+|Breath of Fire: Dragon Quarter|<ul><li>**In-game**</li><li>**SLUS-20499**</li><li>Tested: **29-May-2016**</li><li>Notes: (To go in-game, you have to press X and interrupt the saving process. If you don't, the loading loops.)</li></ul>
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
 |Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bully|<ul><li>**Intro only**</li><li>**SLUS-21269**</li><li>Tested: **07-Jun-2015**</li></ul>
