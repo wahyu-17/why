@@ -305,7 +305,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
-|Hunter - The Reckoning Wayward|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20511**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
+|Hunter - The Reckoning Wayward|<ul><li>**Intro only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (N/A)</li></ul>
+|The Incredible Hulk: Ultimate Destruction|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (I can't pass the menu because the buttons (X, Square, Circle & Triangle) are not responding)</li></ul>
 |Jade Cocoon 2|<ul><li>**Intro only**</li><li>**SLUS-20309**</li><li>Tested: **14-Jul-2015**</li></ul>
 |Jak and Daxter: The Precursor Legacy|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97124**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Jet Li: Rise To Honor|<ul><li>**Intro only**</li><li>**SCUS-97279**</li><li>Tested: **20-Jun-2015**</li></ul>
