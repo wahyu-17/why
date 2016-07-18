@@ -330,7 +330,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Hot Pursuit 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20362**</li><li>Tested: **23-Aug-2015**</li>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
-|Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable. </li></ul>
+|Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: (The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable.) </li></ul>
 |Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
