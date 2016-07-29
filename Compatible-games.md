@@ -326,7 +326,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Mortal Kombat: Armageddon|<ul><li>**Intro only**</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li><li>Notes: (won't pass first logo)</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |Musashi: Samurai Legend|<ul><li>**Intro only**</li><li>**SLUS-20983**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (N/A Yet)</li></ul>
-|Mushihime-sama|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPM-66056**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
+|Mushihime-sama|<ul><li>**Menu/Title screen only**</li><li>**SLPM-66056**</li><li>Tested: **24-Jul-2016**</li><li>Notes: (Immediately shut the emulator down when starting the game.)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Hot Pursuit 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20362**</li><li>Tested: **23-Aug-2015**</li>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
