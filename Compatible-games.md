@@ -38,6 +38,11 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Arcana Heart 2|<ul><li>**In-game**</li><li>**SLPM-55147**</li><li>Tested: **31-May-2015**</li></ul>
 |Armored Core 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20014**</li><li>Tested: **21-June-2015**</li></ul>
 |Armored Core 2: Another Age|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20249**</li><li>Tested: **21-June-2015**</li></ul>
+|Armored Core 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20435**</li><li>Tested: **27-Aug-2016**</li></ul>
+|Armored Core: Silent Line|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20644**</li><li>Tested: **27-Aug-2016**</li></ul>
+|Armored Core: Nexus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20986**</li><li>Tested: **27-Aug-2016**</li><li>Notes: Both discs</li></ul>
+|Armored Core: Nine Breaker|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21200**</li><li>Tested: **27-Aug-2016**</li></ul>
+|Armored Core: Last Raven|<ul><li>**Nothing/Crash**</li><li>**SLUS-21338**</li><li>Tested: **27-Aug-2016**</li></ul>
 |Ar Tonelico: Melody of Elemia|<ul><li>**In-game**</li><li>**SLUS-21445**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Seems to run beyond fullspeed; sound problems and some graphics ones too.)</li></ul>
 |Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21788**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
 |Animaniacs: The Great Edgar Hunt|<ul><li>**Menu/Title screen only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (Stuck in language select screen ... controls not working)</li></ul>
