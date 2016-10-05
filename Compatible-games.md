@@ -1,3 +1,10 @@
+## Table of Contents
+
+* [About](#an-unfinished-list-of-commercial-ps2-games--their-compatibilitystatus-on-play)
+* [Windows OS/X](#windowsos-x)
+* [iOS](#ios)
+* [Linux](#linux)
+
 ## An unfinished list of commercial PS2 games & their compatibility/status on Play!:
 
 **1.** **In-game** means somewhat playable past title screens (including with graphics bugs, crashes, and other major problems).
@@ -409,3 +416,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Taz - Wanted|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
 |Tomb Raider Underworld (ps2 version)|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |ZooCube|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
+
+## Linux ##
+
