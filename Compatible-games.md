@@ -399,14 +399,14 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 | Game | Status |
 |------|--------|
 |Barnyard|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Crash Bandicoot: Twinsanity|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
+|Crash Bandicoot: The Wrath of Cortex|<ul><li>**Menu/Title screen only**</li><li>**SLES-503.86**</li><li>Tested: **17-Oct-2016**</li></ul>
+|Crash Twinsanity|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Downhill Slalom|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Disney's Donald Duck - Quack Attack|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Final Fantasy X|<ul><li>**In-game (but miss input to control)**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
 |Go Go Golf|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Haunting Ground|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
-|Kingdom Hearts II Final Mix|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **17-Oct-2016**</li></ul>
+|Kingdom Hearts II Final Mix|<ul><li>**Menu/Title screen only**</li><li>**SLPM-666.75**</li><li>Tested: **17-Oct-2016**</li></ul>
 |Legend of Spyro, The - A New Beginning|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |persona 4|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **1-Oct-2015**</li></ul>
 |Rule of Rose|<ul><li>**Nothing/crash**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
