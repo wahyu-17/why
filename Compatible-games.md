@@ -1,7 +1,7 @@
 ## Table of Contents
 
 * [About](#an-unfinished-list-of-commercial-ps2-games--their-compatibilitystatus-on-play)
-* [Windows OS/X](#windowsos-x)
+* [Windows/OS X](#windowsos-x)
 * [iOS](#ios)
 * [Linux](#linux)
 
