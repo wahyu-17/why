@@ -140,8 +140,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Killzone|<ul><li>**Crashes**</li><li>**SCES-52004**</li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **05-Apr-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Kingdom Hearts: Final Mix|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25198**</li><li>Tested: **24-May-2015**</li></ul>
-|Kingdom Hearts 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (seems to freeze right at Twilight Town cutscene, right before getting Roxas)</li></ul>
-|Kingdom Hearts 2: Final Mix|<ul><li>**Menu/Title screen only**</li><li>**SLPM-66675**</li><li>Tested: **24-May-2015**</li><li>Notes: (hangs after second cutscene)</li></ul>
+|Kingdom Hearts II|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (seems to freeze right at Twilight Town cutscene, right before getting Roxas)</li></ul>
+|Kingdom Hearts II: Final Mix|<ul><li>**In-Game**</li><li>**SLPM-66675**</li><li>Tested: **24-Oct-2016**</li></ul>
 |King's Field IV|<ul><li>**Intro Only**</li><li>**SLES-50920**</li><li>Tested: **24-May-2015**</li></ul>
 |Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
 |Mafia|<ul><li>**Loadable with FPS**</li><li>**SLES-52278**</li></ul>
@@ -399,7 +399,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 | Game | Status |
 |------|--------|
 |Barnyard|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Crash Bandicoot: The Wrath of Cortex|<ul><li>**In-game**</li><li>**SLES-50386**</li><li>Tested: **17-Oct-2016**</li><li>Notes: "New Game" freezes the emulator, choose "Load Game" instead. Intermittent and really annoying beeping sound plays when in-game. Freezes when stepping on a level in the warp room.</li></ul>
+|Crash Bandicoot: The Wrath of Cortex|<ul><li>**In-Game**</li><li>**SLES-50386**</li><li>Tested: **17-Oct-2016**</li><li>Notes: Intermittent and really annoying beeping sound plays when in-game.</li></ul>
 |Crash Twinsanity|<ul><li>**Nothing/Crash**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Downhill Slalom|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Disney's Donald Duck - Quack Attack|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
