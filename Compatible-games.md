@@ -59,6 +59,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li></ul>
 |Barnyard|<ul><li>**Intro only**</li><li>**SLUS-21277**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Beatmania|<ul><li>**Intro only**</li><li>**SLUS-21239**</li><li>Tested: **27-Sep-2015**</li></ul>
+|Beatmania IIDX 14 - Gold|<ul><li>**In-game**</li><li>**SLPM-66995**</li><li>Tested: **26-Oct-2016**</li></ul>
 |Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
 |Bomberman Hardball|<ul><li>**Intro only**</li><li>**SLES-53301**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (hangs and loops on title screen)</li></ul>
 |Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
