@@ -288,6 +288,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCUS-97213**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (hang after Level 5 logo)</li></ul>
 |Dead To Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **31-May-2015**</li></ul>
 |Death by Degrees|<ul><li>**Nothing/Crash**</li><li>**SLUS-20934**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
+|Def Jam: Fight for NY|<ul><li>**Nothing/Crash**</li><li>**SLES-52507**</li><li>Tested: **24-Oct-2016**</li><li>Notes: (N/A)</li></ul>
+|Def Jam Vendetta|<ul><li>**Menu/Title screen only**</li><li>**SLES-51479**</li><li>Tested: **24-Oct-2016**</li><li>Notes: (Doesn't go beyond the loading screen.)</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
 |Destroy All Humans!|<ul><li>**Intro only**</li><li>**SLUS-20945**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
 |Deus Ex: The Conspiracy|<ul><li>**In-game**</li><li>**SLUS-20111**</li><li>Tested: **10-May-2016**</li><li>Notes: N/A</li></ul>
