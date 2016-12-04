@@ -2,6 +2,7 @@
 
 * [About](#an-unfinished-list-of-commercial-ps2-games--their-compatibilitystatus-on-play)
 * [Windows/OS X](#windowsos-x)
+* [Android](#android)
 * [iOS](#ios)
 * [Linux](#linux)
 
