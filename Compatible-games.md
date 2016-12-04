@@ -301,7 +301,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not rendering during duels & unstable/crashes, but everything else seems to work perfectly)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
-|Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **4-Dec-2016*</li><li>Notes: Sound works in Intro and Loading but not Cutscenes/ App crashes when entering a Duel (3D rendering?) (Tested on Galaxy Note 4 running Marshmallow)</li></ul>
+|Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: *4-Dec-2016*</li><li>Notes: Sound works in Intro and Loading but not Cutscenes/ App crashes when entering a Duel (3D rendering?) (Tested on Galaxy Note 4 running Marshmallow)</li></ul>
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **04-Oct-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
