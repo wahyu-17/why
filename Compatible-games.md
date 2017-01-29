@@ -225,8 +225,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
 |Superman Returns|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21434**</li><li>Tested: **23-November-2015**</li></ul>
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (hangs and crashes sometimes)</li></ul>
-|Tales of Legendia|<ul><li>**Menu/Title screen only**</li><li>Menu has glitches. Can`t get in-game because it runs out of memory</li><li>**SLUS-21201**</li><li>Tested: **23-Aug-2015**</li></ul>
-|Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Aug-2015**</li></ul>
+|Tales of Legendia|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21201**</li><li>Notes: Menu has glitches. Can`t get in-game because it runs out of memory</li><li>Tested: **23-Aug-2015**</li><li>**Nothing/Crash**</li><li>Test: **23-Jan-2017**</li><li>Notes: Regression, need to be investigated</li></ul>
+|Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Jan-2017**</li><li>**Nothing/Crash**</li><li>Tested: **23-Jan-2017**</li><li>Notes: Show FPS for seconds, then crash (Probably a regression)</li></ul>
 |Taz - Wanted|<ul><li>**In-game**</li><li>**SLES-50649**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
 |The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
@@ -346,7 +346,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Musashi: Samurai Legend|<ul><li>**Intro only**</li><li>**SLUS-20983**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Mushihime-sama|<ul><li>**Menu/Title screen only**</li><li>**SLPM-66056**</li><li>Tested: **24-Jul-2016**</li><li>Notes: (Immediately shut the emulator down when starting the game.)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
-|Need for Speed - Hot Pursuit 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20362**</li><li>Tested: **23-Aug-2015**</li>
+|Need for Speed - Hot Pursuit 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20362**</li><li>Tested: **23-Jan-2017**</li>
 |Need for Speed - Most Wanted - Black Edition|<ul><li>**Intro only**</li><li>**SLUS-21351**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (Crashes at main logo before title screen)</li></ul>
 |Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: (The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable.) </li></ul>
 |Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
