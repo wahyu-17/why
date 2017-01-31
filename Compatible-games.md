@@ -102,7 +102,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
 |Final Fight: Streetwise|<ul><li>**Crash**</li><li>**SLES-53853**</li><li>Tested: **23-November-2015**</li></ul>
 |Flatout|<ul><li>**Loadable with FPS**</li><li>**SLES-52753**</li></ul>
-|Flipnic|<ul><li>**Crash**</li><li>**SLES-52065**</li></ul>
+|Flipnic|<ul><li>**Intro Only**</li><li>**SLES-52065**</li><li>Tested: **31-Jan-2017**</li><li>Notes: Briefly flashes the Sony Computer Entertainment Presents logo then black screens at around 40 Frames Per Second.</li></ul>
 |Forbidden Siren|<ul><li>**Intro only**</li><li>**SCES-51920**</li><li>Notes: (no controller detected)</li></ul>
 |Freedom Fighters|<ul><li>**Intro only**</li><li>**SLES-51467**</li><li>Notes: (Crashes after EA logo)</li></ul>
 |Front Mission 4|<ul><li>**Loadable**</li><li>**PBPX-95506**</li><li>Tested: **29-Mar-2015**</li></ul>
