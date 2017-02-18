@@ -426,3 +426,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |ZooCube|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 
 ## Linux ##
+
+| Game | Status |
+|------|--------|
+|Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **18-Feb-2017**</li></ul>
+|Gungrave|<ul><li>**In-game**</li><li>**SLUS-20493**</li><li>Tested: **18-Feb-2017**</li></ul>
+|Metal Gear Solid 2 (Substance)|<ul><li>**Loadable with FPS**</li><li>**SLUS-20554**</li><li>Tested: **18-Feb-2017**</li></ul>
