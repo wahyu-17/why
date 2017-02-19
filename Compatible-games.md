@@ -430,8 +430,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 | Game | Status |
 |------|--------|
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **18-Feb-2017**</li></ul>
-|Gungrave (USA)|<ul><li>**In-game**</li><li>**SLUS-20493**</li><li>Tested: **18-Feb-2017**</li><li>Notes: All characters are sunk into the floor and analog input does not work.</li></ul>
-|Katamari Damacy (USA)|<ul><li>**Menu Screen only/Crash**</li><li>**SLUS-21008**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Segfaults the emulator immediately on the menu.</li></ul>
-|Metal Gear Solid 2 - Substance (USA)|<ul><li>**Loadable with FPS**</li><li>**SLUS-20554**</li><li>Tested: **18-Feb-2017**</li></ul>
-|Yakuza (USA)|<ul><li>**Ingame**</li><li>**SLUS-21348**</li><li>Tested: **19-Feb-2017**</li><li>Notes: There's some bugs but eventually it will start cutscene graphics but hangs before you get control.</li></ul>
-
+|Gungrave|<ul><li>**In-game**</li><li>**SLUS-20493**</li><li>Tested: **18-Feb-2017**</li><li>Notes: All characters are sunk into the floor and analog input does not work.</li></ul>
+|Katamari Damacy|<ul><li>**Menu only/Crash**</li><li>**SLUS-21008**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Segfaults the emulator immediately on the menu.</li></ul>
+|Metal Gear Solid 2 - Substance|<ul><li>**Loadable with FPS**</li><li>**SLUS-20554**</li><li>Tested: **18-Feb-2017**</li></ul>
+|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCES-53326**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Serious graphical errors and a crappy framerate, but mostly playable.</li></ul>
+|Silent Hill 2 - Director's Cut|<ul><li>**Crash**</li><li>**SLES-51156**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Segfaults emulator on load.</li></ul>
+|Yakuza|<ul><li>**In-game**</li><li>**SLUS-21348**</li><li>Tested: **19-Feb-2017**</li><li>Notes: There's some bugs but eventually it will start cutscene graphics but hangs before you get control.</li></ul>
