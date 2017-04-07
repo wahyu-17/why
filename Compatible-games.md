@@ -206,7 +206,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
 |Shining Tears|<ul><li>**Loadable with FPS**</li><li>**SLUS-21063**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Shinobi|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25026**</li><li>Tested: **24-May-2015**</li></ul>
-|Silent Hill 2|<ul><li>**Crashes**</li><li>**SLES-50382**</li></ul>
+|Silent Hill 2|<ul><li>**Menu/Title screen only**</li><li>**SLES-50382**</li><li>Tested: **06-Apr-2017**</li></ul>
 |Silent Hill 4|<ul><li>**Intro only**</li><li>**SLES-52445**</li></ul>
 |Simpsons Hit and Run, The|<ul><li>**Crashes**</li><li>**SLES-51897**</li></ul>
 |Sly Cooper and the Thievius Raccoonus|<ul><li>**Loadable with FPS**</li><li>**SCES-50917**</li></ul>
