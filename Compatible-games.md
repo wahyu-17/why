@@ -72,7 +72,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
 |Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
 |Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
-|Crash Twinsanity|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20909**</li><li>Tested: **29-Mar-2015**</li></ul>
+|Crash Twinsanity|<ul><li>**Intro only**</li><li>**SLUS-20909**</li><li>Tested: **18-Apr-2017**</li><li>Notes: Freezes on the first load screen after the Traveller's Tales logo.</li></ul>
 |Dance Dance Revolution Extreme|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20916**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution SuperNOVA|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21377**</li><li>Tested: **02-Apr-2015**</li></ul>
