@@ -152,8 +152,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Manhunt|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20827**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Maximo: Ghosts to Glory|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20017**</li><li>Tested: **04-Oct-2015**</li></ul>
 |Medal of Honor Frontline|<ul><li>**Intro only**</li><li>**SLUS-20368**</li></ul>
-|Megaman X7|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_518.85;1**</li></ul>
-|Megaman X8|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES_529.88;1**</li></ul>
+|Megaman X7|<ul><li>**In-game**</li><li>**SLES_518.85;1**</li><li>Tested: **13-May-2017**</li><li>Notes: Gets into the Intro Stage, but the camera focuses on the transition to the first 3D Section, seemingly leaving Axl stuck in a void.</li></ul></ul>
+|Megaman X8|<ul><li>**In-game**</li><li>**SLES_529.88;1**</li><li>Tested: **13-May-2017**</li><li>Notes: Gets into the Intro Stage, but immediatley goes to the first Crabs-Y fight, with X & Axl somewhere offscreen, unable to progress.</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **06-Nov-2015**</ul>
 |Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
