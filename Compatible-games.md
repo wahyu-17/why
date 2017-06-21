@@ -51,7 +51,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Armored Core: Nexus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20986**</li><li>Tested: **27-Aug-2016**</li><li>Notes: Both discs</li></ul>
 |Armored Core: Nine Breaker|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21200**</li><li>Tested: **27-Aug-2016**</li></ul>
 |Armored Core: Last Raven|<ul><li>**Nothing/Crash**</li><li>**SLUS-21338**</li><li>Tested: **27-Aug-2016**</li></ul>
-|Ar Tonelico: Melody of Elemia|<ul><li>**In-game**</li><li>**SLUS-21445**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Seems to run beyond fullspeed; sound problems and some graphics ones too.)</li></ul>
+|Ar Tonelico: Melody of Elemia|<ul><li>**In-game**</li><li>**SLUS-21445**</li><li>Tested: **21-06-2017**</li><li>Notes: (Seems to run beyond fullspeed; sound problems and some graphics ones too.)</li></ul>
 |Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21788**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
 |Animaniacs: The Great Edgar Hunt|<ul><li>**Menu/Title screen only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (Stuck in language select screen ... controls not working)</li></ul>
 |Atelier Iris: Eternal Mana|<ul><li>**In-game**</li></ul>
@@ -116,8 +116,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Grand Theft Auto: San Andreas|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20946**</li><li>Tested: **20-Sep-2015**<li>Notes: (close to in-game, but tends to crash before moving CJ around)</li></ul>
 |Grand Theft Auto: Vice City|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20552**</li><li>Tested: **20-Sep-2015**<li>Notes: (will freeze in intro sequence with any input, and hangs waiting otherwise)</li></ul>
 |Gran Turismo 2000 Tech Demo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**PAPX-90203**</li><li>Tested: **06-Nov-2015**</ul>
-|Gran Turismo 3: A-Spec|<ul><li>**Intro Only**</li>**SCUS-97102**</li></ul>
-|Gran Turismo 3: A-Spec|<ul><li>**Intro only**</li><li>**SCES-50294**</li><li>Tested: **23-Aug-2015**</li></ul>
+|Gran Turismo 3: A-Spec|<ul><li>**In-game**</li><li>**SCUS-97102</li>**<li>Tested: **21-06-2017**</li></li></ul>
+|Gran Turismo 3: A-Spec|<ul><li>**In-game**</li><li>**SCES-50294**</li><li>Tested: **21-06-2017**</li></ul>
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li><ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
