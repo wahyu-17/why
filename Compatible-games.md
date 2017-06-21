@@ -68,7 +68,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Burnout 3: Takedown|<ul><li>**Intro Only**</li><li>**SLUS-21050**</li><li>Tested: **17-October-2015**</li><li>Notes: (stuck at the initial loading screen.)</li></ul>
 |Burnout Revenge|<ul><li>**Nothing/Crash**</li><li>**SLES-53507**</li><li>Tested: **21-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
 |Burnout Dominator|<ul><li>**Nothing/Crash**</li><li>**SLES-54681**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
-|Castlevania: Curse of Darkness|<ul><li>**In-game**</li></ul>
+|Castlevania: Curse of Darkness|<ul><li>**Menu/Title screen only**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
 |Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
 |Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
