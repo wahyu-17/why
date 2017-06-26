@@ -430,6 +430,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 
 | Game | Status |
 |------|--------|
+|Front Mission 4|<ul><li>**Intro only**</li><li>**SLUS-20888**</li><li>Tested: **27-Jun-2017**</li></ul>
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **18-Feb-2017**</li></ul>
 |Gungrave|<ul><li>**In-game**</li><li>**SLUS-20493**</li><li>Tested: **18-Feb-2017**</li><li>Notes: All characters are sunk into the floor and analog input does not work.</li></ul>
 |Katamari Damacy|<ul><li>**Menu only/Crash**</li><li>**SLUS-21008**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Segfaults the emulator immediately on the menu.</li></ul>
