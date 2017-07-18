@@ -73,6 +73,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
 |Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
 |Crash Twinsanity|<ul><li>**Intro only**</li><li>**SLUS-20909**</li><li>Tested: **18-Apr-2017**</li><li>Notes: Freezes on the first load screen after the Traveller's Tales logo.</li></ul>
+|Crimson Tears|<ul><li>**In-game**</li><li>**SLUS-20948**</li><li>Tested: **17-Jul-2017**</li><li> Visual effects glitching all over the screen (you can fix this by altenating high resolution mode on/off)</li></ul>
 |Dance Dance Revolution Extreme|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20916**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution SuperNOVA|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21377**</li><li>Tested: **02-Apr-2015**</li></ul>
@@ -96,7 +97,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
 |Fire Pro Wrestling Returns|<ul><li>**In-game**</li><li>**SLUS-21702**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (texture/swizzle graphics garbage sometimes appears in-game)</li></ul>
 |Final Fantasy: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **30-Aug-2015**</li><li>Notes: (Stuck after SQUARE ENIX logo)</li></ul>
-|Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
+|Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **17-Jul-2017**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Final Fantasy X-2 International + Last Mission|<ul><li>**In-game**</li><li>**SLPM-65478**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Last mission only)</li></ul>
 |Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
