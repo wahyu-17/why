@@ -333,6 +333,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (graphics issues among others)</li></ul>
 |Kingdom Hearts II|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (will not go in-game yet)</li></ul>
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
+|Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
 |Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
 |Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (gets stuck whenever you press any buttons)</li></ul>
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
