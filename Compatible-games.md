@@ -42,7 +42,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Alien Hominid|<ul><li>**Loadable with FPS**</li><li>**SLES-53139**</li></ul>
 |Ape Escape 2|<ul><li>**Crashes**</li><li>**SLUS-20685**</li></ul>
 |Ape Escape 3|<ul><li>**Loadable with FPS**</li><li>**SCUS-97501**</li></ul>
-|Area 51|<ul><li>**Intro only**</li><li>**SLUS-20595**</li></ul>
+|Area 51|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20595**</li></ul>
 |Arcana Heart|<ul><li>**In-game**</li><li>**SLPM-66850**</li><li>Tested: **31-May-2015**</li></ul>
 |Arcana Heart 2|<ul><li>**In-game**</li><li>**SLPM-55147**</li><li>Tested: **31-May-2015**</li></ul>
 |Armored Core 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20014**</li><li>Tested: **21-June-2015**</li></ul>
