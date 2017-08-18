@@ -35,8 +35,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |.hack//G.U.vol.1//Rebirth|<ul><li>**Intro only**</li><li>Tested: **21-May-2016**</li><li>Notes: Opening screens / crash</li></ul>
 |4x4 Evo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20091**</li><li>Tested: **02-Aug-2015**</li></ul>
 |4x4 Evo 2|<ul><li>**Intro only**</li><li>**SLES-51199**</li><li>Tested: **02-Aug-2015**</li></ul>
-|Ace Combat 4: Shattered Skies|<ul><li>**Crash/Nothing**</li><li>**SLUS-20152**</li><li>Tested 17-Aug-2015</li></ul>
-|Ace Combat 5: The Unsung War|<ul><li>**Crash/Nothing**</li><li>**SLUS-20851**</li><li>Tested 17-Aug-2015</li></ul>
+|Ace Combat 4: Shattered Skies|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20152**</li><li>Tested 18-Aug-2017</li></ul>
+|Ace Combat 5: The Unsung War|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20851**</li><li>Tested 18-Aug-2017</li></ul>
+|Ace Combat Zero: The Belkan War|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-54041**</li><li>Tested 18-Aug-2017</li></ul>
 |Aggressive Inline|<ul><li>**Loadable with FPS**</li><li>**SLUS-20327**</li></ul>
 |Alien Hominid|<ul><li>**Loadable with FPS**</li><li>**SLES-53139**</li></ul>
 |Ape Escape 2|<ul><li>**Crashes**</li><li>**SLUS-20685**</li></ul>
