@@ -158,8 +158,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-50383**</li><li>Tested: **20-Sep-2015**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **06-Nov-2015**</ul>
 |Metal Gear Solid 3: Snake Eater|<ul><li>**Nothing/crash**</li><li>**SLES-82013**</li></ul>
-|Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21359**</li><li>Tested: **24-May-2015**</li></ul>
-|Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21243**</li><li>Tested: **24-May-2015**</li></ul>
+|Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**In-Game**</li><li>**SLUS-21359**</li><li>Tested: **10-August-2017**</li></ul>
+|Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**In-Game**</li><li>**SLUS-21243**</li><li>Tested: **10-August-2017**</li></ul>
+|Metal Gear Solid 3: Subsistence (Disc 3)|<ul><li>**In-Game**</li><li>**SLUS-21243**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
 |Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
@@ -167,7 +168,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Myth Makers Orbs of Doom |<ul><li>**Intro Only**</li><li>**SLES-52241**</li><li>Tested **02-Nov-2015**</li><li>Notes: (Before the main menu the game mentions that you need the Analog Controller, feature is still missing on windows.)</li></ul>
 |Odin Sphere|<ul><li>**In-Game**</li><li>**SLUS-21577**</li><li>Tested: **06-Apr-2017**</li><li>Notes: Playable</li></ul>
 |Okami|<ul><li>**Loadable with FPS**</li><li>**SLUS-21115**</li></ul>
-|Oni|<ul><li>**Intro only**</li><li>**SLES-50134**</li><li>Notes: (can't skip videos)</li></ul>
+|Oni|<ul><li>**In-Game**</li><li>**SLES-50134**</li><li>Notes: Work with a Workaround available in the FR version posted in the patches.xml file</li></ul>
 |Onimusha: Warlords|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20018**</li><li>Tested: **13-Sep-2015**</li></ul>
 |Outrun 2006: Coast 2 Coast|<ul><li>**Crashes**</li><li>**SLUS-21274**</li></ul>
 |Persona 3 FES|<ul><li>**In-game**</li><li>Tested: **20-Sep-2015**</li><li>**SLUS-21621**</li><li>Notes: (graphics issues and long hangs, but progresses eventually)</li></ul>
@@ -178,12 +179,13 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
 |R-Type Final|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20780**</li><li>Tested: **21-June-2015**</li><li>Notes: (No dualshock 2 detected screen)</li></ul>
 |Ratchet & Clank|<ul><li>**Intro Only**</li><li>**SCUS-97199**</li><li>**Tested 17-Aug-2015**</ul>
-|Ratchet & Clank: Going Commando|<ul><li>**Nothing/crash**</li><li>**SCUS-97268**</li><li>Tested: **24-May-2015**</li></ul>
-|Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **20-Aug-2015**</li></ul>
+|Ratchet & Clank: Going Commando|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97268**</li><li>Tested: **10-August-2017**</li></ul>
+|Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **10-August-2017**</li></ul>
+|Ratchet Deadlocked|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53285**</li><li>Tested: **10-August-2017**</li></ul>
 |Radiata Stories|<ul><li>**Intro**</li><li>**SLUS-21262**</li><li>Tested: **31-May-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |Rayman M|<ul><li>**Intro only**</li><li>**SLES-50457**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
 |Rayman 3: Hoodlum Havoc|<ul><li>**Intro only**</li><li>**SLES_512.22**</li><li>Notes: (crashes after displaying Ubisoft Logo)</li></ul>
-|Red Dead Revolver|<ul><li>**Loadable with FPS**</li><li>**SLES-52478**</li></ul>
+|Red Dead Revolver|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLES-52478**</li></ul>
 |Red Faction|<ul><li>**Title Screen**</li><li>**SLES-50277**</li><li>Notes: (freezes loading level)</li></ul>
 |Red Faction 2|<ul><li>**Intro only**</li><li>**SLES-51133**</li><li>Notes: (crashes on title screen)</li></ul>
 |Red Star, The|<ul><li>**Crashes**</li><li>**SLES-54581**</li></ul>
