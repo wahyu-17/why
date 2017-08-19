@@ -307,7 +307,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not rendering during duels & unstable/crashes, but everything else seems to work perfectly)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**Menu/Title screen only**</li><li>**SLES-55347**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (black screen hang after memory card info)</li></ul>
-|Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **4- 18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
+|Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **04-Oct-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
@@ -359,7 +359,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
 |Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Pac-Man World 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21219**</li><li>Tested: **12-Jul-2015**</li><li>Notes: Tested 18/8/17 on Galaxy Note 4</li></ul>
+|Pac-Man World 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21219**</li><li>Tested: **18/8/17**</li><li>Notes: Tested 18/8/17 on Galaxy Note 4</li></ul>
 |Persona 3 FES|<ul><li>**In-game**</li><li>**SLUS-21621**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Persona 4|<ul><li>**In-game**</li><li>**SLUS-21782**</li><li>Tested: **27-Sep-2015**</li><li>Notes: N/A</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **27-Sep-2015**</li><li>Notes: ()</li></ul>
