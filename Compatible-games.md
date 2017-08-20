@@ -327,7 +327,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gregory Horror Show|<ul><li>**In Game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li></ul>
 |Growlanser - Heritage of War|<ul><li>**In Game**</li><li>**SLUS-21571**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
-|Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **31-May-2015**</li><li>Notes: (needs analog sticks, so can't move)</li></ul>
+|Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **20-Aug-2017**</li><li></li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
 |Hunter - The Reckoning Wayward|<ul><li>**Intro only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (N/A)</li></ul>
 |Incredible Hulk: Ultimate Destruction, The|<ul><li>**In-game**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: N/A</li></ul>
@@ -384,7 +384,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |SEGA Ages 2500 Volume 27: Panzer Dragoon|<ul><li>**Nothing/Crash**</li><li>**SLPM-62718**</li><li>Notes: (pixels on bottom of screen; nothing else)</li></ul>
 |Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Tested: **07-Jul-2015**</li><li>Notes: (Freezes during intro cutscene, but can be played by skipping it)</li></ul>
 |Shadow of Rome|<ul><li>**Nothing/Crash**</li><li>**SLUS-20902**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
-|Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97472**</li><li>Tested: **14-Jun-2015**</li></ul>
+|Shadow of the Colossus|<ul><li>**In-Game**</li><li>**SCUS-97472**</li><li>Tested: **20-Aug-2017**</li></ul>
 |Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **28-Jan-2017**</li></ul>
 |Snoopy vs. The Red Baron|<ul><li>**Title Screen**</li><li>**SLUS-21380**</li><li>Tested: **28-Jan-2017**</li></ul>
 |SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li><li>Notes: (N/A)</li></ul>
