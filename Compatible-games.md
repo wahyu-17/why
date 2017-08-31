@@ -407,7 +407,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Trapt|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21255**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (The game detects no controller)</li></ul>
 |Ty Tasmanian Tiger 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>Tested: **10-Dec-2015**</li></ul>
 |Unreal Tournament|<ul><li>**In-game**</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues/hard to see; difficult to get in-game & needs more controls)</li></ul>
-|Viewtiful Joe|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20951**</li><li>Tested: **12-Jul-2015**</li></ul>
+|Viewtiful Joe|<ul><li>**In-game**</li><li>**SLUS-20951**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Menu is oversized. In-game graphics is good, but has full screen glitches </li></ul>
 |Virtua Fighter 4: Evolution|<ul><li>**In-game**</li><li>**SLUS-20616**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (can enter battles, but can't see characters)</li></ul>
 |Whiplash|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20684**</li><li>Tested: **28-Jun-2015**</li></ul>
 |WWF SmackDown! Just Bring It|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20316**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
