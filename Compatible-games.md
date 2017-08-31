@@ -341,7 +341,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
 |Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
-|Manhunt|<ul><li>**Intro only**</li><li>**SLUS-20827**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (gets stuck whenever you press any buttons)</li></ul>
+|Manhunt|<ul><li>**In-game**</li><li>**SLUS-20827**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Incorrect textures on 3D objects, effects, and ect.</li></ul>
 |Marvel vs. Capcom 2: New Age of Heroes|<ul><li>**In-game**</li><li>**SLUS-20486**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Matrix, The: Path of Neo|<ul><li>**Intro only**</li><li>**SLUS-21273**</li><li>Tested: **20-Dec-2015**</li><li>Notes: It doesn't pass the scrolling codes</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **02-Aug-2015**</li></ul>
