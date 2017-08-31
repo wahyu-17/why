@@ -87,7 +87,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>an
-|Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
+|Dragon Ball Z# # # ## ## ##  Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**In-game**</li><li>**SLUS-21842**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Dragon Ball Z: Sagas|<ul><li>**Intro only**</li><li>**SLUS-21842**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (crashes right after initial copyright screen)</li></ul>
 |Dragon Quest VIII|<ul><li>**In-game**</li><li>**SLUS-21207**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
@@ -311,6 +311,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
 |Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **04-Oct-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
+|Fantavision|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97105**</li><li>Tested: **31-Aug-2017**</li></ul>
 |Fatal Frame II: Crimson Butterfly|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20766**</li><li>Tested: **12-Jul-2015**</li></ul>
 |Final Fantasy VII: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (hangs after Square Enix logo)</li></ul>
 |Final Fantasy X |<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (runs okay, few graphics glitches, but is pretty slow)</li></ul>
@@ -334,6 +335,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Jade Cocoon 2|<ul><li>**Intro only**</li><li>**SLUS-20309**</li><li>Tested: **14-Jul-2015**</li></ul>
 |Jak and Daxter: The Precursor Legacy|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97124**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Jet Li: Rise To Honor|<ul><li>**Intro only**</li><li>**SCUS-97279**</li><li>Tested: **20-Jun-2015**</li></ul>
+|Katamari Damacy|<ul><li>**In-game**</li><li>**SLUS-21008**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Emulator doesn't load levels, so impossible to play  </li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (graphics issues among others)</li></ul>
 |Kingdom Hearts II|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (will not go in-game yet)</li></ul>
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
@@ -398,6 +400,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Swords of Destiny|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25459**</li><li>Tested: **23-November-2015**</li></ul>
 |Tetris Worlds|<ul><li>**Intro only**</li><li>**SLUS-20247**</li><li>Tested: **10-May-2016**</li><li>Notes: (It doesn't reach game select)</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
+|Tomb Raider: The Angel of Darkness|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20467**</li><li>Tested: **31-Aug-2017**</li></ul>
+|Tomb Raider: Underworld|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21858**</li><li>Tested: **31-Aug-2017**</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |The Ant Bully|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |Trapt|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21255**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (The game detects no controller)</li></ul>
