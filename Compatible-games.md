@@ -398,7 +398,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (not too slow on powerful devices)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Swords of Destiny|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25459**</li><li>Tested: **23-November-2015**</li></ul>
-|Tetris Worlds|<ul><li>**Intro only**</li><li>**SLUS-20247**</li><li>Tested: **10-May-2016**</li><li>Notes: (It doesn't reach game select)</li></ul>
+|Tetris Worlds|<ul><li>**In-game**</li><li>**SLUS-20247**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Some graphics bugs</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tomb Raider: The Angel of Darkness|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20467**</li><li>Tested: **31-Aug-2017**</li></ul>
 |Tomb Raider: Underworld|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21858**</li><li>Tested: **31-Aug-2017**</li></ul>
