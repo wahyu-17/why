@@ -360,7 +360,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: (The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable.) </li></ul>
 |Nightshade|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20810**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Odin Sphere|<ul><li>**In-game**</li><li>**SLUS-21577**</li><li>Tested: **19-Jul-2015**</li>at some point graphical issues</ul>
-|Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (graphics issues)</li></ul>
+|Pac-Man World 2|<ul><li>**In-game**</li><li>**SLUS-20224**</li><li>Tested: **1-Sep-2017**</li><li>Notes: Just full screen glitches, everything else is fine</li></ul>
 |Pac-Man World 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21219**</li><li>Tested: **18/8/17**</li><li>Notes: Tested 18/8/17 on Galaxy Note 4</li></ul>
 |Persona 3 FES|<ul><li>**In-game**</li><li>**SLUS-21621**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Persona 4|<ul><li>**In-game**</li><li>**SLUS-21782**</li><li>Tested: **27-Sep-2015**</li><li>Notes: N/A</li></ul>
@@ -414,6 +414,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
 |Ys 1 & 2: Eternal Story|<ul><li>**In-game**</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li><li>Notes: (can't see field/characters/objects; just a black area; graphics issue)</li></ul>
 |Zone of the Enders|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20148**</li><li>Tested: **12-Jul-2015**</li></ul>
+|ZooCube|<ul><li>**In-game**</li><li>SLES-54461</li><li>Tested: **2-Sep-2017**</li></ul>
 ## iOS
 | Game | Status |
 |------|--------|
