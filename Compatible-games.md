@@ -302,7 +302,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Deus Ex: The Conspiracy|<ul><li>**In-game**</li><li>**SLUS-20111**</li><li>Tested: **10-May-2016**</li><li>Notes: N/A</li></ul>
 |Devil May Cry|<ul><li>**Nothing/Crash**</li><li>**SLUS-20216**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Digimon World 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-20836**</li><li>Tested: **07-Jun-2015**</li></ul>
-|Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **31-May-2015**</li><li>Notes: (very slow and very slight graphics issues)</li></ul>
+|Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **6-Sept-2017**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li><li>Notes: (slight graphics issues)</li></ul>
 |Downhill Domination|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97177**</li><li>Tested: **05-Jul-2015**</li><li>Notes: Stuck on loading screen</li></ul>
 |Dragon Ball Z Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (models not rendering during duels & unstable/crashes, but everything else seems to work perfectly)</li></ul>
