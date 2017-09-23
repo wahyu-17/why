@@ -71,6 +71,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Burnout Dominator|<ul><li>**Nothing/Crash**</li><li>**SLES-54681**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**Menu/Title screen only**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
+|Champions: Return to Arms|<ul><li>**Intro only**</li><li>Tested 23-Sep-2017</li><li>Notes: (crashes after choosing memory card)</li></ul>
 |Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
 |Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
 |Crash Twinsanity|<ul><li>**Intro only**</li><li>**SLUS-20909**</li><li>Tested: **18-Apr-2017**</li><li>Notes: Freezes on the first load screen after the Traveller's Tales logo.</li></ul>
