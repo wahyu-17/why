@@ -208,7 +208,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Tested: **07-Jul-2015**</li><li>Notes: (There are some harmless broken graphics, but gameplay is too fast)</li></ul>
 |Shadow Hearts: Covenant|<ul><li>**Loadable with FPS**</li><li>**SLES-82030**</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53326**</li></ul>
-|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCUS-97472**</li><li>Tested: **13-Jan-2018**</li><li>Notes: Slow, some visial colourful texture corruption, i can move main character but its almost black.</li></ul>
+|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCUS-97472**</li><li>Tested: **13-Jan-2018**</li><li>Notes: Slow, some visial colourful texture corruption, i can move main character but he is almost black.</li></ul>
 |Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
 |Shining Tears|<ul><li>**Loadable with FPS**</li><li>**SLUS-21063**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Shinobi|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25026**</li><li>Tested: **24-May-2015**</li></ul>
