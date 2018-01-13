@@ -77,6 +77,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
 |Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
 |Crash Twinsanity|<ul><li>**Intro only**</li><li>**SLUS-20909**</li><li>Tested: **18-Apr-2017**</li><li>Notes: Freezes on the first load screen after the Traveller's Tales logo.</li></ul>
+|Crazy Taxi|<ul><li>**Loadable with FPS**</li><li>**SLUS-20202**</li><li>**13-Jan-2018**</li></ul>
 |Crimson Tears|<ul><li>**In-game**</li><li>**SLUS-20948**</li><li>Tested: **17-Jul-2017**</li><li> Visual effects glitching all over the screen (you can fix this by altenating high resolution mode on/off)</li></ul>
 |Dance Dance Revolution Extreme|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20916**</li><li>Tested: **02-Apr-2015**</li></ul>
 |Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
@@ -89,7 +90,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Destroy All Humans! 2|<ul><li>**Menu/Title screen only**</li><li>**SLES-54384**</li><li>Notes: (no input)</li></ul>
 |Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>an
+|Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>
 |Dragon Ball Z# # # ## ## ##  Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
 |Dragon Ball Z: Infinite World|<ul><li>**In-game**</li><li>**SLUS-21842**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Dragon Ball Z: Sagas|<ul><li>**Intro only**</li><li>**SLUS-21842**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (crashes right after initial copyright screen)</li></ul>
