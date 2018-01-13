@@ -241,6 +241,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Jan-2017**</li><li>**Nothing/Crash**</li><li>Tested: **23-Jan-2017**</li><li>Notes: Show FPS for seconds, then crash (Probably a regression)</li></ul>
 |Taz - Wanted|<ul><li>**In-game**</li><li>**SLES-50649**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
+|Tekken Tag Tournament|<ul><li>**Nothing/Crash**</li><li>**SLUS-20001**</li><li>Instant Application Crash</li></ul>
 |The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
 |The Bigs|<ul><li>**Intro only**</li><li>**SLUS-21623**</li><li>Tested: **27-Sep-2015**</li></ul>
 |The Lord of the Rings: The Two Towers|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20578**</li><li>Tested: **28-Jun-2015**</li></ul>
