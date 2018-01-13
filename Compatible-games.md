@@ -273,6 +273,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Game|Status|
 |----|------|
 |.Hack G.U. Vol. 1 - Rebirth (Demo)|<ul><li>**Loadable with FPS but shows nothing**</li><li>tested: **30-August-2015**</li><li>**SLUS-29199**</li></ul>
+|7 Wonders of the Ancient World|<ul><li>**Nothing/Crash**</li><li>**SLUS-21693**</li><li>**crashes**</li><li>Tested: **13-Jan-2018**</li></ul>
 |Aeon Flux|<ul><li>**In-game**</li><li>**SLUS-21205**</li><li><tested: **05-Jul-2015**</li><li>Notes: (seems to work okay)</li></ul>
 |Animaniacs - The Great Edgar Hunt|<ul><li>**Intro only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
 |Arc the Lad: Twilight of the Spirits|<ul><li>**Nothing/Crash**</li><li>**SCUS-97231**</li><li>Tested: **29-August-2015**</li><li>
@@ -337,6 +338,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Growlanser - Heritage of War|<ul><li>**In Game**</li><li>**SLUS-21571**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Guilty Gear X|<ul><li>**In-game**</li><li>**SLUS-20287**</li><li>Tested: **17-May-2015**</li></ul>
 |Half-Life|<ul><li>**In-game**</li><li>**SLUS-20066**</li><li>Tested: **20-Aug-2017**</li><li></li></ul>
+|Harvest Moon - Save the Homeland|<ul><li>**In-game**</li><li>**SLUS-20251**</li><li>**in game but broken graphics**</li><li>**13-Jan-2018*</li></ul>
+|Heavenly Guardian|<ul><li>**In-Game**</li><li>**SLUS-21653**</li><li>**slow**</li><li>**13-Jan-2018**</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
 |Hunter - The Reckoning Wayward|<ul><li>**Intro only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (N/A)</li></ul>
 |Incredible Hulk: Ultimate Destruction, The|<ul><li>**In-game**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: N/A</li></ul>
