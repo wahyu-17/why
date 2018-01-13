@@ -35,6 +35,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |.hack//G.U.vol.1//Rebirth|<ul><li>**Intro only**</li><li>Tested: **21-May-2016**</li><li>Notes: Opening screens / crash</li></ul>
 |4x4 Evo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20091**</li><li>Tested: **02-Aug-2015**</li></ul>
 |4x4 Evo 2|<ul><li>**Intro only**</li><li>**SLES-51199**</li><li>Tested: **02-Aug-2015**</li></ul>
+|7 Wonders of the Ancient World|<ul><li>**In-game**</li><li>**SLUS-21693**</li><li>**looks ok**</li><li>Tested: **13-Jan-2018**</li></ul>
 |Ace Combat 4: Shattered Skies|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20152**</li><li>Tested: 18-Aug-2017</li></ul>
 |Ace Combat 5: The Unsung War|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20851**</li><li>Tested: 18-Aug-2017</li></ul>
 |Ace Combat Zero: The Belkan War|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-54041**</li><li>Tested: 18-Aug-2017</li></ul>
@@ -69,6 +70,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Burnout 3: Takedown|<ul><li>**Intro Only**</li><li>**SLUS-21050**</li><li>Tested: **17-October-2015**</li><li>Notes: (stuck at the initial loading screen.)</li></ul>
 |Burnout Revenge|<ul><li>**Nothing/Crash**</li><li>**SLES-53507**</li><li>Tested: **21-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
 |Burnout Dominator|<ul><li>**Nothing/Crash**</li><li>**SLES-54681**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
+|Cake Mania - Baker's Challenge|<ul><li>**Nothing/Crash**</li><li>**SLUS-21764**</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**Menu/Title screen only**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
 |Champions: Return to Arms|<ul><li>**Intro only**</li><li>Tested 23-Sep-2017</li><li>Notes: (crashes after choosing memory card)</li></ul>
@@ -125,7 +127,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li><ul>
 |Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
 |Half-Life|<ul><li>**In-game**</li></ul>
+|Harvest Moon - Save the Homeland|<ul><li>**In-game**</li><li>**SLUS-20251**</li><li>**in game but broken graphics**</li><li>**13-Jan-2018*</li></ul>
 |Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
+|Heavenly Guardian|<ul><li>**In-Game**</li><li>**SLUS-21653**</li><li>**full speed with occasional slowdowns**</li><li>**13-Jan-2018**</li></ul>
 |Hot Shots Golf Fore!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97401**</li><li>Tested: **05-April-2015**</li></ul>
 |Hot Wheels</li>World Race|<ul><li>**Crash**</li><li>**SLES-51879**</li></ul>
 |Ico|<ul><li>**Loadable with FPS**</li><li>**SCES-50760**</li><li>Tested: **24-May-2015**</li></ul>
@@ -164,7 +168,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**In-Game**</li><li>**SLUS-21243**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 3)|<ul><li>**In-Game**</li><li>**SLUS-21360**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
-|Metropolismania 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-21606**</li><li>**black screen**</li></ul>
+|Metropolismania 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-21606**</li><li>**black screen**</li><li>**tested 13-Jan-2018**</li></ul>
 |Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
 |Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
