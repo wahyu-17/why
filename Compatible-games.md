@@ -240,6 +240,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tales of Legendia|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21201**</li><li>Notes: Menu has glitches. Can`t get in-game because it runs out of memory</li><li>Tested: **23-Aug-2015**</li><li>**Nothing/Crash**</li><li>Test: **23-Jan-2017**</li><li>Notes: Regression, need to be investigated</li></ul>
 |Tales of the Abyss|<ul><li>**Loadable with FPS**</li><li>**SLUS-21386**</li><li>Tested: **23-Jan-2017**</li><li>**Nothing/Crash**</li><li>Tested: **23-Jan-2017**</li><li>Notes: Show FPS for seconds, then crash (Probably a regression)</li></ul>
 |Taz - Wanted|<ul><li>**In-game**</li><li>**SLES-50649**</li><li>Tested: **11-Oct-2015**</li><li>Notes: (graphics issues)</li></ul>
+|Tekken 4|<ul><li>**In-Game**</li><li>**SLUS-20328**</li><li>**very slow, vertical black lines, much part of battle scene is completely invisible - lack textures**</li></ul>
 |Tekken 5|<ul><li>**Intro only**</li><li>**SCES-53202**</li><li>Sound partially works, after pressing enter and after waiting a while game crashes</li></ul>
 |Tekken Tag Tournament|<ul><li>**Nothing/Crash**</li><li>**SLUS-20001**</li><li>Instant Application Crash</li></ul>
 |The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
