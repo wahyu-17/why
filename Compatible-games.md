@@ -118,7 +118,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Full Metal Alchemist and the Broken Angel|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20994**</li><li>Tested: **21-June-2015**</li></ul>
 |Ghost in the Shell Stand Alone Complex (Demo)|<ul><li>**Nothing/Crash**</li><li>**SLUS-29123**</li><li>Tested: **14-September-2015**</ul>
 |God of War|<ul><li>**Intro only**</li><li>**SCUS-97399**</li><li>Tested: **14-Jan-2018**</li><li>first screen only</li></ul>
-|God of War II|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97481**</li><li>Tested: **14-Jan-2018**</li></ul>
+|God of War II|<ul><li>**Intro only**</li><li>**SCUS-97481**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Gradius III and IV|<ul><li>**Loadable with FPS**</li><li>**SLUS-20040**</li></ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLPM-62462**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Grandia II|<ul><li>**In-game**</li></ul>
@@ -172,10 +172,10 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**In-Game**</li><li>**SLUS-21359**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**In-Game**</li><li>**SLUS-21243**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 3)|<ul><li>**In-Game**</li><li>**SLUS-21360**</li><li>Tested: **10-August-2017**</li></ul>
-|Metal Slug Anthology|<ul><li>**In-game**</li><li>**SLUS-21550**</li><li>**Visuals Are good**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 4|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>**Game output in on upper half of the emulator window**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 5|<ul><li>**In-game**</li><li>**SLUS-20990**</li><li>**Game looks ok**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
+|Metal Slug Anthology|<ul><li>**In-game**</li><li>**SLUS-21550**</li><li>**Visuals Are good**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metropolismania 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-21606**</li><li>**black screen**</li><li>**tested 13-Jan-2018**</li></ul>
 |Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
 |Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
@@ -223,7 +223,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Tested: **07-Jul-2015**</li><li>Notes: (There are some harmless broken graphics, but gameplay is too fast)</li></ul>
 |Shadow Hearts: Covenant|<ul><li>**Loadable with FPS**</li><li>**SLES-82030**</li></ul>
 |Shadow of the Colossus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53326**</li></ul>
-|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCUS-97472**</li><li>Tested: **13-Jan-2018**</li><li>Notes: Slow, some visial colourful texture corruption, i can move main character but he is almost black.</li></ul>
+|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCUS-97472**</li><li>Tested: **13-Jan-2018**</li><li>Notes: Slow, some visual colourful texture corruption, i can move main character but he is almost black.</li></ul>
 |Shadow Tower: Abyss|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25217**</li><li>Tested: **24-May-2015**</li></ul>
 |Shining Tears|<ul><li>**Loadable with FPS**</li><li>**SLUS-21063**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Shinobi|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25026**</li><li>Tested: **24-May-2015**</li></ul>
@@ -321,6 +321,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Destroy All Humans!|<ul><li>**Intro only**</li><li>**SLUS-20945**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (input not detected)</li></ul>
 |Deus Ex: The Conspiracy|<ul><li>**In-game**</li><li>**SLUS-20111**</li><li>Tested: **10-May-2016**</li><li>Notes: N/A</li></ul>
 |Devil May Cry|<ul><li>**Nothing/Crash**</li><li>**SLUS-20216**</li><li>Tested: **07-Jun-2015**</li></ul>
+|Devil May Cry 3 - Dante's Awakening|<ul><li>**In-Game**</li><li>**SLUS-20964**</li><li>**game suprisingly works quite well**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Digimon World 4|<ul><li>**Nothing/Crash**</li><li>**SLUS-20836**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **6-Sept-2017**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLUS-20666**</li><li>Tested: **24-May-2015**</li><li>Notes: (slight graphics issues)</li></ul>
@@ -359,7 +360,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Jet Li: Rise To Honor|<ul><li>**Intro only**</li><li>**SCUS-97279**</li><li>Tested: **20-Jun-2015**</li></ul>
 |Katamari Damacy|<ul><li>**In-game**</li><li>**SLUS-21008**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Emulator doesn't load levels, so impossible to play  </li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (graphics issues among others)</li></ul>
-|Kingdom Hearts II|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (will not go in-game yet)</li></ul>
+|Kingdom Hearts II|<ul><li>**In-Game**</li><li>**SLUS-21005**</li><li>Tested: **14-Jan-2018**</li><li>Notes: works with some texture corruption</li></ul>
 |Klonoa 2: Lunatea's Veil|<ul><li>**Nothing/Crash**</li><li>**SLUS-20151**</li><li>Tested: **31-May-2015**</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
 |Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
@@ -368,8 +369,11 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Matrix, The: Path of Neo|<ul><li>**Intro only**</li><li>**SLUS-21273**</li><li>Tested: **20-Dec-2015**</li><li>Notes: It doesn't pass the scrolling codes</li></ul>
 |Metal Gear Solid 2: Sons of Liberty|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20144**</li><li>Tested: **02-Aug-2015**</li></ul>
 |Metal Gear Solid 2: Sons of Liberty (Trial Version)|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-29031**</li><li>Tested: **14-September-2015**</ul>
+|Metal Slug 4|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>**Game output in on upper half of the emulator window**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 4 & 5|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>Tested: **31-May-2015**</li><li>Notes: (some slight graphics issues)</li></ul>
+|Metal Slug 5|<ul><li>**Nothing/Crash**</li><li>**SLUS-20990**</li><li>crash</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Just some textures/sprites missing at some points, game saves not tested**</li></ul>
+|Metal Slug Anthology|<ul><li>**In-game**</li><li>**SLUS-21550**</li><li>**Visuals Are good**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Midway Arcade Treasures 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20997**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (There are missing effects and the games don't play)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Mortal Kombat: Armageddon|<ul><li>**Intro only**</li><li>**SLUS-21410**</li><li>Tested: **31-May-2015**</li><li>Notes: (won't pass first logo)</li></ul>
@@ -388,6 +392,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Persona 4|<ul><li>**In-game**</li><li>**SLUS-21782**</li><li>Tested: **27-Sep-2015**</li><li>Notes: N/A</li></ul>
 |Phantom Brave|<ul><li>**In-game**</li><li>**SLUS-20955**</li><li>Tested: **27-Sep-2015**</li><li>Notes: ()</li></ul>
 |Prince of Persia - The Sands of Time|<ul><li>**In-game**</li><li>**SLUS_20743**</li><li>Tested: **11-Dec-2015**</li><li>Notes: (slow)</li></ul>
+|Raiden III|<ul><li>**In-Game**</li><li>**SLUS-21465**</li><li>**Game is fluid, but textures of the objects are streched**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
 |Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
@@ -408,7 +413,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |SEGA Ages 2500 Volume 27: Panzer Dragoon|<ul><li>**Nothing/Crash**</li><li>**SLPM-62718**</li><li>Notes: (pixels on bottom of screen; nothing else)</li></ul>
 |Shadow Hearts|<ul><li>**In-game**</li><li>**SLUS-20347**</li><li>Tested: **07-Jul-2015**</li><li>Notes: (Freezes during intro cutscene, but can be played by skipping it)</li></ul>
 |Shadow of Rome|<ul><li>**Nothing/Crash**</li><li>**SLUS-20902**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
-|Shadow of the Colossus|<ul><li>**In-Game**</li><li>**SCUS-97472**</li><li>Tested: **20-Aug-2017**</li></ul>
+|Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCUS-97472**</li><li>Tested: **13-Jan-2018**</li><li>Notes: Slow, some visual colourful texture corruption, i can move main character but he is almost black.</li></ul>
 |Shrek The Third|<ul><li>**Nothing/Crash**</li><li>**SLUS-21454**</li><li>Tested: **28-Jan-2017**</li></ul>
 |Snoopy vs. The Red Baron|<ul><li>**Title Screen**</li><li>**SLUS-21380**</li><li>Tested: **28-Jan-2017**</li></ul>
 |SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li><li>Notes: (N/A)</li></ul>
@@ -420,6 +425,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Super Bust-A-Move 2|<ul><li>**In-game**</li><li>**SLUS-20460**</li><li>Tested: **13-Sep-2015**</li><li>Notes: (not too slow on powerful devices)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Swords of Destiny|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25459**</li><li>Tested: **23-November-2015**</li></ul>
+|Tekken 4|<ul><li>**In-Game**</li><li>**SLUS-20328**</li><li>**very slow, vertical black lines, much part of battle scene is completely invisible - lack textures**</li><li>**13-Jan-2018**</li></ul>
 |Tetris Worlds|<ul><li>**In-game**</li><li>**SLUS-20247**</li><li>Tested: **31-Aug-2017**</li><li>Notes: Some graphics bugs</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tomb Raider: The Angel of Darkness|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20467**</li><li>Tested: **31-Aug-2017**</li></ul>
