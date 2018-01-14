@@ -89,6 +89,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Destroy All Humans!|<ul><li>**Menu/Title screen only**</li><li>**SLES-53196**</li><li>Notes: (no input)</li></ul>
 |Destroy All Humans! 2|<ul><li>**Menu/Title screen only**</li><li>**SLES-54384**</li><li>Notes: (no input)</li></ul>
 |Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
+|Devil May Cry|<ul><li>**Loadable with FPS**</li><li>**SLUS-20216**</li><li>Tested: **14-Jan-2018**</li></ul>
+|Devil May Cry 2|<ul><li>**Nothing/crash**</li><li>**SLUS-20484**</li><li>Tested: **14-Jan-2018**</li></ul>
+|Devil May Cry 3 - Dante's Awakening|<ul><li>**In-Game**</li><li>**SLUS-20964**</li><li>**game suprisingly works quite well**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>
 |Dragon Ball Z# # # ## ## ##  Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
