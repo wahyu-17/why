@@ -151,7 +151,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Killzone|<ul><li>**Crashes**</li><li>**SCES-52004**</li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **05-Apr-2015**</li><li>Notes: (graphics issues)</li></ul>
 |Kingdom Hearts: Final Mix|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLPS-25198**</li><li>Tested: **24-May-2015**</li></ul>
-|Kingdom Hearts II|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21005**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (seems to freeze right at Twilight Town cutscene, right before getting Roxas)</li></ul>
+|Kingdom Hearts II|<ul><li>**In-Game**</li><li>**SLUS-21005**</li><li>Tested: **14-Jan-2018**</li><li>Notes: works with some texture corruption</li></ul>
 |Kingdom Hearts II: Final Mix|<ul><li>**In-Game**</li><li>**SLPM-66675**</li><li>Tested: **24-Oct-2016**</li></ul>
 |King's Field IV|<ul><li>**Intro Only**</li><li>**SLES-50920**</li><li>Tested: **24-May-2015**</li></ul>
 |Klonoa 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-20151**</li></ul>
@@ -168,6 +168,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Gear Solid 3: Subsistence (Disc 1)|<ul><li>**In-Game**</li><li>**SLUS-21359**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 2)|<ul><li>**In-Game**</li><li>**SLUS-21243**</li><li>Tested: **10-August-2017**</li></ul>
 |Metal Gear Solid 3: Subsistence (Disc 3)|<ul><li>**In-Game**</li><li>**SLUS-21360**</li><li>Tested: **10-August-2017**</li></ul>
+|Metal Slug Anthology|<ul><li>**In-game**</li><li>**SLUS-21550**</li><li>**Visuals Are good**</li><li>Tested: **14-Jan-2018**</li></ul>
+|Metal Slug 4|<ul><li>**In-game**</li><li>**SLUS-20971**</li><li>**Game output in on upper half of the emulator window**</li><li>Tested: **14-Jan-2018**</li></ul>
+|Metal Slug 5|<ul><li>**In-game**</li><li>**SLUS-20990**</li><li>**Game looks ok**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
 |Metropolismania 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-21606**</li><li>**black screen**</li><li>**tested 13-Jan-2018**</li></ul>
 |Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
@@ -185,7 +188,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Prince of Persia: The Sands of Time|<ul><li>**In-game**</li><li>**SLUS-20743**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (issue with decoding IPU videos, but gameplay is mostly fine from the few minutes I played)</li></ul>
 |Pro Evolution Soccer 6|<ul><li>**Menu/Title screen only**</li><li>**SLES-54203**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
+|Quake III|<ul><li>**Intro Only**</li><li>**SLUS-20167**</li><li>**After opening game crashes/goes unbelievable slow**</li><li>Tested: **14-Jan-2018**</li></ul>
 |R-Type Final|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20780**</li><li>Tested: **21-June-2015**</li><li>Notes: (No dualshock 2 detected screen)</li></ul>
+|Raiden III|<ul><li>**In-Game**</li><li>**SLUS-21465**</li><li>**Game is fluid, but textures of the objects are streched**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Ratchet & Clank|<ul><li>**Intro Only**</li><li>**SCUS-97199**</li><li>**Tested 17-Aug-2015**</ul>
 |Ratchet & Clank: Going Commando|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97268**</li><li>Tested: **10-August-2017**</li></ul>
 |Ratchet & Clank: Up Your Arsenal|<ul><li>**Menu/Title screen only**</li><li>**SCUS-97353**</li><li>Tested: **10-August-2017**</li></ul>
