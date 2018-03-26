@@ -1,3 +1,7 @@
+## WARNING
+
+This is slowly being migrated over to [a different compatibility tracking system](https://github.com/jpd002/Play-Compatibility). Please post new reports over there!
+
 ## Table of Contents
 
 * [About](#an-unfinished-list-of-commercial-ps2-games--their-compatibilitystatus-on-play)
