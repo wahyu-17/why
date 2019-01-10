@@ -35,94 +35,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 ## Windows/OS X##
 | Game | Status |
 |------|--------|
-|.hack//Infection Part 1|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20267**</li><li>Tested: **21-June-2015**</li></ul>
-|.hack//G.U.vol.1//Rebirth|<ul><li>**Intro only**</li><li>Tested: **21-May-2016**</li><li>Notes: Opening screens / crash</li></ul>
-|4x4 Evo|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20091**</li><li>Tested: **02-Aug-2015**</li></ul>
-|4x4 Evo 2|<ul><li>**Intro only**</li><li>**SLES-51199**</li><li>Tested: **02-Aug-2015**</li></ul>
-|7 Wonders of the Ancient World|<ul><li>**In-game**</li><li>**SLUS-21693**</li><li>**looks ok**</li><li>Tested: **13-Jan-2018**</li></ul>
-|Ace Combat 4: Shattered Skies|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20152**</li><li>Tested: 18-Aug-2017</li></ul>
-|Ace Combat 5: The Unsung War|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20851**</li><li>Tested: 18-Aug-2017</li></ul>
-|Ace Combat Zero: The Belkan War|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-54041**</li><li>Tested: 18-Aug-2017</li></ul>
-|Aggressive Inline|<ul><li>**Loadable with FPS**</li><li>**SLUS-20327**</li></ul>
-|Alien Hominid|<ul><li>**Loadable with FPS**</li><li>**SLES-53139**</li></ul>
-|Ape Escape 2|<ul><li>**Crashes**</li><li>**SLUS-20685**</li></ul>
-|Ape Escape 3|<ul><li>**Loadable with FPS**</li><li>**SCUS-97501**</li></ul>
-|Area 51|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20595**</li></ul>
-|Arcana Heart|<ul><li>**In-game**</li><li>**SLPM-66850**</li><li>Tested: **31-May-2015**</li></ul>
-|Arcana Heart 2|<ul><li>**In-game**</li><li>**SLPM-55147**</li><li>Tested: **31-May-2015**</li></ul>
-|Armored Core 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20014**</li><li>Tested: **21-June-2015**</li></ul>
-|Armored Core 2: Another Age|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20249**</li><li>Tested: **21-June-2015**</li></ul>
-|Armored Core 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20435**</li><li>Tested: **27-Aug-2016**</li></ul>
-|Armored Core: Silent Line|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20644**</li><li>Tested: **27-Aug-2016**</li></ul>
-|Armored Core: Nexus|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20986**</li><li>Tested: **27-Aug-2016**</li><li>Notes: Both discs</li></ul>
-|Armored Core: Nine Breaker|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21200**</li><li>Tested: **27-Aug-2016**</li></ul>
-|Armored Core: Last Raven|<ul><li>**Nothing/Crash**</li><li>**SLUS-21338**</li><li>Tested: **27-Aug-2016**</li></ul>
-|Ar Tonelico: Melody of Elemia|<ul><li>**In-game**</li><li>**SLUS-21445**</li><li>Tested: **21-06-2017**</li><li>Notes: (Seems to run beyond fullspeed; sound problems and some graphics ones too.)</li></ul>
-|Ar Tonelico: Melody of Metafalica|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21788**</li><li>Tested: **21-June-2015**</li><li>Notes: (Loud static & distorted sound)</li></ul>
-|Animaniacs: The Great Edgar Hunt|<ul><li>**Menu/Title screen only**</li><li>**SLES-52729**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (Stuck in language select screen ... controls not working)</li></ul>
-|Atelier Iris: Eternal Mana|<ul><li>**In-game**</li></ul>
-|Atelier Iris 2: The Azoth of Destiny|<ul><li>**In-game**</li><li>**SLUS-21327**</li><li>Tested: **21-June-2015**</li></ul>
-|Atelier Iris 3: Grand Phantasm|<ul><li>**In-game**</li><li>**SLUS-21564**</li><li>Tested: **16-Aug-2015**</li><li>Notes: (Same issues as Ar Tonelico with graphics and sound.)</li></ul>
-|Baldur's Gate: Dark Alliance|<ul><li>**In-game**</li></ul>
-|Barnyard|<ul><li>**Intro only**</li><li>**SLUS-21277**</li><li>Tested: **05-Jul-2015**</li></ul>
-|Beatmania|<ul><li>**Intro only**</li><li>**SLUS-21239**</li><li>Tested: **27-Sep-2015**</li></ul>
-|Beatmania IIDX 14 - Gold|<ul><li>**In-game**</li><li>**SLPM-66995**</li><li>Tested: **26-Oct-2016**</li></ul>
-|Bombastic|<ul><li>**Nothing/Crash**</li><li>**SLES-51966**</li></ul>
-|Bomberman Hardball|<ul><li>**Intro only**</li><li>**SLES-53301**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (hangs and loops on title screen)</li></ul>
-|Bully|<ul><li>**In-game**</li><li>**SLUS-21269**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (extreme graphics issues when in-game, making navigating very difficult and gameplay very poor)</li></ul>
-|Burnout|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20307**</li><li>Tested: **07-January-2017**</li><li>Notes: (crashes when trying to start a race.)</li></ul>
-|Burnout 3: Takedown|<ul><li>**Intro Only**</li><li>**SLUS-21050**</li><li>Tested: **17-October-2015**</li><li>Notes: (stuck at the initial loading screen.)</li></ul>
-|Burnout Revenge|<ul><li>**Nothing/Crash**</li><li>**SLES-53507**</li><li>Tested: **21-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
-|Burnout Dominator|<ul><li>**Nothing/Crash**</li><li>**SLES-54681**</li><li>Tested: **15-December-2015**</li><li>Notes: (causes Play! to instantly crash.)</li></ul>
-|Cake Mania - Baker's Challenge|<ul><li>**Nothing/Crash**</li><li>**SLUS-21764**</li></ul>
 |Castlevania: Curse of Darkness|<ul><li>**Menu/Title screen only**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
-|Champions: Return to Arms|<ul><li>**Intro only**</li><li>Tested 23-Sep-2017</li><li>Notes: (crashes after choosing memory card)</li></ul>
-|Clock Tower 3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20633**</li><li>Tested: **20-Sep-2015**</li><li>Notes: (input not detected at title screen)</li></ul>
-|Crash Nitro Kart|<ul><li>**In-Game**</li><li>**SLES-51511**</li><li>Tested: **31-Jan-2017**</li></ul>
-|Crash Twinsanity|<ul><li>**Intro only**</li><li>**SLUS-20909**</li><li>Tested: **18-Apr-2017**</li><li>Notes: Freezes on the first load screen after the Traveller's Tales logo.</li></ul>
-|Crazy Taxi|<ul><li>**Loadable with FPS**</li><li>**SLUS-20202**</li><li>**13-Jan-2018**</li></ul>
-|Crimson Tears|<ul><li>**In-game**</li><li>**SLUS-20948**</li><li>Tested: **17-Jul-2017**</li><li> Visual effects glitching all over the screen (you can fix this by altenating high resolution mode on/off)</li></ul>
-|Dance Dance Revolution Extreme|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20916**</li><li>Tested: **02-Apr-2015**</li></ul>
-|Dance Dance Revolution Extreme 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21174**</li><li>Tested: **02-Apr-2015**</li></ul>
-|Dance Dance Revolution SuperNOVA|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21377**</li><li>Tested: **02-Apr-2015**</li></ul>
-|Dance Dance Revolution SuperNOVA 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21608**</li><li>Tested: **02-Apr-2015**</li></ul>
-|Dark Cloud|<ul><li>**In-game**</li><li>**SCES-50295**</li><li>Notes: (graphics issues)</li></ul>
-|Dark Cloud 2|<ul><li>**Intro only**</li><li>**SCES-51190**</li></ul>
-|Dead to Rights|<ul><li>**Intro only**</li><li>**SLUS-20220**</li><li>Tested: **02-Aug-2015**</li></ul>
-|Destroy All Humans!|<ul><li>**Menu/Title screen only**</li><li>**SLES-53196**</li><li>Notes: (no input)</li></ul>
-|Destroy All Humans! 2|<ul><li>**Menu/Title screen only**</li><li>**SLES-54384**</li><li>Notes: (no input)</li></ul>
-|Devil May Cry|<ul><li>**Nothing/crash**</li><li>**SLES-50358**</li><li>Tested: **20-Apr-2015**</li></ul>
-|Devil May Cry|<ul><li>**Loadable with FPS**</li><li>**SLUS-20216**</li><li>Tested: **14-Jan-2018**</li></ul>
-|Devil May Cry 2|<ul><li>**Nothing/crash**</li><li>**SLUS-20484**</li><li>Tested: **14-Jan-2018**</li></ul>
-|Devil May Cry 3 - Dante's Awakening|<ul><li>**In-Game**</li><li>**SLUS-20964**</li><li>**game suprisingly works quite well**</li><li>Tested: **14-Jan-2018**</li></ul>
-|Disgaea: Hour of Darkness|<ul><li>**In-game**</li><li>**SLES-52458**</li><li>Tested: **12-April-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Dokapon Kingdom|<ul><li>**Loadable with FPS**</li><li>**SLUS-21778**</li></ul>
-|Dragon Ball Z# # # ## ## ##  Budokai Tenkaichi 3|<ul><li>**In-game**</li><li>**SLUS-21678**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (models not rendering during duels, but everything else seems to work perfectly)</li></ul>
-|Dragon Ball Z: Infinite World|<ul><li>**In-game**</li><li>**SLUS-21842**</li><li>Tested: **29-Mar-2015**</li></ul>
-|Dragon Ball Z: Sagas|<ul><li>**Intro only**</li><li>**SLUS-21842**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (crashes right after initial copyright screen)</li></ul>
-|Dragon Quest VIII|<ul><li>**In-game**</li><li>**SLUS-21207**</li><li>Tested: **28-Jun-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Driv3r|<ul><li>**Loadable with FPS**</li><li>**SLES-50876**</li></ul>
-|Driver: Parallel Lines|<ul><li>**Loadable with FPS**</li><li>**SLES-54027**</li></ul>
-|Dynasty Warriors 2|<ul><li>**In-game**</li><li>**SLUS-20079**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Dynasty Warriors 5|<ul><li>**In-game**</li><li>**SLUS-21153**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (story mode broken, graphics issues)</li></ul>
-|Evergrace|<ul><li>**In-game**</li><li>**SLUS-20016**</li><li>Tested: **08-Jul-2015**</li><li>Notes: (Hardcore graphical issues)</li></ul>
-|Fire Pro Wrestling Returns|<ul><li>**In-game**</li><li>**SLUS-21702**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (texture/swizzle graphics garbage sometimes appears in-game)</li></ul>
-|Final Fantasy: Dirge of Cerberus|<ul><li>**Intro only**</li><li>**SLUS-21419**</li><li>Tested: **30-Aug-2015**</li><li>Notes: (Stuck after SQUARE ENIX logo)</li></ul>
-|Final Fantasy X|<ul><li>**In-game**</li><li>**SLUS-20312**</li><li>Tested: **17-Jul-2017**</li><li>Notes: (graphics issues)</li></ul>
-|Final Fantasy X-2|<ul><li>**In-game**</li><li>**SLUS-20672**</li><li>Tested: **26-April-2015**</li><li>Notes: (graphics issues)</li></ul>
-|Final Fantasy X-2 International + Last Mission|<ul><li>**In-game**</li><li>**SLPM-65478**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (Last mission only)</li></ul>
-|Final Fantasy XII|<ul><li>**In-game** (unstable)</li><li>**SLUS-20963**</li><li>Tested: **31-May-2015**</li></ul>
-|Final Fight: Streetwise|<ul><li>**Crash**</li><li>**SLES-53853**</li><li>Tested: **23-November-2015**</li></ul>
-|Flatout|<ul><li>**Loadable with FPS**</li><li>**SLES-52753**</li></ul>
-|Flipnic|<ul><li>**Intro Only**</li><li>**SLES-52065**</li><li>Tested: **31-Jan-2017**</li><li>Notes: Briefly flashes the Sony Computer Entertainment Presents logo then black screens at around 40 Frames Per Second.</li></ul>
-|Forbidden Siren|<ul><li>**Intro only**</li><li>**SCES-51920**</li><li>Notes: (no controller detected)</li></ul>
-|Freedom Fighters|<ul><li>**Intro only**</li><li>**SLES-51467**</li><li>Notes: (Crashes after EA logo)</li></ul>
-|Front Mission 4|<ul><li>**Loadable**</li><li>**PBPX-95506**</li><li>Tested: **29-Mar-2015**</li></ul>
-|Full Metal Alchemist and the Broken Angel|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20994**</li><li>Tested: **21-June-2015**</li></ul>
-|Ghost in the Shell Stand Alone Complex (Demo)|<ul><li>**Nothing/Crash**</li><li>**SLUS-29123**</li><li>Tested: **14-September-2015**</ul>
-|God of War|<ul><li>**Intro only**</li><li>**SCUS-97399**</li><li>Tested: **14-Jan-2018**</li><li>first screen only</li></ul>
-|God of War II|<ul><li>**Intro only**</li><li>**SCUS-97481**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Gradius III and IV|<ul><li>**Loadable with FPS**</li><li>**SLUS-20040**</li></ul>
 |Gradius V|<ul><li>**In-game**</li><li>**SLPM-62462**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Grandia II|<ul><li>**In-game**</li></ul>
@@ -133,13 +47,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Gran Turismo 3: A-Spec|<ul><li>**In-game**</li><li>**SCUS-97102</li>**<li>Tested: **21-06-2017**</li></li></ul>
 |Gran Turismo 3: A-Spec|<ul><li>**In-game**</li><li>**SCES-50294**</li><li>Tested: **21-06-2017**</li></ul>
 |Gran Turismo 4|<ul><li>**Intro only**</li><li>**SCES-51719**</li><li>Tested: **20-Sep-2015**</li></ul>
-|Gregory Horror Show|<ul><li>**In-game**</li><li>**SLES-51933**</li><li>Tested: **06-Nov-2015**</li><ul>
-|Guilty Gear XX Accent Core Plus|<ul><li>**In-game**</li></ul>
-|Half-Life|<ul><li>**In-game**</li></ul>
 |Harvest Moon - Save the Homeland|<ul><li>**In-game**</li><li>**SLUS-20251**</li><li>**in game but broken graphics**</li><li>**13-Jan-2018*</li></ul>
-|Haunting Ground|<ul><li>**Loadable with FPS**</li><li>**SLES-52877**</li></ul>
-|Heavenly Guardian|<ul><li>**In-Game**</li><li>**SLUS-21653**</li><li>**full speed with occasional slowdowns**</li><li>**13-Jan-2018**</li></ul>
-|Hot Shots Golf Fore!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97401**</li><li>Tested: **05-April-2015**</li></ul>
 |Hot Wheels</li>World Race|<ul><li>**Crash**</li><li>**SLES-51879**</li></ul>
 |Ico|<ul><li>**Loadable with FPS**</li><li>**SCES-50760**</li><li>Tested: **24-May-2015**</li></ul>
 |Indigo Prophecy|<ul><li>**Nothing/Crash**</li><li>**SLUS-21196**</li></ul>
@@ -148,13 +56,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Jak II|<ul><li>**Loadable with Fps, but shows nothing**</li><li>**SCUS-97265**</li><li>Tested 17-Aug-2015</li></ul>
 |Jak 3|<ul><li>**Nothing/Crash**</li><li>**SCUS-97330**</li><li>Tested 17-Aug-2015</li></ul>
 |Jak X|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53286**</li><li>Tested: **04-June-2015**</li></ul>
-|James Bond 007: Agent Under Fire|<ul><li>**Loadable with FPS**</li><li>**SLES-50539**</li></ul>
-|James Bond 007: Everything or Nothing|<ul><li>**Loadable with FPS**</li><li>**SLES-52005**</li></ul>
-|James Bond 007: Nightfire|<ul><li>**Loadable with FPS**</li><li>**SLES-51258**</li></ul>
-|Jurassic Park: Operation Genesis|<ul><li>**Intro only**</li><li>**SLES-51354**</li><li>Tested: **11-Oct-2015**</li></ul>
-|Just Cause|<ul><li>**Menu/Title screen only**</li><li>**SLES-54137**</li><li>Tested: **19-Oct-2015**</li><li>Notes: (starts up with graphical issues, but fails to read the disk after title screen and will not proceed)</li></ul>
-|Katamari Damacy|<ul><li>**Loadable with FPS**</li><li>**SLUS-21008**</li><li>Tested: **31-May-2015**</li></ul>
-|Kamiwaza|<ul><li>**Loadable with FPS**</li><li>**SLPM-66477**</li><li>Tested: **31-May-2015**</li></ul>
+||Kamiwaza|<ul><li>**Loadable with FPS**</li><li>**SLPM-66477**</li><li>Tested: **31-May-2015**</li></ul>
 |Killer7|<ul><li>**Loadable with FPS**</li><li>**SLES-53366**</li></ul>
 |Killzone|<ul><li>**Crashes**</li><li>**SCES-52004**</li></ul>
 |Kingdom Hearts|<ul><li>**In-game**</li><li>**SLUS-20370**</li><li>Tested: **05-Apr-2015**</li><li>Notes: (graphics issues)</li></ul>
@@ -181,19 +83,9 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Metal Slug 6|<ul><li>**In-game**</li><li>**SLPS-25674**</li><li>**Game looks like full playable, game saves not tested**</li></ul>
 |Metal Slug Anthology|<ul><li>**In-game**</li><li>**SLUS-21550**</li><li>**Visuals Are good**</li><li>Tested: **14-Jan-2018**</li></ul>
 |Metropolismania 2|<ul><li>**Loadable with FPS**</li><li>**SLUS-21606**</li><li>**black screen**</li><li>**tested 13-Jan-2018**</li></ul>
-|Midnight Club|<ul><li>**Intro Only**</li><li>**SLUS-20063**</li><li>Tested 17-Aug-2015</li></ul>
-|Mister Mosquito|<ul><li>**Loadable with FPS**</li><li>**SLES-50769**</li></ul>
-|Monster Hunter 2|<ul><li>**Intro only**</li><li>**SLPM-66280**</li><li>Tested: **24-May-2015**</li></ul>
 |Myth Makers Orbs of Doom |<ul><li>**Intro Only**</li><li>**SLES-52241**</li><li>Tested **02-Nov-2015**</li><li>Notes: (Before the main menu the game mentions that you need the Analog Controller, feature is still missing on windows.)</li></ul>
-|Odin Sphere|<ul><li>**In-Game**</li><li>**SLUS-21577**</li><li>Tested: **06-Apr-2017**</li><li>Notes: Playable</li></ul>
-|Okami|<ul><li>**Loadable with FPS**</li><li>**SLUS-21115**</li></ul>
-|Oni|<ul><li>**In-Game**</li><li>**SLES-50134**</li><li>Notes: Work with a Workaround available in the FR version posted in the patches.xml file</li></ul>
 |Onimusha: Warlords|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20018**</li><li>Tested: **13-Sep-2015**</li></ul>
-|Outrun 2006: Coast 2 Coast|<ul><li>**Crashes**</li><li>**SLUS-21274**</li></ul>
-|Persona 3 FES|<ul><li>**In-game**</li><li>Tested: **20-Sep-2015**</li><li>**SLUS-21621**</li><li>Notes: (graphics issues and long hangs, but progresses eventually)</li></ul>
-|Persona 4|<ul><li>**In-game**</li><li>Tested: **20-Sep-2015**</li><li>**SLES-55474**</li><li>Notes: (graphics issues)</li></ul>
 |Pilot Down: Behind Enemy Lines|<ul><li>**Intro Only**</li><li>**SLES-53099**</li><li>Notes: (crashes when trying to start a new game)</li></ul>
-|Prince of Persia: The Sands of Time|<ul><li>**In-game**</li><li>**SLUS-20743**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (issue with decoding IPU videos, but gameplay is mostly fine from the few minutes I played)</li></ul>
 |Pro Evolution Soccer 6|<ul><li>**Menu/Title screen only**</li><li>**SLES-54203**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Project Snowblind|<ul><li>**Nothing/Crash**</li><li>**SLES-52859**</li></ul>
 |Quake III|<ul><li>**Intro Only**</li><li>**SLUS-20167**</li><li>**After opening game crashes/goes unbelievable slow**</li><li>Tested: **14-Jan-2018**</li></ul>
@@ -480,6 +372,3 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Katamari Damacy|<ul><li>**In game**</li><li>**SLUS-21008**</li><li>Tested: **2-Oct-2017**</li><li>Notes: Unplayable tutorial with a black screen but something's happening.</li></ul>
 |Metal Gear Solid 2 - Substance|<ul><li>**Loadable with FPS**</li><li>**SLUS-20554**</li><li>Tested: **18-Feb-2017**</li></ul>
 |Shadow of the Colossus|<ul><li>**In-game**</li><li>**SCES-53326**</li><li>Tested: **19-Feb-2017**</li><li>Notes: Serious graphical errors and a crappy framerate, but mostly playable.</li></ul>
-|Silent Hill 2 - Director's Cut|<ul><li>**Menu Only**</li><li>**SLES-51156**</li><li>Tested: **19-Feb-2017**</li><li>Hangs at the end of starting cutscene.</li></ul>
-|We Love Katamari|<ul><li>**Intro Only**</li><li>**SLES-538281**</li><li>Tested: **2-Oct-2017**</li></ul>
-|Yakuza|<ul><li>**In-game**</li><li>**SLUS-21348**</li><li>Tested: **2-Oct-2017**</li><li>Notes: black textures but appears to mostly be working.</li></ul>
