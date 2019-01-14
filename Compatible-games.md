@@ -42,17 +42,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ratchet Deadlocked|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53285**</li><li>Tested: **10-August-2017**</li></ul>
 |Romancing SaGa|<ul><li>**Intro only**</li><li>Notes: (input bug)</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
-|Suikoden V|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21291**</li><li>Tested: **21-June-2015**</li></ul>
-|The Ant Bully|<ul><li>**Intro only**</li><li>**SLUS-21415**</li><li>Tested: **05-Jul-2015**</li></ul>
-|The Bigs|<ul><li>**Intro only**</li><li>**SLUS-21623**</li><li>Tested: **27-Sep-2015**</li></ul>
-|The Lord of the Rings: The Two Towers|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20578**</li><li>Tested: **28-Jun-2015**</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
-|Tony Hawk's Pro Skater 4|<ul><li>**Loadable with FPS**</li><li>**SLES-51130**</li></ul>
-|Tony Hawk's Project 8|<ul><li>**Loadable with FPS**</li><li>**SLES-54389**</li></ul>
-|Tony Hawk's Underground|<ul><li>**Loadable with FPS**</li><li>**SLES-51848**</li></ul>
-|Tony Hawk's Underground 2|<ul><li>**Loadable with FPS**</li><li>**SLES-52621**</li></ul>
 |Trapt|<ul><li>**Crash**</li><li>**SLUS-21255**</li><li>Tested: **29-Mar-2015**</li></ul>
-|Twisted Metal: Black|<ul><li>**Intro Only**</li><li>**PBPX-95506**</li><li>Tested: **24-May-2015**</li></ul>
 |Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
 |Unreal Tournament |<ul><li>**In-game**</li></ul>
 |Urban Chaos: Riot Response|<ul><li>**Nothing/Crash**</li><li>**SCUS-21390**</li><li>Tested: **29-April-2016**</li></ul>
