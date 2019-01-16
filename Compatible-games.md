@@ -35,7 +35,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 ## Windows/OS X##
 | Game | Status |
 |------|--------|
-|Castlevania: Curse of Darkness|<ul><li>**Menu/Title screen only**</li></ul>
 |Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
 |Grandia II|<ul><li>**In-game**</li></ul>
 |Killer7|<ul><li>**Loadable with FPS**</li><li>**SLES-53366**</li></ul>
@@ -80,7 +79,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
 |Death by Degrees|<ul><li>**Nothing/Crash**</li><li>**SLUS-20934**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
-|Disgaea 2: Cursed Memories|<ul><li>**In-game**</li><li>**SLUS-21397**</li><li>Tested: **6-Sept-2017**</li></ul>
 |Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
