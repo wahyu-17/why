@@ -104,7 +104,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
 |Snoopy vs. The Red Baron|<ul><li>**Title Screen**</li><li>**SLUS-21380**</li><li>Tested: **28-Jan-2017**</li></ul>
 |SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li><li>Notes: (N/A)</li></ul>
-|Spyro: Enter The Dragonfly|<ul><li>**Intro only**</li><li>**SLUS-20315**</li><li>Tested: **20-Jun-2015**</li><li>Notes: (shows Spyro, which is part of the intro process, but hangs & won't proceed)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
 |Tomb Raider: Underworld|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21858**</li><li>Tested: **31-Aug-2017**</li></ul>
