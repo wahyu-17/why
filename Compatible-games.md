@@ -111,7 +111,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Tomb Raider: Underworld|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21858**</li><li>Tested: **31-Aug-2017**</li></ul>
 |Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
 |Ty Tasmanian Ty Tasmanian 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>Tested: **10-Dec-2015**</li></ul>
-|Unreal Tournament|<ul><li>**In-game**</li><li>**SLUS-20034**</li><li>Tested: **17-May-2015**</li><li>Notes: (graphics issues/hard to see; difficult to get in-game & needs more controls)</li></ul>
 |Whiplash|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20684**</li><li>Tested: **28-Jun-2015**</li></ul>
 |WWF SmackDown! Just Bring It|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20316**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
