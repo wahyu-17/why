@@ -40,7 +40,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Ratchet Deadlocked|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53285**</li><li>Tested: **10-August-2017**</li></ul>
 |Samurai Warriors 2|<ul><li>**In-game**</li><li>**SLPM-66307**</li><li>Tested: **29-Mar-2015**</li><li>Notes: (graphics issues, random hang-ups)</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
-|Trapt|<ul><li>**Crash**</li><li>**SLUS-21255**</li><li>Tested: **29-Mar-2015**</li></ul>
 |Under the Skin|<ul><li>**Crashes**</li><li>**SLES-52719**</li></ul>
 |Urban Chaos: Riot Response|<ul><li>**Nothing/Crash**</li><li>**SCUS-21390**</li><li>Tested: **29-April-2016**</li></ul>
 |Valkyrie Profile 2|<ul><li>**In-game**</li><li>**SLUS-21452**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (major graphics issues when in-game)</li></ul>
