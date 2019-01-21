@@ -91,7 +91,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
 |RPG Maker 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21178**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Rune: Viking Warlord|<ul><li>**In-game**</li><li>**SLUS-20109**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
-|SEGA Ages 2500 Volume 11: Fist of the North Star|<ul><li>**In-game**</li><li>**SLPM-62432**</li><li>Tested: **17-May-2015**</li></ul>
 |Snoopy vs. The Red Baron|<ul><li>**Title Screen**</li><li>**SLUS-21380**</li><li>Tested: **28-Jan-2017**</li></ul>
 |SVC Chaos: SNK vs. Capcom|<ul><li>**In-game**</li><li>**SLES-53065**</li><li>Tested:**29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
