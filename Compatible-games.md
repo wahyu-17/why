@@ -61,7 +61,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Call of Duty: World at War - Final Fronts|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21746**</li><li>Tested: **07-Jun-2015**</li></ul>
 |Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul>
-|Castlevania: Lament of Innocence|<ul><li>**Intro only**</li><li>**SLUS-20733**</li><li>Tested: **31-May-2015**</li></ul>
 |Conflict: Vietnam|<ul><li>**Nothing/Crash** (line appears at bottom of screen, but nothing else)</li><li>**SLUS-21045**</li><li>Tested: **24-May-2015**</li></ul>
 |Death by Degrees|<ul><li>**Nothing/Crash**</li><li>**SLUS-20934**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
@@ -69,7 +68,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
 |Fantavision|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97105**</li><li>Tested: **31-Aug-2017**</li></ul>
-|Growlanser - Heritage of War|<ul><li>**In Game**</li><li>**SLUS-21571**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
 |Hunter - The Reckoning Wayward|<ul><li>**Intro only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (N/A)</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
