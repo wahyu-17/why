@@ -35,7 +35,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 ## Windows/OS X##
 | Game | Status |
 |------|--------|
-|Chaos Wars|<ul><li>**Intro only**</li><li>Notes: (flashing)</li></ul>
 |Killer7|<ul><li>**Loadable with FPS**</li><li>**SLES-53366**</li></ul>
 |Ratchet Deadlocked|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCES-53285**</li><li>Tested: **10-August-2017**</li></ul>
 |TimeSplitters: Future Perfect|<ul><li>**Menu/Title screen only**</li></ul>
