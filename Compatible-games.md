@@ -41,7 +41,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Urban Chaos: Riot Response|<ul><li>**Nothing/Crash**</li><li>**SCUS-21390**</li><li>Tested: **29-April-2016**</li></ul>
 |Valkyrie Profile 2|<ul><li>**In-game**</li><li>**SLUS-21452**</li><li>Tested: **23-Aug-2015**</li><li>Notes: (major graphics issues when in-game)</li></ul>
 |We Love Katamari|<ul><li>**Loadable with FPS**</li><li>**SLUS-21230**</li></ul>
-|Wild Arms 3|<ul><li>**In-game**</li><li>**SCUS-97203**</li><li>Tested: **27-Sep-2015**</li><li>Notes: (graphics issues with characters & some other objects)</li></ul>
 |Wild Arms Alter Code: F|<ul><li>**In-game**</li></ul>
 |WWE Smackdown! vs. Raw 2006|<ul><li>**Intro only**</li><li>**SLUS-21286**</li><li>Tested: **27-Sep-2015**</li></ul>
 |Xenosaga Episode III: Also Sprach Zarathustra|<ul><li>**Menu/Title screen only**</li><li>**SLUS-21389**</li><li>Tested: **02-Aug-2015**</li></ul>
