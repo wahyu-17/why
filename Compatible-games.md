@@ -58,7 +58,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
-|Mushihime-sama|<ul><li>**Menu/Title screen only**</li><li>**SLPM-66056**</li><li>Tested: **24-Jul-2016**</li><li>Notes: (Immediately shut the emulator down when starting the game.)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
 |Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: (The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable.) </li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
