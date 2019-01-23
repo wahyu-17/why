@@ -57,7 +57,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
-|Need for Speed - Underground 2 |<ul><li>**In-game with MAJOR issues**</li><li>**SLUS-21065**</li><li>Tested: **18-Jul-2016**</li><li>Notes: (The more stuff there is to render, the worse the visuals get. Also everything is VERY slow to move and load, unplayable.) </li></ul>
 |Rayman 2: Revolution|<ul><li>**Intro only**</li><li>**SLUS-20138**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (crashes right after showing Ubisoft logo)</li></ul>
 |Rayman Arena|<ul><li>**Nothing/Crash**</li><li>**SLUS-20272**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
