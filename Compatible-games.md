@@ -32,9 +32,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 -->
 
 ### 
-## Windows/OS X##
-| Game | Status |
-|------|--------|
+
 ## Android ##
 |Game|Status|
 |----|------|
@@ -43,7 +41,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Bakugan: Battle Brawlers|<ul><li>**In-game**</li><li>**SLUS-21902**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (in order to get in-game at this point, you have to skip a select number of intro videos or else the emulator will freeze, and you have to skip some very quickly; otherwise, it works just fine, but it's extremely slow and stalls a lot during battles)</li></ul>
 |Bee Movie Game|<ul><li>**Intro only**</li><li>**SLUS-21622**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes during memory card check)</li></ul>
 |Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
-|Blood Omen 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20024**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Breath of Fire: Dragon Quarter|<ul><li>**In-game**</li><li>**SLUS-20499**</li><li>Tested: **26-June-2016**</li><li>Notes: (To go in-game, you have to press X and interrupt the saving process. If you don't, the loading loops.)</li></ul>
 |Bolt|<ul><li>**Intro only**</li><li>**SLUS-21844**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (crashes after Disney logo)</li></ul>
 |Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
@@ -77,10 +74,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Snoopy vs. The Red Baron|<ul><li>**Title Screen**</li><li>**SLUS-21380**</li><li>Tested: **28-Jan-2017**</li></ul>
 |Super Monkey Ball Deluxe|<ul><li>**Loadable with FPS,but shows nothing**</li><li>**SLUS-20918**</li><li>Tested: **25-Aug-2015**</li><li>Notes: N/A</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
-|Tomb Raider: Underworld|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-21858**</li><li>Tested: **31-Aug-2017**</li></ul>
-|Tom & Jerry in War of the Whiskers|<ul><li>**In-game**</li><li>**SLUS-20355**</li><li>Tested: **24-May-2015**</li><li>Notes: (major graphics issues/screen is off-centered)</li></ul>
-|Ty Tasmanian Ty Tasmanian 2|<ul><li>**Loadable with FPS, but shows nothing**</li><li>Tested: **10-Dec-2015**</li></ul>
-|Whiplash|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20684**</li><li>Tested: **28-Jun-2015**</li></ul>
 |WWF SmackDown! Just Bring It|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20316**</li><li>Tested: **23-Aug-2015**</li><li>Notes: N/A</li></ul>
 |Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20892**</li><li>Tested: **12-Jul-2015**</li><li>Notes: (stuck at loading screen after new game)</li></ul>
 |Ys 1 & 2: Eternal Story|<ul><li>**In-game**</li><li>**SLPS-25206**</li><li>Tested: **31-May-2015**</li><li>Notes: (can't see field/characters/objects; just a black area; graphics issue)</li></ul>
