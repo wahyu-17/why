@@ -36,10 +36,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 ## Android ##
 |Game|Status|
 |----|------|
-|Bakugan: Battle Brawlers|<ul><li>**In-game**</li><li>**SLUS-21902**</li><li>Tested: **05-Jul-2015**</li><li>Notes: (in order to get in-game at this point, you have to skip a select number of intro videos or else the emulator will freeze, and you have to skip some very quickly; otherwise, it works just fine, but it's extremely slow and stalls a lot during battles)</li></ul>
 |Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |Breath of Fire: Dragon Quarter|<ul><li>**In-game**</li><li>**SLUS-20499**</li><li>Tested: **26-June-2016**</li><li>Notes: (To go in-game, you have to press X and interrupt the saving process. If you don't, the loading loops.)</li></ul>
-|Bouncer, The|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20069**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |Bust A Block|<ul><li>**Menu/Title screen only**</li><li>**SLES-51713**</li><li>Tested: **15-JuL-2015**</li></ul>
 |Butt-Ugly Martians: Zoom or Doom!|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SLUS-20527**</li><li>Tested: **14-Jun-2015**</li></ul>
 |Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul>
@@ -49,9 +47,7 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
 |Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
 |Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
-|Hunter - The Reckoning Wayward|<ul><li>**Intro only**</li><li>**SLUS-20511**</li><li>Tested: **26-Jun-2016**</li><li>Notes: (N/A)</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
-|Malice|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20385**</li><li>Tested: **14-Nov-2015**</li><li>Notes:(Loading times are extreme long and game has graphicial issues at the main menu)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
