@@ -44,9 +44,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Death by Degrees|<ul><li>**Nothing/Crash**</li><li>**SLUS-20934**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A)</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
 |Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
-|Dynasty Warriors 4|<ul><li>**In-game**</li><li>**SLUS-20653**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Musou Mode, but the other modes that I've tried so far lead to a black screen.)</li></ul>
-|Dynasty Warriors 4: Xtreme Legends|<ul><li>**In-game**</li><li>**SLUS-20812**</li><li>Tested: **29-May-2016**</li><li>Notes: (I can only play Legend Mode.)</li></ul>
-|Hot Shots Golf 3|<ul><li>**Loadable with FPS, but shows nothing**</li><li>**SCUS-97130**</li><li>Tested: **02-Aug-2015**</li><li>Notes: (screen flashes but nothing else)</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
