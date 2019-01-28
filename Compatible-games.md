@@ -36,10 +36,8 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 ## Android ##
 |Game|Status|
 |----|------|
-|Breath of Fire: Dragon Quarter|<ul><li>**In-game**</li><li>**SLUS-20499**</li><li>Tested: **26-June-2016**</li><li>Notes: (To go in-game, you have to press X and interrupt the saving process. If you don't, the loading loops.)</li></ul>
 |Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
-|Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
 |Lotus Challenge|<ul><li>**In-game**</li><li>Tested: **14-Aug-2017**</li><li>Notes: (Menu: Avg:5fps Max:16fps) (In-game: Avg:1fps Max:2fps)</li></ul>
 |Monster Hunter|<ul><li>**Nothing/Crash**</li><li>**SLUS-20896**</li><li>Tested: **07-Jun-2015**</li></ul>
 |MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
@@ -62,5 +60,3 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Downhill Slalom|<ul><li>**nothing/crash**</li><li>**Unknown**</li><li>Tested: **29-Jul-2015**</li></ul>
 |Go Go Golf|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **26-Jul-2015**</li></ul>
 |Shrek the Third|<ul><li>**Nothing/crash**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
-|Spyro - A Hero's Tail|<ul><li>**Nothing/Crash**</li><li>**SLUS-20884**</li><li>Tested: **26-Jul-2015**</li></ul>
-|Spyro - Enter the Dragonfly|<ul><li>**Intro only**</li><li>**Unknown**</li><li>Tested: **30-Jul-2015**</li></ul>
