@@ -38,7 +38,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |----|------|
 |Black/Matrix II|<ul><li>**Menu/Title screen only**</li><li>**SLPS-20187**</li><li>Tested: **04-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
 |Breath of Fire: Dragon Quarter|<ul><li>**In-game**</li><li>**SLUS-20499**</li><li>Tested: **26-June-2016**</li><li>Notes: (To go in-game, you have to press X and interrupt the saving process. If you don't, the loading loops.)</li></ul>
-|Bust A Block|<ul><li>**Menu/Title screen only**</li><li>**SLES-51713**</li><li>Tested: **15-JuL-2015**</li></ul>
 |Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul>
 |Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
 |Duel Masters: Limited Edition (a.k.a: Colbat)|<ul><li>**In-Game**</li><li>**SLES-20924**</li><li>Tested: **18/8/17 on Galaxy Note 4**</li><li>Notes: App crashes when entering a Duel (Advanced 3D rendering?)</li></ul>
