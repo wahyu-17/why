@@ -37,10 +37,6 @@ You can get the serial from the titlebar of the Play! window: SLUS_200.14;1 => S
 |Game|Status|
 |----|------|
 |Castle Shikigami 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20962**</li><li>Tested: **23-Aug-2015**</li></ul>
-|Desire|<ul><li>**In-game**</li><li>**SLPS-25392**</li><li>Tested: **29-May-2016**</li><li>Notes: (It's an obscure graphic novel. So, I guess it's ingame.)</li></ul>
-|MS Saga: A New Dawn|<ul><li>**In-game**</li><li>**SLUS-21270**</li><li>Tested: **29-May-2016**</li><li>Notes: (N/A Yet)</li></ul>
-|NBA 2K3|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20476**</li><li>Tested: **22-Jul-2015**</li></ul>
-|Romancing SaGa|<ul><li>**In-game**</li><li>**SLUS-21263**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I don't know about the rest, but I was capable of going in-game with Albert)</li></ul>
 |RPG Maker 2|<ul><li>**Menu/Title screen only**</li><li>**SLUS-20340**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (I'm not sure what "In-game" is for this type of game, but it goes far)</li></ul>
 |RPG Maker 3|<ul><li>**Nothing/Crash**</li><li>**SLUS-21178**</li><li>Tested: **09-Jul-2015**</li><li>Notes: (N/A Yet)</li></ul>
 |The Bigs 2|<ul><li>**Intro only**</li><li>**SLUS-21860**</li><li>Tested: **07-Jun-2015**</li><li>Notes: (black screen hang after logos)</li></ul>
