@@ -1,1 +1,0 @@
-Compatibility info moved to https://github.com/jpd002/Play-Compatibility/
