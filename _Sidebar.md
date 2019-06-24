@@ -1,1 +1,1 @@
-https://github.com/jpd002/Play-.wiki.git
+https://m.emuparadise.me/Sony_Playstation_2_ISOs/God_of_War_II_(USA)/150564-download
